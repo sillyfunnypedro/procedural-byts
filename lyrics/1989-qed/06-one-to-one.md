@@ -2,6 +2,8 @@
 
 **Q.E.D.** (1989), track 6
 
+[▶ Listen on Suno](https://suno.com/song/8e5e5b47-6aae-4a08-a7a7-2fa58c9a222c)
+
 > The most fun the band had in 1989. Nyble and Wyrd rehearsed the solo for a month without ever repeating a pairing.
 
 ## Lyrics

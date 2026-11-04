@@ -2,6 +2,8 @@
 
 **Q.E.D.** (1989), track 3
 
+[▶ Listen on Suno](https://suno.com/song/f811cf73-8ea9-449c-8ca3-55d929f696d1)
+
 > The darkest song on the album, and the first time the band sang about Byt on a record.
 
 ## Lyrics

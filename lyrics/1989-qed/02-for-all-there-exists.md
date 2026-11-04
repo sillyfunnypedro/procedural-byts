@@ -2,6 +2,8 @@
 
 **Q.E.D.** (1989), track 2
 
+[▶ Listen on Suno](https://suno.com/song/90ddcaee-17fd-49ec-8760-053334557e5d)
+
 > Wyrd’s orchestral synths debut here. The studio had to bring in a second power circuit.
 
 ## Lyrics

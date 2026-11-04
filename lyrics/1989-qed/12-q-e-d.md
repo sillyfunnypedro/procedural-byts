@@ -2,6 +2,8 @@
 
 **Q.E.D.** (1989), track 12
 
+[▶ Listen on Suno](https://suno.com/song/d27f1584-6fe5-466b-92d7-2561ce6f41ad)
+
 > The base case was behind them the whole time.
 
 ## Lyrics

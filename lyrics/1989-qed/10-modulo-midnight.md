@@ -2,6 +2,8 @@
 
 **Q.E.D.** (1989), track 10
 
+[▶ Listen on Suno](https://suno.com/song/945e9473-35e4-4df9-a4fe-40ce44a9e710)
+
 > Wyrd’s twelve-note loop and Bytes’s five-beat pattern line up only once every sixty beats. The band counted.
 
 ## Lyrics

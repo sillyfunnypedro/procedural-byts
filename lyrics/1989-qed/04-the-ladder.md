@@ -2,6 +2,8 @@
 
 **Q.E.D.** (1989), track 4
 
+[▶ Listen on Suno](https://suno.com/song/f6408a8e-84e0-43d8-8092-f7f217d3f0d8)
+
 > Byt’s line from the bottom of the duck is in the chorus. The song ends without resolving, because the proof doesn’t either.
 
 ## Lyrics

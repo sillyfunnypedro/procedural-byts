@@ -2,6 +2,8 @@
 
 **Q.E.D.** (1989), track 7
 
+[▶ Listen on Suno](https://suno.com/song/7d178ac1-3448-4521-a40a-8a6f92bf8c80)
+
 > Thirteen beats, twelve slots. Bytes tried it nine different ways.
 
 ## Lyrics

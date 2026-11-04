@@ -2,6 +2,8 @@
 
 **Q.E.D.** (1989), track 11
 
+[▶ Listen on Suno](https://suno.com/song/eec8c73f-1381-4313-91c9-2713de7128cb)
+
 > Written in four movements, one for each piece of land in Königsberg.
 
 ## Lyrics

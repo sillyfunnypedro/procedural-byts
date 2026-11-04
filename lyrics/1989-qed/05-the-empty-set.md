@@ -2,6 +2,8 @@
 
 **Q.E.D.** (1989), track 5
 
+[▶ Listen on Suno](https://suno.com/song/40fd4fc0-8efb-4288-a55e-1bc57e93b808)
+
 > Opens on the sound of Byt’s empty guitar stand being moved to the center of the stage.
 
 ## Lyrics

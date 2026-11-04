@@ -2,6 +2,8 @@
 
 **Q.E.D.** (1989), track 8
 
+[▶ Listen on Suno](https://suno.com/song/287958b3-7deb-4b21-90f3-6e34337af5ee)
+
 > Sixty-three guitarists auditioned before Qword. Qword was the sixty-fourth, and considers that a sign.
 
 ## Lyrics

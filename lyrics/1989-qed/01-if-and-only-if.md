@@ -2,6 +2,8 @@
 
 **Q.E.D.** (1989), track 1
 
+[▶ Listen on Suno](https://suno.com/song/9993f2a7-d832-4bd2-87e6-774296fcb21a)
+
 > The first song recorded after Byt flipped, and Qword’s first take with the band.
 
 ## Lyrics

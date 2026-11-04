@@ -2,6 +2,8 @@
 
 **Q.E.D.** (1989), track 9
 
+[▶ Listen on Suno](https://suno.com/song/927cd80d-5689-49cf-ba97-cc824dfc445f)
+
 > Recorded the night the band played cards to decide the running order. Nyble won. Nobody was surprised.
 
 ## Lyrics
