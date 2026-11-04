@@ -18,7 +18,7 @@ The static site lives in [`docs/`](docs/) and is ready for GitHub Pages:
 
 The site will be at `https://<your-username>.github.io/<repository-name>/`.
 
-`docs/index.html` is the band home page: discography, members, trivia and curriculum coverage. Each album has a self-contained page in `docs/albums/` with lyrics, liner notes, lessons and copy buttons for every Suno prompt.
+`docs/index.html` is the landing page: a table of every album with its Suno playlist. `docs/about.html` has the full discography, members, trivia and curriculum coverage. Each album has a self-contained page in `docs/albums/` with lyrics, liner notes, lessons and copy buttons for every Suno prompt.
 
 ## What’s in here
 

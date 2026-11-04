@@ -13,6 +13,7 @@ What it does:
   * docs/albums/<slug>.html: adds the same fields to the embedded SONGS data,
     plus (once per page) the CSS and JS that show the Listen links
   * lyrics/<year>-<slug>/NN-*.md: adds a "Listen on Suno" line
+  * docs/index.html: rebuilds the landing page (tools/build_landing.py)
 
 It is safe to re-run: links are replaced, the page patch is applied once.
 If any track can't be matched, nothing is written. Override a match with
@@ -177,6 +178,10 @@ def main():
         print(("would write " if a.dry_run else "wrote ") + os.path.relpath(path, ROOT))
         if not a.dry_run:
             open(path, "w", encoding="utf-8").write(text)
+    if not a.dry_run:
+        sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+        import build_landing
+        print("wrote " + os.path.relpath(build_landing.build(), ROOT))
 
 
 if __name__ == "__main__":
