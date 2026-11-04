@@ -2,6 +2,8 @@
 
 **Kernel Panic** (1976), track 9
 
+[▶ Listen on Suno](https://suno.com/song/ef3bc4ef-1225-47cb-ad32-7b279f588983)
+
 > Bytes’s drum kit was split between the studio and a storage room down the hall. The roadie ran a lot.
 
 ## Lyrics

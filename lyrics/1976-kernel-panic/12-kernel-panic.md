@@ -2,6 +2,8 @@
 
 **Kernel Panic** (1976), track 12
 
+[▶ Listen on Suno](https://suno.com/song/bbc0c02a-f5cd-4f05-9d88-b360dd21de75)
+
 > The tape machine crashed on the last day. The band recorded this in one take while it rebooted.
 
 ## Lyrics

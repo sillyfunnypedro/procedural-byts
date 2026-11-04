@@ -2,6 +2,8 @@
 
 **Kernel Panic** (1976), track 4
 
+[▶ Listen on Suno](https://suno.com/song/25f8f3fa-00e3-4e13-885d-8f77d3c8dbe8)
+
 > Each member gets exactly four bars of the solo and then gets cut off, ready or not.
 
 ## Lyrics

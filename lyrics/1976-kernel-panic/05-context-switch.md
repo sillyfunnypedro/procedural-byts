@@ -2,6 +2,8 @@
 
 **Kernel Panic** (1976), track 5
 
+[▶ Listen on Suno](https://suno.com/song/b5804b33-c80a-4789-8ba3-fa223c4b8a88)
+
 > The hardest song on the album to play live. Byt has to keep two solos in his head at once.
 
 ## Lyrics

@@ -2,6 +2,8 @@
 
 **Kernel Panic** (1976), track 3
 
+[▶ Listen on Suno](https://suno.com/song/d77d54fd-21e7-4d61-8a58-88a37128896d)
+
 > Byt tried to fork himself during the sessions to play two parts at once. The child process hung around the studio for days eating sandwiches until Nyble reaped it.
 
 ## Lyrics

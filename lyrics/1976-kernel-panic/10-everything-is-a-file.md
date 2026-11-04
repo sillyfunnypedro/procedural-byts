@@ -2,6 +2,8 @@
 
 **Kernel Panic** (1976), track 10
 
+[▶ Listen on Suno](https://suno.com/song/b0f2ba95-6c54-413c-91ec-4faeef7690bc)
+
 > The only song where all three members sing the whole chorus together.
 
 ## Lyrics

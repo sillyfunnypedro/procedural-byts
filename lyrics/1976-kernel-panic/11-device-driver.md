@@ -2,6 +2,8 @@
 
 **Kernel Panic** (1976), track 11
 
+[▶ Listen on Suno](https://suno.com/song/73a6aebc-ff78-47eb-8caa-1b7b28a7fced)
+
 > Recorded through three different amplifiers. You shouldn’t be able to tell.
 
 ## Lyrics

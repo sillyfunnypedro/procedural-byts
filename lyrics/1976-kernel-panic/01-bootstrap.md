@@ -2,6 +2,8 @@
 
 **Kernel Panic** (1976), track 1
 
+[▶ Listen on Suno](https://suno.com/song/bdbb7a99-8764-4761-a769-4a6450b3730c)
+
 > Each instrument starts the next, the way each stage of a boot loads the one after it.
 
 ## Lyrics

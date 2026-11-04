@@ -2,6 +2,8 @@
 
 **Kernel Panic** (1976), track 7
 
+[▶ Listen on Suno](https://suno.com/song/300ab711-e717-407e-9474-8e6accab1b34)
+
 > The recording sessions deadlocked for three weeks. This song is how they got out.
 
 ## Lyrics

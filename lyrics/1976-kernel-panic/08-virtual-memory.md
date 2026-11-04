@@ -2,6 +2,8 @@
 
 **Kernel Panic** (1976), track 8
 
+[▶ Listen on Suno](https://suno.com/song/22610ed5-1ff0-4e8a-9cf8-8aadfab648ab)
+
 > Byt’s solo sounds like it covers the whole neck. It doesn’t.
 
 ## Lyrics

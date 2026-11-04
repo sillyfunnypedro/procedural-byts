@@ -2,6 +2,8 @@
 
 **Kernel Panic** (1976), track 6
 
+[▶ Listen on Suno](https://suno.com/song/863df041-6687-4fbd-9fac-71d76526b7d7)
+
 > The studio had one good microphone. This song is about that microphone.
 
 ## Lyrics

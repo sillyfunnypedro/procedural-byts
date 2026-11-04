@@ -2,6 +2,8 @@
 
 **Kernel Panic** (1976), track 2
 
+[▶ Listen on Suno](https://suno.com/song/15665e7f-afbe-4b44-9a8b-08e2cbf7e654)
+
 > Byt had to ask permission before every loud note. It was the longest he had ever gone without breaking anything.
 
 ## Lyrics
