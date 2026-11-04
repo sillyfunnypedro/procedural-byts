@@ -2,6 +2,8 @@
 
 **Gradient Descent** (2019), track 9
 
+[▶ Listen on Suno](https://suno.com/song/70374b20-8f94-447f-8394-8ff1f4a1c9e7)
+
 > Procedural Bots was trained only on the band’s songs, so it thought all music was about computer science.
 
 ## Lyrics

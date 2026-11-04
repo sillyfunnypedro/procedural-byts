@@ -2,6 +2,8 @@
 
 **Gradient Descent** (2019), track 12
 
+[▶ Listen on Suno](https://suno.com/song/30f4bef2-b729-47e1-b136-8d9c6e5bfb10)
+
 > Procedural Bots topped the charts for a week. Then fans noticed every song had a duck in it, and every duck had five legs.
 
 ## Lyrics

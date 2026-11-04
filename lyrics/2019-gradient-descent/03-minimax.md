@@ -2,6 +2,8 @@
 
 **Gradient Descent** (2019), track 3
 
+[▶ Listen on Suno](https://suno.com/song/7b967430-f3b8-4a84-bf00-c9a0c83d84ce)
+
 > In 1997, a computer beat the world chess champion. In 2019, the band played chess against the tour bus navigation system. It lost, but only because Bytes moved its pieces.
 
 ## Lyrics

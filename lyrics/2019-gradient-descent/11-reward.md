@@ -2,6 +2,8 @@
 
 **Gradient Descent** (2019), track 11
 
+[▶ Listen on Suno](https://suno.com/song/3ec72a88-5aa7-41e6-bd72-149991aa0c32)
+
 > In 2016, a program taught itself to play Go well enough to beat one of the best players in the world. The band taught Bytes a new drum fill the same way, with snacks.
 
 ## Lyrics

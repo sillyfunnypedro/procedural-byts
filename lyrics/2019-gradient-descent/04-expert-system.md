@@ -2,6 +2,8 @@
 
 **Gradient Descent** (2019), track 4
 
+[▶ Listen on Suno](https://suno.com/song/825fa3fa-644f-4333-ab30-48fab5af42f5)
+
 > In the 1980s, the band’s label tried to replace its accountant with a program made of rules. It is still running.
 
 ## Lyrics

@@ -2,6 +2,8 @@
 
 **Gradient Descent** (2019), track 7
 
+[▶ Listen on Suno](https://suno.com/song/78d2cd3e-28fc-42df-9bc5-e7937e5a602d)
+
 > The graphics cards from Rasterize, back in 2004, are the reason this album could exist. Neural networks run on them.
 
 ## Lyrics

@@ -2,6 +2,8 @@
 
 **Gradient Descent** (2019), track 10
 
+[▶ Listen on Suno](https://suno.com/song/501fb40a-2bfc-4253-8c37-9c41a7354f1a)
+
 > Wyrd let an algorithm sort the band’s fans by what they bought at the merch table. It found three groups: T-shirt people, poster people and duck people. The duck people were the largest.
 
 ## Lyrics

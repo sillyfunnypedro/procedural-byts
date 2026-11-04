@@ -2,6 +2,8 @@
 
 **Gradient Descent** (2019), track 5
 
+[▶ Listen on Suno](https://suno.com/song/6aa8253e-c04f-443f-b1f9-42bcceabbfc7)
+
 > Wyrd built a spam filter for the band’s fan mail. It sent every letter that mentioned a duck to the spam folder. It took a week to find them.
 
 ## Lyrics

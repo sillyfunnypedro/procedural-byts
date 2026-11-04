@@ -2,6 +2,8 @@
 
 **Gradient Descent** (2019), track 6
 
+[▶ Listen on Suno](https://suno.com/song/b2e5f171-3c44-4e0d-a31a-58a6d37d0451)
+
 > The label trained Procedural Bots on every song the band ever recorded, including Bytes’s practice tapes. That’s why the AI band was always a beat early.
 
 ## Lyrics

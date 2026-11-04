@@ -2,6 +2,8 @@
 
 **Gradient Descent** (2019), track 1
 
+[▶ Listen on Suno](https://suno.com/song/95c57e46-125e-43e8-bf11-cdceef2ab2cc)
+
 > Alan Turing called it the imitation game. The band played it with fans in 2019, using one of its own songs and one by Procedural Bots.
 
 ## Lyrics

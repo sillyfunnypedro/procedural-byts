@@ -2,6 +2,8 @@
 
 **Gradient Descent** (2019), track 8
 
+[▶ Listen on Suno](https://suno.com/song/4c44c698-d851-483b-8717-357fa79e0e47)
+
 > The title track. The melody walks downhill one step at a time and lands on the lowest note on the album.
 
 ## Lyrics

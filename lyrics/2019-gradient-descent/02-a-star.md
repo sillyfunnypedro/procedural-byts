@@ -2,6 +2,8 @@
 
 **Gradient Descent** (2019), track 2
 
+[▶ Listen on Suno](https://suno.com/song/cb0b9ef9-726c-4de8-8854-2dc42e60a41f)
+
 > The 2019 tour bus finally had a navigation system. Bytes named it after the algorithm inside it.
 
 ## Lyrics
