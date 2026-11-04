@@ -1,5 +1,7 @@
 # Procedural Byts
 
+> **This project is complete, and no further development is planned.** Pull requests are turned off and contributions are not accepted. You're welcome to fork it under the licenses below.
+
 A fictional metal band whose albums cover the computer science curriculum, one decade and one genre at a time.
 
 Each album covers one knowledge area from the ACM/IEEE-CS/AAAI **CS2023** curriculum. Every song teaches one concept, every solo acts it out, and every song comes with a ready-to-paste [Suno](https://suno.com) prompt.
