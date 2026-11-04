@@ -2,6 +2,8 @@
 
 **Third Normal Form** (1992), track 11
 
+[▶ Listen on Suno](https://suno.com/song/fe2dd06d-bf52-4355-9357-00816381d8dc)
+
 > The band’s only song with a chemistry warning on the sleeve. The warning is incorrect.
 
 ## Lyrics

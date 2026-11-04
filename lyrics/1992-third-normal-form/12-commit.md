@@ -2,6 +2,8 @@
 
 **Third Normal Form** (1992), track 12
 
+[▶ Listen on Suno](https://suno.com/song/dcc9bfc6-4bc6-4606-b41d-49c871877def)
+
 > The night they finished the album, the band threw away three of the four setlists and kept one. Everyone else refers to it by number.
 
 ## Lyrics

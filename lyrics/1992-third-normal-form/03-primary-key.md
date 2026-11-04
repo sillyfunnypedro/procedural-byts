@@ -2,6 +2,8 @@
 
 **Third Normal Form** (1992), track 3
 
+[▶ Listen on Suno](https://suno.com/song/deaa71dc-2e9e-4d79-b8e7-206a5eb2345a)
+
 > Every member got an ID number during these sessions. Bytes is number one. He chose it.
 
 ## Lyrics

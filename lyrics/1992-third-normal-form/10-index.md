@@ -2,6 +2,8 @@
 
 **Third Normal Form** (1992), track 10
 
+[▶ Listen on Suno](https://suno.com/song/efb4ad8b-fdae-43e3-97b2-2bce91f1d78a)
+
 > Recorded in one take, because Bytes could always jump straight to his place in the song.
 
 ## Lyrics

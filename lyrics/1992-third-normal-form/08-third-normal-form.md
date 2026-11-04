@@ -2,6 +2,8 @@
 
 **Third Normal Form** (1992), track 8
 
+[▶ Listen on Suno](https://suno.com/song/123962c3-2bb6-4dd6-92cc-1e2b503735cc)
+
 > The title track. The chorus is an old database designer’s oath, and the band swears by it.
 
 ## Lyrics

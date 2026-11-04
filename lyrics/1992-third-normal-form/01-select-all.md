@@ -2,6 +2,8 @@
 
 **Third Normal Form** (1992), track 1
 
+[▶ Listen on Suno](https://suno.com/song/e8e2dfdd-3173-4b29-af97-9c568598d865)
+
 > The first song recorded without synthesizers in seven years. Wyrd played it on a church-sale organ.
 
 ## Lyrics

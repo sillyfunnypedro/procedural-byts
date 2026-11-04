@@ -2,6 +2,8 @@
 
 **Third Normal Form** (1992), track 2
 
+[▶ Listen on Suno](https://suno.com/song/f7003b27-2e0d-4486-9b40-746d3ee584bf)
+
 > Drawn on a napkin first. The napkin is on the back cover.
 
 ## Lyrics

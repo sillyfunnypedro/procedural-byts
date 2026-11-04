@@ -2,6 +2,8 @@
 
 **Third Normal Form** (1992), track 6
 
+[▶ Listen on Suno](https://suno.com/song/21df1cf8-27f7-4560-a377-9cf26be78378)
+
 > The crowd chant was recorded while counting the band’s fan mail, one bag at a time.
 
 ## Lyrics

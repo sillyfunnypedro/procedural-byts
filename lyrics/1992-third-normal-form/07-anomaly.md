@@ -2,6 +2,8 @@
 
 **Third Normal Form** (1992), track 7
 
+[▶ Listen on Suno](https://suno.com/song/898880ad-d5a3-4482-a762-6c8c0531f075)
+
 > About the four setlists. Every night, somebody played the wrong song.
 
 ## Lyrics

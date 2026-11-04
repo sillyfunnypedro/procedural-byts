@@ -2,6 +2,8 @@
 
 **Third Normal Form** (1992), track 9
 
+[▶ Listen on Suno](https://suno.com/song/034a8486-4d65-45ee-bcaf-157f64315684)
+
 > Null finally got a song. The band asked the duck whether it was equal to itself. The duck said nothing, which, according to the database, is the correct answer.
 
 ## Lyrics

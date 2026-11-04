@@ -2,6 +2,8 @@
 
 **Third Normal Form** (1992), track 4
 
+[▶ Listen on Suno](https://suno.com/song/7b9e5610-eb6e-41ad-9e00-234dc955e82f)
+
 > The first song where the band’s setlists started pointing at each other instead of copying each other.
 
 ## Lyrics

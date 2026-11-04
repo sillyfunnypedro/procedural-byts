@@ -2,6 +2,8 @@
 
 **Third Normal Form** (1992), track 5
 
+[▶ Listen on Suno](https://suno.com/song/ce6f81af-7d49-4585-a967-0a3cc3c65da9)
+
 > The most requested song of 1992. It is about tables.
 
 ## Lyrics
