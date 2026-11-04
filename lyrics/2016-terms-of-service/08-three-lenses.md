@@ -2,6 +2,8 @@
 
 **Terms of Service** (2016), track 8
 
+[▶ Listen on Suno](https://suno.com/song/f2d14ca8-de2b-4916-bdfc-6265357bf3b5)
+
 > Written as three movements, one for each lens. Nobody in the band agrees which one is right. That’s the point.
 
 ## Lyrics

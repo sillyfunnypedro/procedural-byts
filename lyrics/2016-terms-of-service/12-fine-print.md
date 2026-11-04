@@ -2,6 +2,8 @@
 
 **Terms of Service** (2016), track 12
 
+[▶ Listen on Suno](https://suno.com/song/04e089c7-d058-447d-bde2-bbd542080417)
+
 > The band renegotiated the 1970 contract and got the rights to Null back. They released the duck’s likeness under a Creative Commons license. Attribution required.
 
 ## Lyrics

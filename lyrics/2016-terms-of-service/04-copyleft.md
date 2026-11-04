@@ -2,6 +2,8 @@
 
 **Terms of Service** (2016), track 4
 
+[▶ Listen on Suno](https://suno.com/song/3c5096d3-828a-4cb7-99aa-b232c298a17f)
+
 > The band published the code for its website under an open license during these sessions. Strangers fixed three bugs in the first week.
 
 ## Lyrics

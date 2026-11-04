@@ -2,6 +2,8 @@
 
 **Terms of Service** (2016), track 5
 
+[▶ Listen on Suno](https://suno.com/song/cef587a8-157a-4828-acae-83e15a17aaca)
+
 > The most serious song the band has recorded. There are no jokes in this one.
 
 ## Lyrics

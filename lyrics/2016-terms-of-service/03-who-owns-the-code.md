@@ -2,6 +2,8 @@
 
 **Terms of Service** (2016), track 3
 
+[▶ Listen on Suno](https://suno.com/song/50697301-da14-43a6-b6d5-d0b5bd6c8243)
+
 > Qword discovered that the label owned the riff Qword played at the 1988 audition, because it was played in the label’s studio.
 
 ## Lyrics

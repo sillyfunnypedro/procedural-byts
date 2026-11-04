@@ -2,6 +2,8 @@
 
 **Terms of Service** (2016), track 7
 
+[▶ Listen on Suno](https://suno.com/song/449cb175-2206-4b13-ad20-642e055d63d0)
+
 > The band read the ACM Code of Ethics aloud in the studio before recording. Bytes asked if it applied to drummers. It does.
 
 ## Lyrics

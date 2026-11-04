@@ -2,6 +2,8 @@
 
 **Terms of Service** (2016), track 9
 
+[▶ Listen on Suno](https://suno.com/song/e1168ad8-f72c-4c24-98f8-71eb88e751ec)
+
 > The band looked at who had been in the room for forty-six years of recording. It was mostly the same kind of people. They started asking who was missing.
 
 ## Lyrics

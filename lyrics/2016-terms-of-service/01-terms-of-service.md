@@ -2,6 +2,8 @@
 
 **Terms of Service** (2016), track 1
 
+[▶ Listen on Suno](https://suno.com/song/91e520fa-3e98-474c-8f7b-f346e608a2e8)
+
 > Bytes had clicked “I agree” on behalf of the band four thousand times. He had read none of them.
 
 ## Lyrics

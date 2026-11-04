@@ -2,6 +2,8 @@
 
 **Terms of Service** (2016), track 11
 
+[▶ Listen on Suno](https://suno.com/song/7e7e0a54-b98d-4b8f-bcc0-6c6843e19e48)
+
 > The band knows what it is to be replaced. They lost Byt in 1988. This song is about everyone else.
 
 ## Lyrics

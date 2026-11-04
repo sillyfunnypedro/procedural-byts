@@ -2,6 +2,8 @@
 
 **Terms of Service** (2016), track 2
 
+[▶ Listen on Suno](https://suno.com/song/8442d20b-1bf9-492b-a74c-8a51608cfa83)
+
 > The band’s app had been sending fans’ locations to an advertising library nobody remembered adding. Wyrd found it.
 
 ## Lyrics

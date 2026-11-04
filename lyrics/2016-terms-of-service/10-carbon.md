@@ -2,6 +2,8 @@
 
 **Terms of Service** (2016), track 10
 
+[▶ Listen on Suno](https://suno.com/song/568a83e3-18af-4b49-92e2-0a03e9cce815)
+
 > The band calculated the power used by its servers, its tour and the fridge version. The fridge was the smallest number. The tour was the biggest.
 
 ## Lyrics
