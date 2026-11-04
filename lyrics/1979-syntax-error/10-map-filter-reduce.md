@@ -2,6 +2,8 @@
 
 **Syntax Error** (1979), track 10
 
+[▶ Listen on Suno](https://suno.com/song/2ce9b401-a48b-409f-bf73-bab82c6e1e82)
+
 > Side B, no guitar. Bytes calls this the drum album. On this song, he is not wrong.
 
 ## Lyrics

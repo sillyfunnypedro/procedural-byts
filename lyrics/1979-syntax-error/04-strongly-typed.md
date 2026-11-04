@@ -2,6 +2,8 @@
 
 **Syntax Error** (1979), track 4
 
+[▶ Listen on Suno](https://suno.com/song/47e24ee5-cc61-4376-9a83-84b73ec7ab5a)
+
 > Side A. Nyble’s answer to every argument the band had in 1979.
 
 ## Lyrics

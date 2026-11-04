@@ -2,6 +2,8 @@
 
 **Syntax Error** (1979), track 12
 
+[▶ Listen on Suno](https://suno.com/song/b89f2fc3-6dea-433b-9d13-cd7dc64cacd1)
+
 > Side B, guitar returns. Byt came back for the closer, on the grounds that a paradigm shift is the biggest side effect there is.
 
 ## Lyrics

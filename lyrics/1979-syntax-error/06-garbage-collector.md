@@ -2,6 +2,8 @@
 
 **Syntax Error** (1979), track 6
 
+[▶ Listen on Suno](https://suno.com/song/d3943265-ae2d-40f7-99a7-8439ee547552)
+
 > Side A. The last song on Side A, and the last guitar Byt plays until the final track.
 
 ## Lyrics

@@ -2,6 +2,8 @@
 
 **Syntax Error** (1979), track 8
 
+[▶ Listen on Suno](https://suno.com/song/31ad3e16-4f98-4b0d-a748-b90e5a85a39d)
+
 > Side B, no guitar. The song Byt refused to play on. The title is why.
 
 ## Lyrics

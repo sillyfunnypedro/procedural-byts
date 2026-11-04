@@ -2,6 +2,8 @@
 
 **Syntax Error** (1979), track 1
 
+[▶ Listen on Suno](https://suno.com/song/6d63f40c-7930-48e4-bab4-6cdacc9936fc)
+
 > Side A. The opening riff is the album’s source code, read one token at a time.
 
 ## Lyrics

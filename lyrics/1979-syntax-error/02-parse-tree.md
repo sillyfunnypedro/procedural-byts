@@ -2,6 +2,8 @@
 
 **Syntax Error** (1979), track 2
 
+[▶ Listen on Suno](https://suno.com/song/6565e679-20bd-49fc-89c1-32ec385aa281)
+
 > Side A. The most structured song on the album, by definition.
 
 ## Lyrics

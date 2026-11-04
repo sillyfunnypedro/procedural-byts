@@ -2,6 +2,8 @@
 
 **Syntax Error** (1979), track 3
 
+[▶ Listen on Suno](https://suno.com/song/38d40bc9-1029-4b4c-9a37-9b0411e480a2)
+
 > Side A. Byt plays the solo twice, two different ways. Most people can’t tell which one is which.
 
 ## Lyrics

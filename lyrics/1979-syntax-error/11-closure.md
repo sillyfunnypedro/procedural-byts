@@ -2,6 +2,8 @@
 
 **Syntax Error** (1979), track 11
 
+[▶ Listen on Suno](https://suno.com/song/e049a31e-5d8a-4529-b132-90177bda0fdb)
+
 > Side B, no guitar. The quietest song the band has ever recorded. It still isn’t quiet.
 
 ## Lyrics

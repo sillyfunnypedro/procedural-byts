@@ -2,6 +2,8 @@
 
 **Syntax Error** (1979), track 5
 
+[▶ Listen on Suno](https://suno.com/song/66607df9-3837-401f-b3d1-a516f9dc173a)
+
 > Side A. The vocals were recorded in three rooms, one inside the other.
 
 ## Lyrics

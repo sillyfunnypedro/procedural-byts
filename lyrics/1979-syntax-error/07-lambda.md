@@ -2,6 +2,8 @@
 
 **Syntax Error** (1979), track 7
 
+[▶ Listen on Suno](https://suno.com/song/b0fcbdfe-21b8-47f8-ab91-aa847b43b4dd)
+
 > Side B, no guitar. The first song on Side B. Byt sat this one out, and the next four.
 
 ## Lyrics

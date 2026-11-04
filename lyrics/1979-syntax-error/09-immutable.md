@@ -2,6 +2,8 @@
 
 **Syntax Error** (1979), track 9
 
+[▶ Listen on Suno](https://suno.com/song/97464e47-0610-498c-8d1d-6b3422aec54b)
+
 > Side B, no guitar. Nyble’s bass part was recorded once and never touched again. Everything else was built around it.
 
 ## Lyrics
