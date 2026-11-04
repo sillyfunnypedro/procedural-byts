@@ -2,6 +2,8 @@
 
 **Fetch, Decode, Execute** (1973), track 2
 
+[▶ Listen on Suno](https://suno.com/song/eb9dcbf6-e419-4646-b996-c4db76adf133)
+
 > Nyble’s favorite, because the bridge is about her.
 
 ## Lyrics

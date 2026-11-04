@@ -2,6 +2,8 @@
 
 **Fetch, Decode, Execute** (1973), track 12
 
+[▶ Listen on Suno](https://suno.com/song/f66bbde2-e189-4dff-8341-a489191cccfc)
+
 > The closer runs the album backwards, from the program down to the gates.
 
 ## Lyrics

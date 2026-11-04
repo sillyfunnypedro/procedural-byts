@@ -2,6 +2,8 @@
 
 **Fetch, Decode, Execute** (1973), track 6
 
+[▶ Listen on Suno](https://suno.com/song/a2e64386-fc1b-4c55-85a5-565326e51bb8)
+
 > The title track. The riff has three parts and never stops cycling, which is the point.
 
 ## Lyrics

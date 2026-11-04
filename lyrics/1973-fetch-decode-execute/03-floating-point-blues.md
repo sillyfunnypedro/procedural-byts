@@ -2,6 +2,8 @@
 
 **Fetch, Decode, Execute** (1973), track 3
 
+[▶ Listen on Suno](https://suno.com/song/c0b59b95-8b67-4556-9753-a898bd31f337)
+
 > Recorded in one take, which Byt says was close enough.
 
 ## Lyrics

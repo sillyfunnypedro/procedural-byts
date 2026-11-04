@@ -2,6 +2,8 @@
 
 **Fetch, Decode, Execute** (1973), track 8
 
+[▶ Listen on Suno](https://suno.com/song/69d4a9ca-ebaa-465c-b860-d6813d3a8827)
+
 > The longest song on the album. It gets slower every verse, on purpose.
 
 ## Lyrics

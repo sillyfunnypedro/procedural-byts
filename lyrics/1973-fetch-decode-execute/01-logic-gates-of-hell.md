@@ -2,6 +2,8 @@
 
 **Fetch, Decode, Execute** (1973), track 1
 
+[▶ Listen on Suno](https://suno.com/song/1ec3f8e5-1f32-4fb7-ba34-cb4514dfaf3f)
+
 > Opens with the sound of the mainframe powering up, recorded for real. The band says the hum is in tune.
 
 ## Lyrics

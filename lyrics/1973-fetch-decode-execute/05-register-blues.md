@@ -2,6 +2,8 @@
 
 **Fetch, Decode, Execute** (1973), track 5
 
+[▶ Listen on Suno](https://suno.com/song/fe03d135-7a42-4dfc-8997-f98be06f5e2d)
+
 > The shortest lyric sheet on the album. There are only so many registers.
 
 ## Lyrics

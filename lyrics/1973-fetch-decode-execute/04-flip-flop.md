@@ -2,6 +2,8 @@
 
 **Fetch, Decode, Execute** (1973), track 4
 
+[▶ Listen on Suno](https://suno.com/song/f03e2bdd-b48a-4f27-9e30-6ee5a6ddaccc)
+
 > Bytes learned during these sessions that he is made of eight flip-flops. He took it surprisingly well.
 
 ## Lyrics

@@ -2,6 +2,8 @@
 
 **Fetch, Decode, Execute** (1973), track 11
 
+[▶ Listen on Suno](https://suno.com/song/6ea9a58a-ddb6-4746-b6a4-abd6e6983fb9)
+
 > Byt’s amp really did start smoking during the solo. It’s still on the tape.
 
 ## Lyrics

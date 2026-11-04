@@ -2,6 +2,8 @@
 
 **Fetch, Decode, Execute** (1973), track 9
 
+[▶ Listen on Suno](https://suno.com/song/b6501f6d-0c55-4aed-b952-b2af1fe32003)
+
 > The engineer kept ringing a phone in the control room during the take. The band decided that was the song.
 
 ## Lyrics

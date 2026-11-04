@@ -2,6 +2,8 @@
 
 **Fetch, Decode, Execute** (1973), track 7
 
+[▶ Listen on Suno](https://suno.com/song/87b24d09-987d-4644-b4c2-37460dd1b9c0)
+
 > The last bar of the bridge is real. Null sat on the halt switch on the front panel and stopped the machine mid-take.
 
 ## Lyrics

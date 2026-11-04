@@ -2,6 +2,8 @@
 
 **Fetch, Decode, Execute** (1973), track 10
 
+[▶ Listen on Suno](https://suno.com/song/e7107314-010d-41cd-bc53-9ff92fd59c89)
+
 > Played as a round, so every bar has three parts of the riff happening at once.
 
 ## Lyrics
