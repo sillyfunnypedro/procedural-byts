@@ -1,0 +1,168 @@
+{
+  "name": "Procedural Byts",
+  "members": [
+    {
+      "name": "Nyble",
+      "role": "Lead vocals, bass guitar",
+      "years": "1970 to now",
+      "bio": "Four bits. Half a byte, one hex digit, and the voice of the band on every album."
+    },
+    {
+      "name": "Byt",
+      "role": "Lead guitar",
+      "years": "1970 to 1988, and 2024 in superposition",
+      "bio": "One bit. Flipped mid-solo in 1988; the band blames a cosmic ray. The band is named after him."
+    },
+    {
+      "name": "Bytes",
+      "role": "Drums, backing vocals",
+      "years": "1970 to now",
+      "bio": "Eight bits and eight flip-flops. Counts every loop out loud, raps, screams, growls, and was once told he could not be scaled up."
+    },
+    {
+      "name": "Wyrd",
+      "role": "Synthesizers, keytar, organ, turntables, piano",
+      "years": "1985 to now",
+      "bio": "Thirty-two bits. Answered a magazine ad that said “must align on word boundaries.” Remembers the exact bar Byt stopped on."
+    },
+    {
+      "name": "Qword",
+      "role": "Lead guitar",
+      "years": "1988 to now",
+      "bio": "Sixty-four bits. The sixty-fourth guitarist to audition. Went without guitar solos from 1992 to 2003 and has been making up for it since. Shares lead guitar with Byt on the 2024 reunion."
+    },
+    {
+      "name": "Null",
+      "role": "Rubber duck, technical advisor",
+      "years": "Was there first",
+      "bio": "Never returns anything. Returned exactly one value, ever, at the end of Q.E.D. in 1989."
+    }
+  ],
+  "trivia": [
+    {
+      "year": "1970",
+      "fact": "The band met in a university basement lab at midnight, each explaining their bugs out loud to the same rubber duck. By sunrise they had fixed each other’s bugs, and the duck had said nothing."
+    },
+    {
+      "year": "1970",
+      "fact": "The name was a typo. Nyble meant to write “Procedural Bits” on the first flyer. Byt filed it as a bug; Nyble closed it as “working as intended.”"
+    },
+    {
+      "year": "1970",
+      "fact": "At the first gig, Bytes counted in “zero, one, two, three” and the others came in on four. The whole set ran one beat apart. Off-by-one has been the band’s signature ever since."
+    },
+    {
+      "year": "1973",
+      "fact": "The second album was recorded inside a mainframe cabinet “for the reverb.” Null sat on the halt switch during one take and stopped the machine; the take is on the record."
+    },
+    {
+      "year": "1976",
+      "fact": "The Kernel Panic sessions deadlocked for three weeks. It ended when someone moved the duck, which had been sitting on the only lyric sheet."
+    },
+    {
+      "year": "1976",
+      "fact": "Byt once forked himself to play rhythm and lead at the same time. The child process ate everyone’s sandwiches until Nyble reaped it."
+    },
+    {
+      "year": "1979",
+      "fact": "Side B of Syntax Error has no guitar. Byt refused to play songs with no side effects."
+    },
+    {
+      "year": "1982",
+      "fact": "Packet Storm was recorded by mail. Bytes’s reels arrived out of order and were reassembled by sequence number. One never arrived. Null traveled in every box as packing material."
+    },
+    {
+      "year": "1985",
+      "fact": "The tour bus was named the Linked List. It drove past Pittsburgh and couldn’t go back, because it had no back pointer."
+    },
+    {
+      "year": "1985",
+      "fact": "In Cleveland, Bytes read the setlist as a stack and the band opened with the encore."
+    },
+    {
+      "year": "1985",
+      "fact": "On the live album, Nyble still introduces the band by its old name, Bytes, Nybles and Byts. The recordings were kept as they were."
+    },
+    {
+      "year": "1988",
+      "fact": "Byt flipped, mid-solo. He left one line on the bottom of the duck: “If n, then n plus one.” No base case."
+    },
+    {
+      "year": "1989",
+      "fact": "The base case turned out to be Hello, World, the first song they ever played. At the end of the proof, Null quacked. It is the only value the duck has ever returned."
+    },
+    {
+      "year": "1992",
+      "fact": "Every member kept their own copy of the setlist, and no two matched. Bytes’s still listed songs from 1979."
+    },
+    {
+      "year": "1992",
+      "fact": "Asked whether it was equal to itself, Null said nothing. In SQL, that is the correct answer."
+    },
+    {
+      "year": "1995",
+      "fact": "Every code review comment Bytes wrote said “louder.” The merge took twice as long as the recording."
+    },
+    {
+      "year": "1998",
+      "fact": "A fan got backstage by saying “I’m with the duck.” Backstage passes now need two factors. The security question is “what does the duck say?” The answer is nothing."
+    },
+    {
+      "year": "1998",
+      "fact": "Bytes’s password was “drums,” then “drums1,” then “Drums1!”"
+    },
+    {
+      "year": "2001",
+      "fact": "The title track of Race Condition came out two different ways depending on whose tape machine started first. Both versions are on the album; one is hidden."
+    },
+    {
+      "year": "2001",
+      "fact": "With four members, every vote tied two to two, so Null became the fifth voter. The duck abstains every time and has never lost an election."
+    },
+    {
+      "year": "2004",
+      "fact": "Wyrd built the band’s first 3D music video by hand and ran out of time before modeling the duck, which ended up with twelve triangles. The low-poly duck is now the band’s logo."
+    },
+    {
+      "year": "2007",
+      "fact": "The first pressing of User Error came in packaging nobody could open. The second pressing says “pull here.”"
+    },
+    {
+      "year": "2010",
+      "fact": "The version of Cross-Platform that runs on a smart fridge, in 64 kilobytes, is the most-played version. In the app’s game, Null has a position, a sprite and a velocity, but no sound component."
+    },
+    {
+      "year": "2013",
+      "fact": "The band toured as four virtual machines on one very loud server, until its fan failed on the first night and took all four down at once."
+    },
+    {
+      "year": "2013",
+      "fact": "Null has had perfect uptime since 1970, mostly by not doing anything."
+    },
+    {
+      "year": "2016",
+      "fact": "The band read its 1970 record contract for the first time. Page eighty-seven gave the label the rights to “any mascot, waterfowl or technical advisor.” They got the duck back and released its likeness under Creative Commons."
+    },
+    {
+      "year": "2016",
+      "fact": "Duty of Care, about the Therac-25, is the only Procedural Byts song with no jokes in it."
+    },
+    {
+      "year": "2019",
+      "fact": "The label trained an AI on every song the band had recorded and released it as Procedural Bots. It topped the charts for a week, until fans noticed every duck had five legs."
+    },
+    {
+      "year": "2019",
+      "fact": "Procedural Bots was always a beat early, because its training data included Bytes’s practice tapes."
+    },
+    {
+      "year": "2024",
+      "fact": "Byt returned as a qubit: both in the band and not, until someone checks. Wyrd remembered the exact bar he stopped on in 1988, and Byt picked up on the next one."
+    },
+    {
+      "year": "2024",
+      "fact": "The last song on the last album stops before its final note. Whether Byt played it, and whether the duck quacked a second time, has never been measured."
+    }
+  ],
+  "upcoming": []
+}

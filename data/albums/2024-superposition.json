@@ -1,0 +1,961 @@
+{
+  "year": 2024,
+  "slug": "superposition",
+  "title": "Superposition",
+  "knowledge_area": "Bonus: quantum computing",
+  "genre": "genre-blending metal",
+  "description": "Superposition is the 2024 reunion album from Procedural Byts: thirteen tracks that each exist in two eras at once, from 1970 proto-metal to 2019 synthwave. Byt is back, as a qubit: both in the band and not, until someone checks. Nyble sings lead and plays bass, Qword and Byt trade lead guitar across fifty years, Wyrd plays synths, and Bytes plays drums and sings backup. Qubits, superposition, measurement, interference, quantum gates, entanglement, no-cloning, Grover’s search, Shor’s algorithm, quantum key distribution, decoherence, and what quantum computers can and can’t do. It ends with Hello, World, the first song they ever played. Play loud. Don’t look.",
+  "tagline": "The 2024 reunion album from Procedural Byts: a quantum computing course in thirteen songs, each in two eras at once, with Byt both back and not.",
+  "lineup": "A five-piece, or a four-piece. Nyble sings lead on every song and plays bass guitar. Qword and Byt trade lead guitar, modern shred against raw 1970s fuzz. Wyrd plays synthesizers. Bytes plays drums and sings backup. Whether Byt is in the band depends on whether you look.",
+  "members": [
+    {
+      "name": "Nyble",
+      "role": "Lead vocals, bass guitar",
+      "bio": "Four bits. Lead vocals and bass on every album since 1970, and the reason the band is still called Procedural Byts. She was right."
+    },
+    {
+      "name": "Byt",
+      "role": "Lead guitar, 1970 to 1988, and 2024 in superposition",
+      "bio": "One qubit. Both in the band and not, until someone checks. Plays raw 1970s fuzz guitar as if no time has passed. Maybe none has."
+    },
+    {
+      "name": "Qword",
+      "role": "Lead guitar",
+      "bio": "Sixty-four bits and, for the first time, sharing lead guitar with the bit it replaced. They trade solos across fifty years."
+    },
+    {
+      "name": "Wyrd",
+      "role": "Synthesizers",
+      "bio": "Thirty-two bits, and the one who remembered the exact bar Byt stopped on in 1988. Byt picked up on the next one."
+    },
+    {
+      "name": "Bytes",
+      "role": "Drums, backing vocals",
+      "bio": "Eight bits, drums and backing vocals. Tried to make a backup of Byt in case he disappeared again. It can’t be done."
+    },
+    {
+      "name": "Null",
+      "role": "Rubber duck, technical advisor",
+      "bio": "Quacked once, in 1989. On this album, it has both quacked and not quacked on every song."
+    }
+  ],
+  "story": {
+    "heading": "Both and Neither",
+    "paragraphs": [
+      "In 2024, a package arrived at the studio with no return address. Inside was a single guitar pick, painted 0 on one side and 1 on the other. That night, at rehearsal, Byt was there. And he wasn’t. Both, until anyone looked directly at him.",
+      "In 1970, Byt had been a bit: on or off. In 1988, he flipped. Now he was a qubit, in both states at once until measured. Every time someone checked whether he was really back in the band, the answer came out yes or no at random. After a week, the band stopped checking.",
+      "Wyrd remembered the exact bar Byt had stopped on in 1988 and had never told anyone which one it was. At the first rehearsal, Byt picked up on the very next bar.",
+      "Because the band was now in a superposition of its whole history, so was the album. Every song exists in two eras at once, from 1970 proto-metal to 2019 synthwave, and Qword and Byt trade lead guitar across fifty years. Every take existed in two versions until the engineer listened to it, and then only one. The engineer eventually asked everyone to stop looking at the tape.",
+      "Bytes tried to make a backup copy of Byt, in case he disappeared again. It can’t be done.",
+      "Nyble had said in 1989 that the band would always be called Procedural Byts. Now nobody can prove she was wrong.",
+      "And the duck? Null quacked exactly once, in 1989. On this album, in superposition, it has both quacked and not quacked on every song. The record ends before anyone checks."
+    ]
+  },
+  "cover_sub": "The 2024 reunion album. Byt is back. And he isn’t. Both, until someone checks.",
+  "songs": [
+    {
+      "title": "Superposition",
+      "parts": [
+        {
+          "kind": "spoken",
+          "label": "Intro (spoken)",
+          "lines": [
+            "A bit is zero or one.",
+            "A qubit is both, until you look."
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "A bit is on or off, a one or else a zero,",
+            "I was a bit for eighteen years, a one-bit guitar hero.",
+            "Now I’m both at once, a little zero and a one,",
+            "Superposition, and I’m back, and I’m gone!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Superposition! (Both at once!)",
+            "Superposition! (Zero and one!)",
+            "Until you look, I’m everywhere I could have ever been,",
+            "Superposition, superposition, both the out and in!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "A qubit is a mix of zero and one, with amplitudes for each,",
+            "Not secretly one or the other, both are in its reach.",
+            "It’s not a coin that’s spinning, not a guess you haven’t made,",
+            "It’s a whole new kind of state that classical bits never played!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Zero! (And one!) One! (And zero!)",
+            "Back! (And gone!) The return of the hero!"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Twin leads: Byt and Qword",
+          "desc": "Byt and Qword play the same solo at the same time, Byt in raw 1970 fuzz and Qword in modern shred. Listen to one and the other disappears. Listen to both, and they’re one solo."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Superposition! (Both at once!)",
+            "Superposition! (Zero and one!)",
+            "Until you look, I’m everywhere I could have ever been,",
+            "Superposition, superposition, both the out and in!"
+          ]
+        }
+      ],
+      "note": "The first song recorded with Byt since 1988. Or the first song recorded without him. Both, until you listen.",
+      "lesson": "A classical bit is either 0 or 1. A qubit can be in a superposition of both, written α|0⟩ + β|1⟩, where α and β are amplitudes. It isn’t secretly one or the other, like a coin nobody has looked at yet; superposition is a genuinely different kind of state, and quantum algorithms are built to exploit it.",
+      "n": 1,
+      "sunoTitle": "Superposition",
+      "style": "genre-blending metal, a superposition of 1970s proto-metal and 2019 synthwave metal, starts as fuzzy raw proto-metal and morphs into neon synthwave, both at once, 112 BPM, lineup: female lead vocalist who also plays bass guitar, two lead guitarists trading leads (a modern shredder and a raw 1970s fuzz guitarist), keyboard player on synthesizers, drummer singing male backing vocals, sudden shifts between the two eras, polished modern production with vintage textures",
+      "exclude": "autotune, trap beats, country, lo-fi",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, two lead guitars (modern shred and raw 1970s fuzz), synthesizers, drums with male backing vocals]\n\n[Intro]\n[Spoken Word: female voice, hushed]\nA bit is zero or one.\nA qubit is both, until you look.\n\n[Verse 1: female lead vocal]\nA bit is on or off, a one or else a zero,\nI was a bit for eighteen years, a one-bit guitar hero.\nNow I’m both at once, a little zero and a one,\nSuperposition, and I’m back, and I’m gone!\n\n[Chorus: female lead vocal, male backing vocals]\nSuperposition! (Both at once!)\nSuperposition! (Zero and one!)\nUntil you look, I’m everywhere I could have ever been,\nSuperposition, superposition, both the out and in!\n\n[Verse 2: female lead vocal]\nA qubit is a mix of zero and one, with amplitudes for each,\nNot secretly one or the other, both are in its reach.\nIt’s not a coin that’s spinning, not a guess you haven’t made,\nIt’s a whole new kind of state that classical bits never played!\n\n[Chorus: female lead vocal, male backing vocals]\nSuperposition! (Both at once!)\nSuperposition! (Zero and one!)\nUntil you look, I’m everywhere I could have ever been,\nSuperposition, superposition, both the out and in!\n\n[Bridge: female lead vocal, male backing vocals]\nZero! (And one!) One! (And zero!)\nBack! (And gone!) The return of the hero!\n\n[Instrumental Break: raw 1970s fuzz lead guitar and modern shred lead guitar playing the same solo at the same time]\n\n[Final Chorus: female lead vocal, male backing vocals]\nSuperposition! (Both at once!)\nSuperposition! (Zero and one!)\nUntil you look, I’m everywhere I could have ever been,\nSuperposition, superposition, both the out and in!\n\n[End]"
+    },
+    {
+      "title": "Measurement",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "Look at me and I collapse, I can’t be both once seen,",
+            "Zero or one, just one of them, and nothing in between.",
+            "The odds were in the amplitudes, but now the choice is made,",
+            "Measure me, and the superposition starts to fade!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Measurement! (Collapse!)",
+            "Measurement! (No take-backs!)",
+            "Square the amplitude to get the odds of what you’ll see,",
+            "Measurement, measurement, and now I’m only me!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Prepare a thousand of me just the same and measure every one,",
+            "Half of them come out a zero and half come out a one.",
+            "You can’t predict a single one, just the odds across the crowd,",
+            "The universe is rolling dice, and it rolls them out loud!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Did you look? (I looked!) Is he here? (Fifty-fifty!)",
+            "Look again! (He’s gone!) Look again! (He’s back!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Lead guitar solo: Qword",
+          "desc": "Qword plays two phrases at once in a tangle of overlapping notes. The moment the band stops to listen, the tangle collapses into one clear note, and nobody could have said beforehand which note it would be."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Measurement! (Collapse!)",
+            "Measurement! (No take-backs!)",
+            "Square the amplitude to get the odds of what you’ll see,",
+            "Measurement, measurement, and now I’m only me!"
+          ]
+        }
+      ],
+      "note": "Every time someone checked whether Byt was really back, the answer came out yes or no at random. The band stopped checking.",
+      "lesson": "Measuring a qubit always gives a plain 0 or 1. The probability of each is the square of its amplitude’s size, |α|² and |β|², which is called the Born rule. Measurement collapses the superposition: afterwards, the qubit is just the value you saw. A single outcome can’t be predicted, only the statistics over many identically prepared qubits.",
+      "n": 2,
+      "sunoTitle": "Measurement",
+      "style": "genre-blending metal, a superposition of 1976 punk-edged hard rock and 2013 djent, tense stop-start riff that collapses suddenly from chaos into one clear note, 140 BPM, lineup: female lead vocalist who also plays bass guitar, two lead guitarists trading leads (a modern shredder and a raw 1970s fuzz guitarist), keyboard player on synthesizers, drummer singing male backing vocals, sudden shifts between the two eras, polished modern production with vintage textures",
+      "exclude": "autotune, trap beats, country, lo-fi",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, two lead guitars (modern shred and raw 1970s fuzz), synthesizers, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nLook at me and I collapse, I can’t be both once seen,\nZero or one, just one of them, and nothing in between.\nThe odds were in the amplitudes, but now the choice is made,\nMeasure me, and the superposition starts to fade!\n\n[Chorus: female lead vocal, male backing vocals]\nMeasurement! (Collapse!)\nMeasurement! (No take-backs!)\nSquare the amplitude to get the odds of what you’ll see,\nMeasurement, measurement, and now I’m only me!\n\n[Verse 2: female lead vocal]\nPrepare a thousand of me just the same and measure every one,\nHalf of them come out a zero and half come out a one.\nYou can’t predict a single one, just the odds across the crowd,\nThe universe is rolling dice, and it rolls them out loud!\n\n[Chorus: female lead vocal, male backing vocals]\nMeasurement! (Collapse!)\nMeasurement! (No take-backs!)\nSquare the amplitude to get the odds of what you’ll see,\nMeasurement, measurement, and now I’m only me!\n\n[Bridge: female lead vocal, male backing vocals]\nDid you look? (I looked!) Is he here? (Fifty-fifty!)\nLook again! (He’s gone!) Look again! (He’s back!)\n\n[Lead Guitar Solo: chaotic tangle of two overlapping phrases that collapses into one clean held note when the band stops]\n\n[Final Chorus: female lead vocal, male backing vocals]\nMeasurement! (Collapse!)\nMeasurement! (No take-backs!)\nSquare the amplitude to get the odds of what you’ll see,\nMeasurement, measurement, and now I’m only me!\n\n[End]"
+    },
+    {
+      "title": "Interference",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "Amplitudes aren’t odds, they can be negative too,",
+            "Add two paths together and they cancel, or they grow through.",
+            "Where the waves agree they build, where they disagree they fall,",
+            "Interference, and the answer we want is louder than them all!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Interference! (Waves collide!)",
+            "Interference! (Cancel side by side!)",
+            "Make the wrong answers cancel out and the right one amplify,",
+            "Interference, interference, and that’s the secret why!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Light through two slits makes stripes upon the wall,",
+            "Bright where the waves agree and dark where they don’t at all.",
+            "A quantum algorithm is a choreography of waves,",
+            "Steering all the amplitudes so the right answer behaves!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Constructive! (Louder!) Destructive! (Gone!)",
+            "Arrange the paths! (And the answer comes on!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Wave duet: Wyrd and Qword",
+          "desc": "Wyrd and Qword play the same melody slightly out of phase. Where they line up, it’s twice as loud. Where they’re opposite, it cancels into near-silence. By shifting the timing, they make the wrong notes vanish and the right ones ring out."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Interference! (Waves collide!)",
+            "Interference! (Cancel side by side!)",
+            "Make the wrong answers cancel out and the right one amplify,",
+            "Interference, interference, and that’s the secret why!"
+          ]
+        }
+      ],
+      "note": "Recorded with Wyrd and Qword deliberately half a beat out of phase. It took eleven takes to get the cancellation right.",
+      "lesson": "Unlike probabilities, amplitudes can be negative (or even complex), so different paths through a computation can add up (constructive interference) or cancel out (destructive interference), the same effect that makes the stripes in the double-slit experiment. Quantum algorithms are designed so the paths leading to wrong answers cancel and the paths to the right answer reinforce, making the right answer likely when you measure.",
+      "n": 3,
+      "sunoTitle": "Interference",
+      "style": "genre-blending metal, a superposition of 1989 progressive metal and 1998 industrial techno, wave-like progressive riff, two melodies that cancel and reinforce each other, 120 BPM, lineup: female lead vocalist who also plays bass guitar, two lead guitarists trading leads (a modern shredder and a raw 1970s fuzz guitarist), keyboard player on synthesizers, drummer singing male backing vocals, sudden shifts between the two eras, polished modern production with vintage textures",
+      "exclude": "autotune, trap beats, country, lo-fi",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, two lead guitars (modern shred and raw 1970s fuzz), synthesizers, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nAmplitudes aren’t odds, they can be negative too,\nAdd two paths together and they cancel, or they grow through.\nWhere the waves agree they build, where they disagree they fall,\nInterference, and the answer we want is louder than them all!\n\n[Chorus: female lead vocal, male backing vocals]\nInterference! (Waves collide!)\nInterference! (Cancel side by side!)\nMake the wrong answers cancel out and the right one amplify,\nInterference, interference, and that’s the secret why!\n\n[Verse 2: female lead vocal]\nLight through two slits makes stripes upon the wall,\nBright where the waves agree and dark where they don’t at all.\nA quantum algorithm is a choreography of waves,\nSteering all the amplitudes so the right answer behaves!\n\n[Chorus: female lead vocal, male backing vocals]\nInterference! (Waves collide!)\nInterference! (Cancel side by side!)\nMake the wrong answers cancel out and the right one amplify,\nInterference, interference, and that’s the secret why!\n\n[Bridge: female lead vocal, male backing vocals]\nConstructive! (Louder!) Destructive! (Gone!)\nArrange the paths! (And the answer comes on!)\n\n[Instrumental Break: synth and guitar play the same melody out of phase, cancelling to silence in some bars and doubling in others]\n\n[Final Chorus: female lead vocal, male backing vocals]\nInterference! (Waves collide!)\nInterference! (Cancel side by side!)\nMake the wrong answers cancel out and the right one amplify,\nInterference, interference, and that’s the secret why!\n\n[End]"
+    },
+    {
+      "title": "Hadamard",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "Start with a zero, plain and certain, nothing strange inside,",
+            "Pass it through the Hadamard gate and now it’s open wide:",
+            "Half a zero, half a one, an equal chance of each,",
+            "Pass it through again, and it’s back within your reach!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Hadamard! (Split it in two!)",
+            "Hadamard! (And back for you!)",
+            "Quantum gates are matrices that turn the qubit’s state,",
+            "Reversible and rotating, every quantum gate!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "The NOT gate flips a zero to a one, the way it used to do,",
+            "The phase gate turns the arrow, and the Hadamard splits it through.",
+            "Every gate can be undone, and no information’s lost,",
+            "Unlike the AND of seventy-three, it never pays that cost!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "H! (Superpose!) X! (Flip it!)",
+            "Z! (Phase it!) H again! (Undo it!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Lead guitar solo: Qword",
+          "desc": "Qword plays a single line that splits into a two-part harmony, half up and half down. Played through the same split a second time, the two parts recombine into exactly the line Qword started with."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Hadamard! (Split it in two!)",
+            "Hadamard! (And back for you!)",
+            "Quantum gates are matrices that turn the qubit’s state,",
+            "Reversible and rotating, every quantum gate!"
+          ]
+        }
+      ],
+      "note": "A sequel to Matrix Transform from 2004. Quantum gates are matrices too.",
+      "lesson": "Quantum gates are reversible operations on qubits, written as matrices (the same kind of matrix math as Matrix Transform). The Hadamard gate H turns |0⟩ into an equal superposition of 0 and 1, and applying it a second time brings back the original state, a small example of interference. X is the quantum NOT, and Z flips the phase. Unlike a classical AND gate, a quantum gate never throws information away.",
+      "n": 4,
+      "sunoTitle": "Hadamard",
+      "style": "genre-blending metal, a superposition of 1979 new wave of British heavy metal and 2004 metalcore, galloping riff that splits into two harmonized lines and merges back, 150 BPM, lineup: female lead vocalist who also plays bass guitar, two lead guitarists trading leads (a modern shredder and a raw 1970s fuzz guitarist), keyboard player on synthesizers, drummer singing male backing vocals, sudden shifts between the two eras, polished modern production with vintage textures",
+      "exclude": "autotune, trap beats, country, lo-fi",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, two lead guitars (modern shred and raw 1970s fuzz), synthesizers, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nStart with a zero, plain and certain, nothing strange inside,\nPass it through the Hadamard gate and now it’s open wide:\nHalf a zero, half a one, an equal chance of each,\nPass it through again, and it’s back within your reach!\n\n[Chorus: female lead vocal, male backing vocals]\nHadamard! (Split it in two!)\nHadamard! (And back for you!)\nQuantum gates are matrices that turn the qubit’s state,\nReversible and rotating, every quantum gate!\n\n[Verse 2: female lead vocal]\nThe NOT gate flips a zero to a one, the way it used to do,\nThe phase gate turns the arrow, and the Hadamard splits it through.\nEvery gate can be undone, and no information’s lost,\nUnlike the AND of seventy-three, it never pays that cost!\n\n[Chorus: female lead vocal, male backing vocals]\nHadamard! (Split it in two!)\nHadamard! (And back for you!)\nQuantum gates are matrices that turn the qubit’s state,\nReversible and rotating, every quantum gate!\n\n[Bridge: female lead vocal, male backing vocals]\nH! (Superpose!) X! (Flip it!)\nZ! (Phase it!) H again! (Undo it!)\n\n[Lead Guitar Solo: one line splitting into a two-part harmony, then the same split again merging back into the original line]\n\n[Final Chorus: female lead vocal, male backing vocals]\nHadamard! (Split it in two!)\nHadamard! (And back for you!)\nQuantum gates are matrices that turn the qubit’s state,\nReversible and rotating, every quantum gate!\n\n[End]"
+    },
+    {
+      "title": "Two to the N",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "One qubit has two amplitudes, and two of them have four,",
+            "Three have eight, and ten have over a thousand, and more.",
+            "Fifty qubits and the state is more than any memory can hold,",
+            "Two to the n, and the space grows wider than the stories told!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Two to the n! (Double again!)",
+            "Two to the n! (And again!)",
+            "The state space grows so fast that no computer could keep track,",
+            "Two to the n, two to the n, and there’s no turning back!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "But don’t believe it simply tries every answer in one go,",
+            "You only get one answer out when you measure it, you know.",
+            "The trick is to make the right one likely, through the waves we choose,",
+            "A huge state and a single answer, and that’s how we don’t lose!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Two! (Four!) Eight! (Sixteen!)",
+            "A thousand! (A million!) More than you’ve ever seen!"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Synth solo: Wyrd",
+          "desc": "Wyrd starts with one voice, then two, then four, then eight, doubling every bar until the synth is a wall too big to follow. Then Bytes hits one crash, and only a single note is left ringing: measured."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Two to the n! (Double again!)",
+            "Two to the n! (And again!)",
+            "The state space grows so fast that no computer could keep track,",
+            "Two to the n, two to the n, and there’s no turning back!"
+          ]
+        }
+      ],
+      "note": "A sequel to Order of Growth from 1985. This time, the exponential is on our side. Sort of.",
+      "lesson": "Describing n qubits takes 2ⁿ amplitudes, so around fifty qubits already outgrow what ordinary computers can easily simulate. But a quantum computer doesn’t simply try every answer at once: measuring it gives you just one outcome. Quantum algorithms have to use interference to make the answer you want the likely one.",
+      "n": 5,
+      "sunoTitle": "Two to the N",
+      "style": "genre-blending metal, a superposition of 1985 arena metal and 2010 electronic rock, anthemic doubling riff that keeps doubling in size, 130 BPM, lineup: female lead vocalist who also plays bass guitar, two lead guitarists trading leads (a modern shredder and a raw 1970s fuzz guitarist), keyboard player on synthesizers, drummer singing male backing vocals, sudden shifts between the two eras, polished modern production with vintage textures",
+      "exclude": "autotune, trap beats, country, lo-fi",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, two lead guitars (modern shred and raw 1970s fuzz), synthesizers, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nOne qubit has two amplitudes, and two of them have four,\nThree have eight, and ten have over a thousand, and more.\nFifty qubits and the state is more than any memory can hold,\nTwo to the n, and the space grows wider than the stories told!\n\n[Chorus: female lead vocal, male backing vocals]\nTwo to the n! (Double again!)\nTwo to the n! (And again!)\nThe state space grows so fast that no computer could keep track,\nTwo to the n, two to the n, and there’s no turning back!\n\n[Verse 2: female lead vocal]\nBut don’t believe it simply tries every answer in one go,\nYou only get one answer out when you measure it, you know.\nThe trick is to make the right one likely, through the waves we choose,\nA huge state and a single answer, and that’s how we don’t lose!\n\n[Chorus: female lead vocal, male backing vocals]\nTwo to the n! (Double again!)\nTwo to the n! (And again!)\nThe state space grows so fast that no computer could keep track,\nTwo to the n, two to the n, and there’s no turning back!\n\n[Bridge: female lead vocal, male backing vocals]\nTwo! (Four!) Eight! (Sixteen!)\nA thousand! (A million!) More than you’ve ever seen!\n\n[Synth Solo: one voice doubling every bar into a huge wall of sound, cut to a single note by one crash]\n\n[Final Chorus: female lead vocal, male backing vocals]\nTwo to the n! (Double again!)\nTwo to the n! (And again!)\nThe state space grows so fast that no computer could keep track,\nTwo to the n, two to the n, and there’s no turning back!\n\n[End]"
+    },
+    {
+      "title": "Entanglement",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "Two qubits made together, and now they share one state,",
+            "Measure one, and the other one already knows its fate.",
+            "Not a message traveling across, no signal down the wire,",
+            "Just one state shared by two of us, and the link won’t expire!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Entanglement! (You and me!)",
+            "Entanglement! (Shared, not free!)",
+            "Measure mine and yours is known, no matter where you are,",
+            "Entanglement, entanglement, near or far!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Put one in a Hadamard, then a CNOT across the two,",
+            "And now they’re both or neither, and they always match, it’s true.",
+            "Einstein called it spooky, but it never sends a word,",
+            "You can’t use it for messages, it’s stranger than you heard!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Zero zero! (Both!) One one! (Both!)",
+            "Never zero one! (Never!) Bound by an oath!"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Mirrored duet: Nyble and Byt",
+          "desc": "Nyble and Byt play from opposite ends of the stereo field, too far apart to hear each other. Every note Nyble plays, Byt plays its mirror at the same instant. Neither is following the other."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Entanglement! (You and me!)",
+            "Entanglement! (Shared, not free!)",
+            "Measure mine and yours is known, no matter where you are,",
+            "Entanglement, entanglement, near or far!"
+          ]
+        }
+      ],
+      "note": "Since 2024, whenever Nyble starts a song, Byt starts the same song somewhere else at the same moment. Nobody has worked out where.",
+      "lesson": "Entangled qubits share one joint state that can’t be split into separate states for each qubit. A Hadamard gate followed by a CNOT creates the Bell state (|00⟩ + |11⟩)/√2: measure one qubit and you instantly know the other will match, however far apart they are. It still can’t be used to send a message faster than light. Einstein called it “spooky action at a distance.”",
+      "n": 6,
+      "sunoTitle": "Entanglement",
+      "style": "genre-blending metal, a superposition of 1992 grunge and 2016 post-metal, brooding heavy riff with two parts that always mirror each other, 92 BPM, lineup: female lead vocalist who also plays bass guitar, two lead guitarists trading leads (a modern shredder and a raw 1970s fuzz guitarist), keyboard player on synthesizers, drummer singing male backing vocals, sudden shifts between the two eras, polished modern production with vintage textures",
+      "exclude": "autotune, trap beats, country, lo-fi",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, two lead guitars (modern shred and raw 1970s fuzz), synthesizers, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nTwo qubits made together, and now they share one state,\nMeasure one, and the other one already knows its fate.\nNot a message traveling across, no signal down the wire,\nJust one state shared by two of us, and the link won’t expire!\n\n[Chorus: female lead vocal, male backing vocals]\nEntanglement! (You and me!)\nEntanglement! (Shared, not free!)\nMeasure mine and yours is known, no matter where you are,\nEntanglement, entanglement, near or far!\n\n[Verse 2: female lead vocal]\nPut one in a Hadamard, then a CNOT across the two,\nAnd now they’re both or neither, and they always match, it’s true.\nEinstein called it spooky, but it never sends a word,\nYou can’t use it for messages, it’s stranger than you heard!\n\n[Chorus: female lead vocal, male backing vocals]\nEntanglement! (You and me!)\nEntanglement! (Shared, not free!)\nMeasure mine and yours is known, no matter where you are,\nEntanglement, entanglement, near or far!\n\n[Bridge: female lead vocal, male backing vocals]\nZero zero! (Both!) One one! (Both!)\nNever zero one! (Never!) Bound by an oath!\n\n[Instrumental Break: bass guitar and fuzz guitar play perfectly mirrored parts from opposite sides of the stereo field]\n\n[Final Chorus: female lead vocal, male backing vocals]\nEntanglement! (You and me!)\nEntanglement! (Shared, not free!)\nMeasure mine and yours is known, no matter where you are,\nEntanglement, entanglement, near or far!\n\n[End]"
+    },
+    {
+      "title": "No-Cloning",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "Copy a bit, it’s easy, write it twice and you are done,",
+            "Copy a qubit you don’t know? There’s no way, not one.",
+            "To copy it you’d have to measure it, and measuring destroys,",
+            "The state you wanted to keep is gone, and all that’s left is noise!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "No cloning! (No copy!)",
+            "No cloning! (One of a kind!)",
+            "An unknown quantum state can’t be duplicated or backed up,",
+            "No cloning, no cloning, and one is enough!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Remember all the cached copies that went stale in twenty-thirteen?",
+            "Here there are no copies to go stale, there’s nothing in between.",
+            "It keeps a quantum secret safe, no thief can make a spare,",
+            "And it makes the errors harder to fix, with no backup there!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Copy it? (No!) Back it up? (No!)",
+            "Measure it? (It’s gone!) One of a kind! (So it goes!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Lead guitar solo: Byt",
+          "desc": "Byt plays a raw fuzz solo, and Bytes tries to record it so he can loop it. Every time he plays the recording back, it comes out different. Byt only exists live."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "No cloning! (No copy!)",
+            "No cloning! (One of a kind!)",
+            "An unknown quantum state can’t be duplicated or backed up,",
+            "No cloning, no cloning, and one is enough!"
+          ]
+        }
+      ],
+      "note": "Bytes tried to make a backup copy of Byt, in case he disappeared again. It can’t be done.",
+      "lesson": "The no-cloning theorem says it’s impossible to make an exact copy of an unknown quantum state. That’s what makes quantum key distribution secure, and it’s also what makes quantum error correction hard: instead of copying, it spreads the information across many qubits.",
+      "n": 7,
+      "sunoTitle": "No-Cloning",
+      "style": "genre-blending metal, a superposition of 2001 nu-metal and 1973 heavy blues rock, bouncing heavy groove around a bluesy riff that refuses to be copied, 100 BPM, lineup: female lead vocalist who also plays bass guitar, two lead guitarists trading leads (a modern shredder and a raw 1970s fuzz guitarist), keyboard player on synthesizers, drummer singing male backing vocals, sudden shifts between the two eras, polished modern production with vintage textures",
+      "exclude": "autotune, trap beats, country, lo-fi",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, two lead guitars (modern shred and raw 1970s fuzz), synthesizers, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nCopy a bit, it’s easy, write it twice and you are done,\nCopy a qubit you don’t know? There’s no way, not one.\nTo copy it you’d have to measure it, and measuring destroys,\nThe state you wanted to keep is gone, and all that’s left is noise!\n\n[Chorus: female lead vocal, male backing vocals]\nNo cloning! (No copy!)\nNo cloning! (One of a kind!)\nAn unknown quantum state can’t be duplicated or backed up,\nNo cloning, no cloning, and one is enough!\n\n[Verse 2: female lead vocal]\nRemember all the cached copies that went stale in twenty-thirteen?\nHere there are no copies to go stale, there’s nothing in between.\nIt keeps a quantum secret safe, no thief can make a spare,\nAnd it makes the errors harder to fix, with no backup there!\n\n[Chorus: female lead vocal, male backing vocals]\nNo cloning! (No copy!)\nNo cloning! (One of a kind!)\nAn unknown quantum state can’t be duplicated or backed up,\nNo cloning, no cloning, and one is enough!\n\n[Bridge: female lead vocal, male backing vocals]\nCopy it? (No!) Back it up? (No!)\nMeasure it? (It’s gone!) One of a kind! (So it goes!)\n\n[Lead Guitar Solo: raw 1970s fuzz solo that comes out different every time a recording of it is played back]\n\n[Final Chorus: female lead vocal, male backing vocals]\nNo cloning! (No copy!)\nNo cloning! (One of a kind!)\nAn unknown quantum state can’t be duplicated or backed up,\nNo cloning, no cloning, and one is enough!\n\n[End]"
+    },
+    {
+      "title": "Grover",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "A million locked doors, and only one of them leads out,",
+            "Check them one by one and it’ll take a million, there’s no doubt.",
+            "Grover’s search amplifies the answer, round by round,",
+            "A thousand steps instead of a million, and the door is found!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Grover! (Square root!)",
+            "Grover! (Amplitude boost!)",
+            "Mark the answer, flip it, and reflect the rest around,",
+            "Grover, Grover, and the needle’s found!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Start with every door in equal superposition, all the same,",
+            "An oracle flips the sign on the right one, the one you came to claim.",
+            "Reflect around the average and the right one grows a bit,",
+            "Repeat about the square root of N times, and that’s it!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Linear! (A million!) Grover! (A thousand!)",
+            "Faster! (But not exponential!) Still a lot of ground!"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Lead guitar solo: Qword",
+          "desc": "Qword plays every note in the scale at once, all equally quiet. Each round, one note gets a little louder and the rest a little quieter. After a handful of rounds, only the target note is left ringing."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Grover! (Square root!)",
+            "Grover! (Amplitude boost!)",
+            "Mark the answer, flip it, and reflect the rest around,",
+            "Grover, Grover, and the needle’s found!"
+          ]
+        }
+      ],
+      "note": "A sequel to Index of Doom, and to every search the band has ever done.",
+      "lesson": "Grover’s algorithm searches an unsorted collection of N items in about √N steps instead of N. It starts with every item in an equal superposition, uses an “oracle” to flip the sign of the item you’re looking for, then reflects all the amplitudes around their average, which makes the marked one a little bigger. Repeating that about √N times makes it very likely to be measured. It’s a quadratic speedup, not an exponential one.",
+      "n": 8,
+      "sunoTitle": "Grover",
+      "style": "genre-blending metal, a superposition of 1982 classic heavy metal and 1995 industrial metal, relentless searching riff that grows louder around one target note, 136 BPM, lineup: female lead vocalist who also plays bass guitar, two lead guitarists trading leads (a modern shredder and a raw 1970s fuzz guitarist), keyboard player on synthesizers, drummer singing male backing vocals, sudden shifts between the two eras, polished modern production with vintage textures",
+      "exclude": "autotune, trap beats, country, lo-fi",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, two lead guitars (modern shred and raw 1970s fuzz), synthesizers, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nA million locked doors, and only one of them leads out,\nCheck them one by one and it’ll take a million, there’s no doubt.\nGrover’s search amplifies the answer, round by round,\nA thousand steps instead of a million, and the door is found!\n\n[Chorus: female lead vocal, male backing vocals]\nGrover! (Square root!)\nGrover! (Amplitude boost!)\nMark the answer, flip it, and reflect the rest around,\nGrover, Grover, and the needle’s found!\n\n[Verse 2: female lead vocal]\nStart with every door in equal superposition, all the same,\nAn oracle flips the sign on the right one, the one you came to claim.\nReflect around the average and the right one grows a bit,\nRepeat about the square root of N times, and that’s it!\n\n[Chorus: female lead vocal, male backing vocals]\nGrover! (Square root!)\nGrover! (Amplitude boost!)\nMark the answer, flip it, and reflect the rest around,\nGrover, Grover, and the needle’s found!\n\n[Bridge: female lead vocal, male backing vocals]\nLinear! (A million!) Grover! (A thousand!)\nFaster! (But not exponential!) Still a lot of ground!\n\n[Lead Guitar Solo: every note equally quiet, then one target note growing louder each round until it is the only one left]\n\n[Final Chorus: female lead vocal, male backing vocals]\nGrover! (Square root!)\nGrover! (Amplitude boost!)\nMark the answer, flip it, and reflect the rest around,\nGrover, Grover, and the needle’s found!\n\n[End]"
+    },
+    {
+      "title": "Shor",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "In ninety-eight we built a lock on two big primes multiplied,",
+            "Easy to make and nearly impossible to divide.",
+            "But Shor found a quantum way to factor them in time,",
+            "Find the period, and the lock breaks open, line by line!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Shor! (The lock is breaking!)",
+            "Shor! (The ground is shaking!)",
+            "A big enough quantum computer and the old keys all fall down,",
+            "Shor, Shor, so build a new lock now!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "The machine that can do it isn’t built, it’s too small and noisy still,",
+            "But secrets sent today could be stored and cracked later at will.",
+            "So the new locks are coming, built on math that quantum can’t break,",
+            "Post-quantum cryptography, for everybody’s sake!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Factor! (The number!) Period! (Find it!)",
+            "The lock! (Is breaking!) Replace it! (Before they find it!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Synth solo: Wyrd",
+          "desc": "Wyrd plays what sounds like a random acid line. Slowly a repeating pattern emerges, and once Wyrd finds its period, the whole line locks into place, and the lock from 1998 is open."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Shor! (The lock is breaking!)",
+            "Shor! (The ground is shaking!)",
+            "A big enough quantum computer and the old keys all fall down,",
+            "Shor, Shor, so build a new lock now!"
+          ]
+        }
+      ],
+      "note": "A sequel to Public Key from 1998. The lock that only Nyble could open has a problem.",
+      "lesson": "Shor’s algorithm (1994) can factor huge numbers efficiently on a quantum computer, using the quantum Fourier transform to find the repeating period of a function. That would break RSA and similar public-key encryption. Quantum computers big and reliable enough don’t exist yet, but data stolen today could be decrypted later, so the world is moving to post-quantum cryptography: classical methods believed to resist quantum attacks. NIST published the first standards in 2024.",
+      "n": 9,
+      "sunoTitle": "Shor",
+      "style": "genre-blending metal, a superposition of 2007 alternative metal and 1998 industrial techno, menacing dramatic riff, acid synths and heavy guitars, a looming threat, 128 BPM, lineup: female lead vocalist who also plays bass guitar, two lead guitarists trading leads (a modern shredder and a raw 1970s fuzz guitarist), keyboard player on synthesizers, drummer singing male backing vocals, sudden shifts between the two eras, polished modern production with vintage textures",
+      "exclude": "autotune, trap beats, country, lo-fi",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, two lead guitars (modern shred and raw 1970s fuzz), synthesizers, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nIn ninety-eight we built a lock on two big primes multiplied,\nEasy to make and nearly impossible to divide.\nBut Shor found a quantum way to factor them in time,\nFind the period, and the lock breaks open, line by line!\n\n[Chorus: female lead vocal, male backing vocals]\nShor! (The lock is breaking!)\nShor! (The ground is shaking!)\nA big enough quantum computer and the old keys all fall down,\nShor, Shor, so build a new lock now!\n\n[Verse 2: female lead vocal]\nThe machine that can do it isn’t built, it’s too small and noisy still,\nBut secrets sent today could be stored and cracked later at will.\nSo the new locks are coming, built on math that quantum can’t break,\nPost-quantum cryptography, for everybody’s sake!\n\n[Chorus: female lead vocal, male backing vocals]\nShor! (The lock is breaking!)\nShor! (The ground is shaking!)\nA big enough quantum computer and the old keys all fall down,\nShor, Shor, so build a new lock now!\n\n[Bridge: female lead vocal, male backing vocals]\nFactor! (The number!) Period! (Find it!)\nThe lock! (Is breaking!) Replace it! (Before they find it!)\n\n[Synth Solo: seemingly random acid synth line that reveals a repeating pattern and locks onto its period]\n\n[Final Chorus: female lead vocal, male backing vocals]\nShor! (The lock is breaking!)\nShor! (The ground is shaking!)\nA big enough quantum computer and the old keys all fall down,\nShor, Shor, so build a new lock now!\n\n[End]"
+    },
+    {
+      "title": "Quantum Key",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "I send you photons one by one, each one a random way,",
+            "You measure each one randomly, and then we compare, okay?",
+            "We keep the ones where we agreed, and that’s our secret key,",
+            "And if a spy has measured them, the errors let us see!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Quantum key! (Listen in, and you’ll be caught!)",
+            "Quantum key! (The measuring is what you bought!)",
+            "Every spy disturbs the state, and the errors give them away,",
+            "Quantum key, quantum key, the safest secret today!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Mallory waits in the middle, like in ninety-eight before,",
+            "But to read a photon you must measure it, and that changes it for sure.",
+            "No cloning means no copying it to read it on the side,",
+            "So any spy who listens in has nowhere left to hide!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Basis one! (Straight!) Basis two! (Diagonal!)",
+            "Compare in public! (Errors?) Throw away the deal!"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Caught listening: Nyble, Qword and Wyrd",
+          "desc": "Nyble and Qword trade phrases, and once again Wyrd tries to listen in from the middle. This time every note Wyrd touches changes, the band hears the difference instantly, and Bytes stops the song with an alarm-like crash."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Quantum key! (Listen in, and you’ll be caught!)",
+            "Quantum key! (The measuring is what you bought!)",
+            "Every spy disturbs the state, and the errors give them away,",
+            "Quantum key, quantum key, the safest secret today!"
+          ]
+        }
+      ],
+      "note": "A sequel to Man in the Middle from 1998. This time, the band can tell when someone is listening.",
+      "lesson": "Quantum key distribution, like the BB84 protocol from 1984, sends photons prepared in randomly chosen ways. The receiver measures each one in a randomly chosen way too, then both sides compare their choices in public and keep only the results where they matched, giving them a shared secret key. Because measuring a quantum state disturbs it, and it can’t be copied, an eavesdropper leaves errors behind that the two sides can detect.",
+      "n": 10,
+      "sunoTitle": "Quantum Key",
+      "style": "genre-blending metal, a superposition of 1985 arena metal and 1998 industrial techno, tense paranoid riff with a sudden alarm when someone listens in, 126 BPM, lineup: female lead vocalist who also plays bass guitar, two lead guitarists trading leads (a modern shredder and a raw 1970s fuzz guitarist), keyboard player on synthesizers, drummer singing male backing vocals, sudden shifts between the two eras, polished modern production with vintage textures",
+      "exclude": "autotune, trap beats, country, lo-fi",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, two lead guitars (modern shred and raw 1970s fuzz), synthesizers, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nI send you photons one by one, each one a random way,\nYou measure each one randomly, and then we compare, okay?\nWe keep the ones where we agreed, and that’s our secret key,\nAnd if a spy has measured them, the errors let us see!\n\n[Chorus: female lead vocal, male backing vocals]\nQuantum key! (Listen in, and you’ll be caught!)\nQuantum key! (The measuring is what you bought!)\nEvery spy disturbs the state, and the errors give them away,\nQuantum key, quantum key, the safest secret today!\n\n[Verse 2: female lead vocal]\nMallory waits in the middle, like in ninety-eight before,\nBut to read a photon you must measure it, and that changes it for sure.\nNo cloning means no copying it to read it on the side,\nSo any spy who listens in has nowhere left to hide!\n\n[Chorus: female lead vocal, male backing vocals]\nQuantum key! (Listen in, and you’ll be caught!)\nQuantum key! (The measuring is what you bought!)\nEvery spy disturbs the state, and the errors give them away,\nQuantum key, quantum key, the safest secret today!\n\n[Bridge: female lead vocal, male backing vocals]\nBasis one! (Straight!) Basis two! (Diagonal!)\nCompare in public! (Errors?) Throw away the deal!\n\n[Instrumental Break: bass and guitar trade phrases, an intruding synth alters them, and an alarm-like crash stops the song]\n\n[Final Chorus: female lead vocal, male backing vocals]\nQuantum key! (Listen in, and you’ll be caught!)\nQuantum key! (The measuring is what you bought!)\nEvery spy disturbs the state, and the errors give them away,\nQuantum key, quantum key, the safest secret today!\n\n[End]"
+    },
+    {
+      "title": "Decoherence",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "Keep me cold and keep me quiet, colder than the deepest space,",
+            "A little heat, a little noise, and the superposition fades.",
+            "The world is always watching, measuring without a sound,",
+            "Decoherence, and the strange becomes ordinary ground!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Decoherence! (Slipping away!)",
+            "Decoherence! (Can’t stay!)",
+            "Fragile as a whisper in a hurricane of noise,",
+            "Decoherence, decoherence, and the quantum loses its voice!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "So we spread one qubit out across a hundred more,",
+            "Error correction catches the errors we can’t ignore.",
+            "A thousand noisy qubits make a single one we trust,",
+            "And until we build enough of them, we wait, because we must!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Colder! (Near zero!) Quieter! (Shielded!)",
+            "Correct it! (Spread it!) A logical qubit! (Protected!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Lead guitar solo: Byt",
+          "desc": "Byt plays the clearest melody of his career, and bar by bar it picks up noise, a crackle, then a hiss, until the melody is lost and only static remains. Then silence. He’ll be back on the next track. Probably."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Decoherence! (Slipping away!)",
+            "Decoherence! (Can’t stay!)",
+            "Fragile as a whisper in a hurricane of noise,",
+            "Decoherence, decoherence, and the quantum loses its voice!"
+          ]
+        }
+      ],
+      "note": "Byt can stay in superposition for about the length of a song. Then he drifts away again, until the next one.",
+      "lesson": "Qubits are fragile. Any interaction with the environment, like heat, vibration or stray electromagnetic fields, effectively measures them and destroys superposition and entanglement. That’s decoherence. Quantum computers are cooled close to absolute zero and shielded, and quantum error correction spreads one reliable “logical” qubit across many physical qubits; useful fault-tolerant machines may need thousands of physical qubits for each logical one.",
+      "n": 11,
+      "sunoTitle": "Decoherence",
+      "style": "genre-blending metal, a superposition of 2016 post-metal fading into 1970s proto-metal, fragile atmospheric riff that slowly degrades into noise and static, 80 BPM, lineup: female lead vocalist who also plays bass guitar, two lead guitarists trading leads (a modern shredder and a raw 1970s fuzz guitarist), keyboard player on synthesizers, drummer singing male backing vocals, sudden shifts between the two eras, polished modern production with vintage textures",
+      "exclude": "autotune, trap beats, country, lo-fi",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, two lead guitars (modern shred and raw 1970s fuzz), synthesizers, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nKeep me cold and keep me quiet, colder than the deepest space,\nA little heat, a little noise, and the superposition fades.\nThe world is always watching, measuring without a sound,\nDecoherence, and the strange becomes ordinary ground!\n\n[Chorus: female lead vocal, male backing vocals]\nDecoherence! (Slipping away!)\nDecoherence! (Can’t stay!)\nFragile as a whisper in a hurricane of noise,\nDecoherence, decoherence, and the quantum loses its voice!\n\n[Verse 2: female lead vocal]\nSo we spread one qubit out across a hundred more,\nError correction catches the errors we can’t ignore.\nA thousand noisy qubits make a single one we trust,\nAnd until we build enough of them, we wait, because we must!\n\n[Chorus: female lead vocal, male backing vocals]\nDecoherence! (Slipping away!)\nDecoherence! (Can’t stay!)\nFragile as a whisper in a hurricane of noise,\nDecoherence, decoherence, and the quantum loses its voice!\n\n[Bridge: female lead vocal, male backing vocals]\nColder! (Near zero!) Quieter! (Shielded!)\nCorrect it! (Spread it!) A logical qubit! (Protected!)\n\n[Lead Guitar Solo: clear fuzz guitar melody slowly picking up crackle and hiss until it dissolves into static, then silence]\n\n[Final Chorus: female lead vocal, male backing vocals]\nDecoherence! (Slipping away!)\nDecoherence! (Can’t stay!)\nFragile as a whisper in a hurricane of noise,\nDecoherence, decoherence, and the quantum loses its voice!\n\n[End]"
+    },
+    {
+      "title": "Advantage",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "It won’t make your email faster and it won’t run your games,",
+            "It isn’t just a faster chip, it plays by different aims.",
+            "For factoring, for chemistry, for simulating the small,",
+            "It might beat every classical machine, but not for all!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Advantage! (Where it helps!)",
+            "Advantage! (Not everything else!)",
+            "The right problem for the right machine, and the hype is not the truth,",
+            "Advantage, advantage, show me the proof!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "In twenty nineteen a chip did one strange task faster than the best,",
+            "But useful problems, done reliably, are still a harder test.",
+            "Noisy and intermediate, the machines we have today,",
+            "Will they change the world? Maybe. Not yet, anyway!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Chemistry? (Maybe!) Optimization? (Maybe!)",
+            "Your spreadsheet? (No!) Your email? (No way!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Lead guitar solo: Qword",
+          "desc": "Qword plays one particular scale impossibly fast, faster than anyone could. Then Qword plays an ordinary riff, and it comes out at exactly normal speed. The right tool for the right job."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Advantage! (Where it helps!)",
+            "Advantage! (Not everything else!)",
+            "The right problem for the right machine, and the hype is not the truth,",
+            "Advantage, advantage, show me the proof!"
+          ]
+        }
+      ],
+      "note": "The band asked a quantum computer to help finish the album faster. It said that wasn’t the kind of problem it was good at.",
+      "lesson": "Quantum computers aren’t just faster general-purpose computers. They promise big speedups for particular problems: factoring, some kinds of search, and simulating molecules and materials. In 2019, Google reported a quantum processor beating classical supercomputers on one specially designed task, but today’s noisy, intermediate-scale machines haven’t yet delivered broad practical advantage. Expect hype, and ask for evidence.",
+      "n": 12,
+      "sunoTitle": "Advantage",
+      "style": "genre-blending metal, a superposition of 2010 electronic rock and 1979 new wave of British heavy metal, bright driving riff, hopeful and grounded, 134 BPM, lineup: female lead vocalist who also plays bass guitar, two lead guitarists trading leads (a modern shredder and a raw 1970s fuzz guitarist), keyboard player on synthesizers, drummer singing male backing vocals, sudden shifts between the two eras, polished modern production with vintage textures",
+      "exclude": "autotune, trap beats, country, lo-fi",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, two lead guitars (modern shred and raw 1970s fuzz), synthesizers, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nIt won’t make your email faster and it won’t run your games,\nIt isn’t just a faster chip, it plays by different aims.\nFor factoring, for chemistry, for simulating the small,\nIt might beat every classical machine, but not for all!\n\n[Chorus: female lead vocal, male backing vocals]\nAdvantage! (Where it helps!)\nAdvantage! (Not everything else!)\nThe right problem for the right machine, and the hype is not the truth,\nAdvantage, advantage, show me the proof!\n\n[Verse 2: female lead vocal]\nIn twenty nineteen a chip did one strange task faster than the best,\nBut useful problems, done reliably, are still a harder test.\nNoisy and intermediate, the machines we have today,\nWill they change the world? Maybe. Not yet, anyway!\n\n[Chorus: female lead vocal, male backing vocals]\nAdvantage! (Where it helps!)\nAdvantage! (Not everything else!)\nThe right problem for the right machine, and the hype is not the truth,\nAdvantage, advantage, show me the proof!\n\n[Bridge: female lead vocal, male backing vocals]\nChemistry? (Maybe!) Optimization? (Maybe!)\nYour spreadsheet? (No!) Your email? (No way!)\n\n[Lead Guitar Solo: one particular scale played impossibly fast, then an ordinary riff at completely normal speed]\n\n[Final Chorus: female lead vocal, male backing vocals]\nAdvantage! (Where it helps!)\nAdvantage! (Not everything else!)\nThe right problem for the right machine, and the hype is not the truth,\nAdvantage, advantage, show me the proof!\n\n[End]"
+    },
+    {
+      "title": "Hello, World (Quantum Reprise)",
+      "parts": [
+        {
+          "kind": "spoken",
+          "label": "Intro (spoken)",
+          "lines": [
+            "In the beginning there was the void…",
+            "And a blinking cursor."
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "The screen is black, the cursor blinks,",
+            "The machine is waiting, and maybe now it thinks.",
+            "Five of us are here tonight, or four, it’s hard to say,",
+            "Hello, World, the base case, and we’re back to the first day!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Hello, World! (Hello, World!)",
+            "In every year we’ve played!",
+            "Hello, World! (Hello, World!)",
+            "And every one of us who stayed!",
+            "The base case and the step and every song along the way,",
+            "Hello, World, and we’re still here today!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "From a basement lab in seventy to a cold lab far below,",
+            "Every bit and every byte and every word we know.",
+            "A nybble, a bit, a byte, a word, a quadword and a duck,",
+            "One song in every era, and a little bit of luck!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Nineteen seventy! (Hello!) Twenty twenty-four! (Hello!)",
+            "Is he here? (Don’t look!) Is he here? (Don’t look!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Every era: full band",
+          "desc": "The band plays the riff from 1970 once in every style they’ve ever played: proto-metal, arena metal, prog, grunge, industrial, nu-metal, metalcore, djent, synthwave. Byt and Qword play the last phrase together, and on the final note, everything stops before it lands. Did Byt play it? Did the duck quack? The album ends before anyone checks."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Hello, World! (Hello, World!)",
+            "In every year we’ve played!",
+            "Hello, World! (Hello, World!)",
+            "And every one of us who stayed!",
+            "The base case and the step and every song along the way,",
+            "Hello, World, and we’re still here today!"
+          ]
+        }
+      ],
+      "note": "The first song the band ever played, in every style they have ever played it in, with every member who was ever in the band. The album ends before anyone checks.",
+      "lesson": "The album comes back to the base case: every program starts with Hello, World, and every proof by induction needs one. A quantum state stays undecided until it’s measured, so the album ends unmeasured: whether Byt played the last note, and whether the duck quacked, stays in superposition. And the band’s names add up: a bit is 1 bit, a nybble 4, a byte 8, a word 32 and a quadword 64.",
+      "n": 13,
+      "sunoTitle": "Hello, World (Quantum Reprise)",
+      "style": "genre-blending metal, a superposition of every era of the band, from 1970 proto-metal to 2019 synthwave, the band’s first song reprised, cycling through every style it has ever played and stopping before the final note, 92 BPM, lineup: female lead vocalist who also plays bass guitar, two lead guitarists trading leads (a modern shredder and a raw 1970s fuzz guitarist), keyboard player on synthesizers, drummer singing male backing vocals, sudden shifts between the two eras, polished modern production with vintage textures",
+      "exclude": "autotune, trap beats, country, lo-fi",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, two lead guitars (modern shred and raw 1970s fuzz), synthesizers, drums with male backing vocals]\n\n[Intro]\n[Spoken Word: female voice, hushed]\nIn the beginning there was the void…\nAnd a blinking cursor.\n\n[Verse 1: female lead vocal]\nThe screen is black, the cursor blinks,\nThe machine is waiting, and maybe now it thinks.\nFive of us are here tonight, or four, it’s hard to say,\nHello, World, the base case, and we’re back to the first day!\n\n[Chorus: female lead vocal, male backing vocals]\nHello, World! (Hello, World!)\nIn every year we’ve played!\nHello, World! (Hello, World!)\nAnd every one of us who stayed!\nThe base case and the step and every song along the way,\nHello, World, and we’re still here today!\n\n[Verse 2: female lead vocal]\nFrom a basement lab in seventy to a cold lab far below,\nEvery bit and every byte and every word we know.\nA nybble, a bit, a byte, a word, a quadword and a duck,\nOne song in every era, and a little bit of luck!\n\n[Chorus: female lead vocal, male backing vocals]\nHello, World! (Hello, World!)\nIn every year we’ve played!\nHello, World! (Hello, World!)\nAnd every one of us who stayed!\nThe base case and the step and every song along the way,\nHello, World, and we’re still here today!\n\n[Bridge: female lead vocal, male backing vocals]\nNineteen seventy! (Hello!) Twenty twenty-four! (Hello!)\nIs he here? (Don’t look!) Is he here? (Don’t look!)\n\n[Instrumental Break: the opening riff replayed in every style from proto-metal to arena metal, prog, grunge, industrial, nu-metal, metalcore, djent and synthwave, two lead guitars on the last phrase, stopping before the final note]\n\n[Final Chorus: female lead vocal, male backing vocals]\nHello, World! (Hello, World!)\nIn every year we’ve played!\nHello, World! (Hello, World!)\nAnd every one of us who stayed!\nThe base case and the step and every song along the way,\nHello, World, and we’re still here today!\n\n[Abrupt stop before the final note]\n\n[End]"
+    }
+  ]
+}

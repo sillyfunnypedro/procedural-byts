@@ -1,0 +1,879 @@
+{
+  "year": 1998,
+  "slug": "buffer-overflow",
+  "title": "Buffer Overflow",
+  "knowledge_area": "Security",
+  "genre": "1998 industrial metal with techno crossover",
+  "description": "Buffer Overflow is the 1998 album from Procedural Byts: twelve tracks of industrial metal crossed with techno about keeping systems and people safe. Nyble sings lead and plays bass, Qword plays lead guitar, Wyrd brings sequencers and acid synths, and Bytes plays live drums over programmed breakbeats and sings backup. The security triad, threat models, passwords and two-factor authentication, least privilege, buffer overflows, input validation, encryption, public keys, digital signatures, man-in-the-middle attacks and social engineering. Written after a fan walked backstage by saying “I’m with the duck.” Play loud. Trust no input.",
+  "tagline": "The 1998 industrial-techno album from Procedural Byts: a computer security course in twelve songs, and why backstage passes now need two factors.",
+  "lineup": "The four-piece, online. Nyble sings lead on every song and plays bass guitar. Qword plays lead guitar. Wyrd plays synthesizers and sequencers. Bytes plays live drums over programmed breakbeats and sings backup.",
+  "members": [
+    {
+      "name": "Nyble",
+      "role": "Lead vocals, bass guitar",
+      "bio": "Four bits, and the band’s security officer, not by choice. Nyble sings lead on every song, plays bass, and holds the only private key."
+    },
+    {
+      "name": "Qword",
+      "role": "Lead guitar",
+      "bio": "Sixty-four bits, and the owner of the longest password in the band. Qword’s solos on this album probe for weaknesses, scramble melodies, and run one bar past the end on purpose."
+    },
+    {
+      "name": "Wyrd",
+      "role": "Synthesizers, sequencers",
+      "bio": "Thirty-two bits, now on sequencers, an acid bass synth and a drum machine. Wyrd once encrypted the setlist so well that nobody, Wyrd included, could read it for a week."
+    },
+    {
+      "name": "Bytes",
+      "role": "Drums, backing vocals",
+      "bio": "Eight bits, playing live drums over breakbeats and singing backup. His password was “drums.” It isn’t anymore."
+    },
+    {
+      "name": "Null",
+      "role": "Rubber duck, technical advisor",
+      "bio": "The most effective backstage pass in rock, until 1998. Now a security question. The answer is still nothing."
+    }
+  ],
+  "story": {
+    "heading": "I’m With the Duck",
+    "paragraphs": [
+      "By 1998, the band was online: a fan site, a mailing list, and one shared email account whose password everyone knew. Wyrd had discovered techno and arrived at rehearsal with a sequencer, an acid bass synth and a drum machine. Bytes played live drums on top of the machine, louder than it, out of principle.",
+      "They decided it was time to take security seriously, and started by threat-modeling the tour. What are we protecting? The master tapes, the setlist, the duck. Who wants it? Bootleggers, a rival band, the label. How would they get it? The answer to almost every question was “the duck.”",
+      "Bytes’s password was “drums.” Then “drums1.” Then “Drums1!” Nyble sat him down and explained hashing, salting and passphrases. He now has a password nobody knows, including, some days, Bytes.",
+      "The master tapes went to the pressing plant in a locked case, with the key sent separately by a second courier. The case arrived first and sat at the plant for a week. For the next shipment, they used a lock anyone could close but only Nyble could open.",
+      "On the first night of the tour, a fan walked straight past security by smiling and saying, “I’m with the duck.” It worked. The band considers it their first social-engineering attack. Backstage passes now need two factors: the laminate, and the answer to a question. The question is “what does the duck say?” The answer is nothing."
+    ]
+  },
+  "cover_sub": "The 1998 album. Every lock was perfect, until someone asked nicely.",
+  "songs": [
+    {
+      "title": "Triad",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "Three things to guard and three things to keep,",
+            "Secrets stay secret while the others sleep.",
+            "The data stays true, no one changes a line,",
+            "And it’s there when you need it every time!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Confidentiality! (Keep it hidden!)",
+            "Integrity! (Keep it true!)",
+            "Availability! (Keep it running!)",
+            "The triad, the triad, protecting you!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Lock it up too tight and no one can get in,",
+            "Leave it wide open and the attackers win.",
+            "Every choice is a trade between the three,",
+            "Balance it right, and the system’s safe and free!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Read it? (Confidentiality!)",
+            "Change it? (Integrity!)",
+            "Reach it? (Availability!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Synth solo: Wyrd",
+          "desc": "Wyrd’s acid synth line has three sections: one played so quietly only the band can hear it, one that repeats exactly without a single changed note, and one that never stops, even when the rest of the band does. Secret, true and available."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Confidentiality! (Keep it hidden!)",
+            "Integrity! (Keep it true!)",
+            "Availability! (Keep it running!)",
+            "The triad, the triad, protecting you!"
+          ]
+        }
+      ],
+      "note": "Opens with the sound of the band’s first modem connecting to the internet, slowed down to half speed.",
+      "lesson": "Security goals are often summarized as the CIA triad. Confidentiality: only authorized people can read the data. Integrity: the data can’t be changed without authorization. Availability: the system works when people need it. Real designs balance these three against each other and against how easy the system is to use.",
+      "n": 1,
+      "sunoTitle": "Triad",
+      "style": "1998 industrial metal with techno crossover, pounding industrial-techno opener, four-on-the-floor kick under chugging guitars, 138 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, synthesizer player on sequencers and acid synth lines, drummer playing live drums over programmed breakbeats and singing male backing vocals, distorted chugging guitars, squelching acid synths, pounding electronic rhythms, processed aggressive vocals, cold digital production",
+      "exclude": "autotune, trap beats, modern pop, acoustic, lo-fi, country",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, synthesizers and sequencers, live drums over programmed breakbeats with male backing vocals]\n\n[Verse 1: female lead vocal]\nThree things to guard and three things to keep,\nSecrets stay secret while the others sleep.\nThe data stays true, no one changes a line,\nAnd it’s there when you need it every time!\n\n[Chorus: female lead vocal, male backing vocals]\nConfidentiality! (Keep it hidden!)\nIntegrity! (Keep it true!)\nAvailability! (Keep it running!)\nThe triad, the triad, protecting you!\n\n[Verse 2: female lead vocal]\nLock it up too tight and no one can get in,\nLeave it wide open and the attackers win.\nEvery choice is a trade between the three,\nBalance it right, and the system’s safe and free!\n\n[Chorus: female lead vocal, male backing vocals]\nConfidentiality! (Keep it hidden!)\nIntegrity! (Keep it true!)\nAvailability! (Keep it running!)\nThe triad, the triad, protecting you!\n\n[Bridge: female lead vocal, male backing shouts]\nRead it? (Confidentiality!)\nChange it? (Integrity!)\nReach it? (Availability!)\n\n[Synth Solo: acid synth line in three sections, quiet, exactly repeated, then unstoppable]\n\n[Final Chorus: female lead vocal, male backing vocals]\nConfidentiality! (Keep it hidden!)\nIntegrity! (Keep it true!)\nAvailability! (Keep it running!)\nThe triad, the triad, protecting you!\n\n[End]"
+    },
+    {
+      "title": "Threat Model",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "What are you protecting, and who would want to take it?",
+            "How would they get in, and what would they do to break it?",
+            "Think like the attacker before the attacker thinks of you,",
+            "Find the weakest door before they walk on through!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Threat model! (Know your foe!)",
+            "Threat model! (Know where they’ll go!)",
+            "Assets, threats and the paths they’ll take,",
+            "Threat model, threat model, for everybody’s sake!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "A single wall will fall, so build them one by one,",
+            "Layer after layer till the attacker’s done.",
+            "Defense in depth, the lock, the guard, the alarm,",
+            "If one of them fails, the others keep you from harm!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Who? (The attacker!) What? (The asset!)",
+            "How? (The attack surface!) Why? (Because they can!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Lead guitar solo: Qword",
+          "desc": "Qword probes the song like an attacker, trying a different opening every two bars until one works. Then the rest of the band answers with layer after layer of riffs, so the opening Qword found leads only to another wall."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Threat model! (Know your foe!)",
+            "Threat model! (Know where they’ll go!)",
+            "Assets, threats and the paths they’ll take,",
+            "Threat model, threat model, for everybody’s sake!"
+          ]
+        }
+      ],
+      "note": "The band threat-modeled the 1998 tour. The answer to almost every question was “the duck.”",
+      "lesson": "Threat modeling asks four questions: what are you protecting (your assets), who might attack it, how they could get in (the attack surface), and which defenses fit. Defense in depth layers several independent protections, so a single failure doesn’t expose everything.",
+      "n": 2,
+      "sunoTitle": "Threat Model",
+      "style": "1998 industrial metal with techno crossover, dark tense industrial groove, scanning synth arpeggios, 122 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, synthesizer player on sequencers and acid synth lines, drummer playing live drums over programmed breakbeats and singing male backing vocals, distorted chugging guitars, squelching acid synths, pounding electronic rhythms, processed aggressive vocals, cold digital production",
+      "exclude": "autotune, trap beats, modern pop, acoustic, lo-fi, country",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, synthesizers and sequencers, live drums over programmed breakbeats with male backing vocals]\n\n[Verse 1: female lead vocal]\nWhat are you protecting, and who would want to take it?\nHow would they get in, and what would they do to break it?\nThink like the attacker before the attacker thinks of you,\nFind the weakest door before they walk on through!\n\n[Chorus: female lead vocal, male backing vocals]\nThreat model! (Know your foe!)\nThreat model! (Know where they’ll go!)\nAssets, threats and the paths they’ll take,\nThreat model, threat model, for everybody’s sake!\n\n[Verse 2: female lead vocal]\nA single wall will fall, so build them one by one,\nLayer after layer till the attacker’s done.\nDefense in depth, the lock, the guard, the alarm,\nIf one of them fails, the others keep you from harm!\n\n[Chorus: female lead vocal, male backing vocals]\nThreat model! (Know your foe!)\nThreat model! (Know where they’ll go!)\nAssets, threats and the paths they’ll take,\nThreat model, threat model, for everybody’s sake!\n\n[Bridge: female lead vocal, male backing shouts]\nWho? (The attacker!) What? (The asset!)\nHow? (The attack surface!) Why? (Because they can!)\n\n[Lead Guitar Solo: probing phrases testing different openings, answered by a layered wall of riffs]\n\n[Final Chorus: female lead vocal, male backing vocals]\nThreat model! (Know your foe!)\nThreat model! (Know where they’ll go!)\nAssets, threats and the paths they’ll take,\nThreat model, threat model, for everybody’s sake!\n\n[End]"
+    },
+    {
+      "title": "Password",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "Your password is your dog’s name and the year that you were born,",
+            "Anyone could guess it long before the night is worn.",
+            "A dictionary attack will try a million words an hour,",
+            "Short and simple passwords never had the power!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Password! (Make it long!)",
+            "Password! (Make it strong!)",
+            "Never store it plain, hash it with a salt,",
+            "Password, password, or the break-in is your fault!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "The server never keeps the password, just a one-way hash,",
+            "Add a random salt so matching passwords never match.",
+            "Use a different one for every place you go,",
+            "Reuse it once, and one leak lets them all know!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Drums! (Too short!) Drums one! (Too weak!)",
+            "A long and random passphrase is the one you seek!"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Drum solo: Bytes",
+          "desc": "Bytes plays a short, simple pattern, and Wyrd’s drum machine copies it perfectly within one bar: guessed. Then Bytes plays a long, unpredictable pattern, and the machine can’t keep up."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Password! (Make it long!)",
+            "Password! (Make it strong!)",
+            "Never store it plain, hash it with a salt,",
+            "Password, password, or the break-in is your fault!"
+          ]
+        }
+      ],
+      "note": "Bytes’s password was “drums.” Then “drums1.” Then “Drums1!” This song is the intervention.",
+      "lesson": "Passwords should be long, unpredictable (passphrases help) and different for every site, because reusing one lets a single breach unlock everything. Servers should never store the passwords themselves, only salted hashes made with slow password-hashing functions, so a stolen database can’t easily be reversed. Attackers always try dictionary words and previously leaked passwords first.",
+      "n": 3,
+      "sunoTitle": "Password",
+      "style": "1998 industrial metal with techno crossover, fast aggressive riff with chanted letters and numbers, 150 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, synthesizer player on sequencers and acid synth lines, drummer playing live drums over programmed breakbeats and singing male backing vocals, distorted chugging guitars, squelching acid synths, pounding electronic rhythms, processed aggressive vocals, cold digital production",
+      "exclude": "autotune, trap beats, modern pop, acoustic, lo-fi, country",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, synthesizers and sequencers, live drums over programmed breakbeats with male backing vocals]\n\n[Verse 1: female lead vocal]\nYour password is your dog’s name and the year that you were born,\nAnyone could guess it long before the night is worn.\nA dictionary attack will try a million words an hour,\nShort and simple passwords never had the power!\n\n[Chorus: female lead vocal, male backing vocals]\nPassword! (Make it long!)\nPassword! (Make it strong!)\nNever store it plain, hash it with a salt,\nPassword, password, or the break-in is your fault!\n\n[Verse 2: female lead vocal]\nThe server never keeps the password, just a one-way hash,\nAdd a random salt so matching passwords never match.\nUse a different one for every place you go,\nReuse it once, and one leak lets them all know!\n\n[Chorus: female lead vocal, male backing vocals]\nPassword! (Make it long!)\nPassword! (Make it strong!)\nNever store it plain, hash it with a salt,\nPassword, password, or the break-in is your fault!\n\n[Bridge: female lead vocal, male backing shouts]\nDrums! (Too short!) Drums one! (Too weak!)\nA long and random passphrase is the one you seek!\n\n[Drum Solo: short simple pattern copied instantly by a drum machine, then a long unpredictable pattern it can’t follow]\n\n[Final Chorus: female lead vocal, male backing vocals]\nPassword! (Make it long!)\nPassword! (Make it strong!)\nNever store it plain, hash it with a salt,\nPassword, password, or the break-in is your fault!\n\n[End]"
+    },
+    {
+      "title": "Two Factor",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "A password can be stolen and a password can be guessed,",
+            "So ask for something more before you let them through with the rest.",
+            "Something that you know and something that you hold,",
+            "Two keys for every door, or you stay out in the cold!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Two factor! (What you know!)",
+            "Two factor! (What you have!)",
+            "Steal just one and you’re still not in,",
+            "Two factor, two factor, it takes two to get in!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Something you know, the password in your head,",
+            "Something that you have, a token or a card instead,",
+            "Something that you are, your fingerprint or face,",
+            "Pick two of different kinds and you’ve secured the place!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "What’s the password? (Drums!)",
+            "What does the duck say? (Nothing!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Locked solo: Qword and Nyble",
+          "desc": "Qword’s solo stops every four bars and won’t continue until Nyble’s bass answers with the right phrase. Once, Wyrd tries to answer instead, with the right notes in the wrong voice, and the solo stays locked."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Two factor! (What you know!)",
+            "Two factor! (What you have!)",
+            "Steal just one and you’re still not in,",
+            "Two factor, two factor, it takes two to get in!"
+          ]
+        }
+      ],
+      "note": "After the night in the story, backstage passes needed two factors: the pass, and the answer to a question. The question is “what does the duck say?”",
+      "lesson": "Multi-factor authentication asks for proof from two different categories: something you know (a password), something you have (a card, a token, a phone) and something you are (a fingerprint or face). Stealing one factor is no longer enough, which stops most password theft.",
+      "n": 4,
+      "sunoTitle": "Two Factor",
+      "style": "1998 industrial metal with techno crossover, driving techno-metal groove, call-and-response vocals, 132 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, synthesizer player on sequencers and acid synth lines, drummer playing live drums over programmed breakbeats and singing male backing vocals, distorted chugging guitars, squelching acid synths, pounding electronic rhythms, processed aggressive vocals, cold digital production",
+      "exclude": "autotune, trap beats, modern pop, acoustic, lo-fi, country",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, synthesizers and sequencers, live drums over programmed breakbeats with male backing vocals]\n\n[Verse 1: female lead vocal]\nA password can be stolen and a password can be guessed,\nSo ask for something more before you let them through with the rest.\nSomething that you know and something that you hold,\nTwo keys for every door, or you stay out in the cold!\n\n[Chorus: female lead vocal, male backing vocals]\nTwo factor! (What you know!)\nTwo factor! (What you have!)\nSteal just one and you’re still not in,\nTwo factor, two factor, it takes two to get in!\n\n[Verse 2: female lead vocal]\nSomething you know, the password in your head,\nSomething that you have, a token or a card instead,\nSomething that you are, your fingerprint or face,\nPick two of different kinds and you’ve secured the place!\n\n[Chorus: female lead vocal, male backing vocals]\nTwo factor! (What you know!)\nTwo factor! (What you have!)\nSteal just one and you’re still not in,\nTwo factor, two factor, it takes two to get in!\n\n[Bridge: female lead vocal, male backing shouts]\nWhat’s the password? (Drums!)\nWhat does the duck say? (Nothing!)\n\n[Instrumental Break: lead guitar phrase that only continues after a matching bass guitar phrase]\n\n[Final Chorus: female lead vocal, male backing vocals]\nTwo factor! (What you know!)\nTwo factor! (What you have!)\nSteal just one and you’re still not in,\nTwo factor, two factor, it takes two to get in!\n\n[End]"
+    },
+    {
+      "title": "Least Privilege",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "The roadie gets the van keys but he doesn’t get the safe,",
+            "The intern gets the mailing list and nothing else to chafe.",
+            "Give everyone the smallest set of keys to do their part,",
+            "So when a key gets stolen, it can’t break the heart!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Least privilege! (Only what you need!)",
+            "Least privilege! (No more keys!)",
+            "Every user, every program, the smallest set of rights,",
+            "Least privilege, and the damage stays small at night!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Authentication says who you are, authorization what you may,",
+            "An access list on every file says read or write or stay away.",
+            "Don’t run it as the superuser just because it’s quick to do,",
+            "When it breaks, it breaks with every key you gave it too!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Read! (Yes.) Write! (No.)",
+            "Admin! (Never.)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Bass solo: Nyble",
+          "desc": "Nyble’s solo is only allowed three notes. Halfway through she needs a fourth, asks for it, gets it for exactly one bar, and gives it back."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Least privilege! (Only what you need!)",
+            "Least privilege! (No more keys!)",
+            "Every user, every program, the smallest set of rights,",
+            "Least privilege, and the damage stays small at night!"
+          ]
+        }
+      ],
+      "note": "Recorded with the studio’s door codes changed for every session. Only the engineer had all of them.",
+      "lesson": "Authentication establishes who you are; authorization decides what you’re allowed to do, often with access control lists or roles. The principle of least privilege gives every user and program only the permissions it actually needs, so if one is compromised the damage stays small. Don’t run things as an administrator just because it’s easier.",
+      "n": 5,
+      "sunoTitle": "Least Privilege",
+      "style": "1998 industrial metal with techno crossover, heavy precise riff, cold and controlled, 116 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, synthesizer player on sequencers and acid synth lines, drummer playing live drums over programmed breakbeats and singing male backing vocals, distorted chugging guitars, squelching acid synths, pounding electronic rhythms, processed aggressive vocals, cold digital production",
+      "exclude": "autotune, trap beats, modern pop, acoustic, lo-fi, country",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, synthesizers and sequencers, live drums over programmed breakbeats with male backing vocals]\n\n[Verse 1: female lead vocal]\nThe roadie gets the van keys but he doesn’t get the safe,\nThe intern gets the mailing list and nothing else to chafe.\nGive everyone the smallest set of keys to do their part,\nSo when a key gets stolen, it can’t break the heart!\n\n[Chorus: female lead vocal, male backing vocals]\nLeast privilege! (Only what you need!)\nLeast privilege! (No more keys!)\nEvery user, every program, the smallest set of rights,\nLeast privilege, and the damage stays small at night!\n\n[Verse 2: female lead vocal]\nAuthentication says who you are, authorization what you may,\nAn access list on every file says read or write or stay away.\nDon’t run it as the superuser just because it’s quick to do,\nWhen it breaks, it breaks with every key you gave it too!\n\n[Chorus: female lead vocal, male backing vocals]\nLeast privilege! (Only what you need!)\nLeast privilege! (No more keys!)\nEvery user, every program, the smallest set of rights,\nLeast privilege, and the damage stays small at night!\n\n[Bridge: female lead vocal, male backing shouts]\nRead! (Yes.) Write! (No.)\nAdmin! (Never.)\n\n[Bass Guitar Solo: restricted to three notes, briefly granted a fourth, then giving it back]\n\n[Final Chorus: female lead vocal, male backing vocals]\nLeast privilege! (Only what you need!)\nLeast privilege! (No more keys!)\nEvery user, every program, the smallest set of rights,\nLeast privilege, and the damage stays small at night!\n\n[End]"
+    },
+    {
+      "title": "Buffer Overflow",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "Sixteen bytes of buffer and you hand me thirty-two,",
+            "I copy every one of them, I never check, it’s true.",
+            "The extra spills past the edge onto the memory next door,",
+            "Overwriting what was there, and it’s not what it was before!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Buffer overflow! (Too much!)",
+            "Buffer overflow! (Over the edge!)",
+            "Write past the end and you write over the rest,",
+            "Buffer overflow, check the length, it’s the only test!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Overwrite the return address and the program jumps away,",
+            "Running someone else’s code, and that’s a very bad day.",
+            "Check the bounds on every copy, never trust the size,",
+            "Use a language that won’t let it happen, and you’ll be wise!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Bounds check! (Bounds check!) Know where the buffer ends!",
+            "Memory safe! (Memory safe!) The language defends!"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Lead guitar solo: Qword",
+          "desc": "Qword’s solo is given eight bars. Qword plays nine. The ninth bar spills into the start of the next verse and overwrites Nyble’s first line, and the band has to stop and restart."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Buffer overflow! (Too much!)",
+            "Buffer overflow! (Over the edge!)",
+            "Write past the end and you write over the rest,",
+            "Buffer overflow, check the length, it’s the only test!",
+            "Buffer overflow!"
+          ]
+        }
+      ],
+      "note": "The title track. The last chorus is deliberately one line too long.",
+      "lesson": "A buffer overflow writes more data into a fixed-size buffer than it can hold, overwriting the memory next to it. That can crash the program, or let an attacker take control, for example by overwriting the address a function returns to. Prevent it by checking lengths, using safe library functions, and choosing memory-safe languages that check bounds automatically.",
+      "n": 6,
+      "sunoTitle": "Buffer Overflow",
+      "style": "1998 industrial metal with techno crossover, frantic overloaded industrial riff that spills over its own edges, 160 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, synthesizer player on sequencers and acid synth lines, drummer playing live drums over programmed breakbeats and singing male backing vocals, distorted chugging guitars, squelching acid synths, pounding electronic rhythms, processed aggressive vocals, cold digital production",
+      "exclude": "autotune, trap beats, modern pop, acoustic, lo-fi, country",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, synthesizers and sequencers, live drums over programmed breakbeats with male backing vocals]\n\n[Verse 1: female lead vocal]\nSixteen bytes of buffer and you hand me thirty-two,\nI copy every one of them, I never check, it’s true.\nThe extra spills past the edge onto the memory next door,\nOverwriting what was there, and it’s not what it was before!\n\n[Chorus: female lead vocal, male backing vocals]\nBuffer overflow! (Too much!)\nBuffer overflow! (Over the edge!)\nWrite past the end and you write over the rest,\nBuffer overflow, check the length, it’s the only test!\n\n[Verse 2: female lead vocal]\nOverwrite the return address and the program jumps away,\nRunning someone else’s code, and that’s a very bad day.\nCheck the bounds on every copy, never trust the size,\nUse a language that won’t let it happen, and you’ll be wise!\n\n[Chorus: female lead vocal, male backing vocals]\nBuffer overflow! (Too much!)\nBuffer overflow! (Over the edge!)\nWrite past the end and you write over the rest,\nBuffer overflow, check the length, it’s the only test!\n\n[Bridge: female lead vocal, male backing shouts]\nBounds check! (Bounds check!) Know where the buffer ends!\nMemory safe! (Memory safe!) The language defends!\n\n[Lead Guitar Solo: fast phrase that runs one bar past its end and crashes into the next section]\n\n[Final Chorus: female lead vocal, male backing vocals]\nBuffer overflow! (Too much!)\nBuffer overflow! (Over the edge!)\nWrite past the end and you write over the rest,\nBuffer overflow, check the length, it’s the only test!\nBuffer overflow!\n\n[End]"
+    },
+    {
+      "title": "Sanitize",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "You typed your name into the box and the box believed you,",
+            "But your name had a quote in it and a command or two.",
+            "The program pasted it straight into a query on the fly,",
+            "And the database obeyed it and it never asked why!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Sanitize! (Never trust the input!)",
+            "Sanitize! (Check it at the door!)",
+            "Every field and every form and every byte from the outside,",
+            "Sanitize, sanitize, and there’s nowhere for the code to hide!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Don’t glue the input into commands like it’s a piece of code,",
+            "Use parameters and keep the data on its own road.",
+            "Validate what you expect, reject what you do not,",
+            "Escape it on the way back out or the page will run their plot!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Name! (A name!) Number! (A number!)",
+            "Anything else! (Rejected!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Synth solo: Wyrd",
+          "desc": "Bytes throws a stream of random noise at Wyrd’s synth. Wyrd passes through only the notes that belong in the key and drops everything else before it can reach the rest of the band."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Sanitize! (Never trust the input!)",
+            "Sanitize! (Check it at the door!)",
+            "Every field and every form and every byte from the outside,",
+            "Sanitize, sanitize, and there’s nowhere for the code to hide!"
+          ]
+        }
+      ],
+      "note": "A callback to Third Normal Form. The database is fine. The input is the problem.",
+      "lesson": "Never trust input that comes from users or other systems. Injection attacks, like SQL injection, happen when input gets pasted into a command and treated as code. Defend by checking input against what you expect, using parameterized queries that keep data separate from code, and escaping output, for example when putting text on a web page.",
+      "n": 7,
+      "sunoTitle": "Sanitize",
+      "style": "1998 industrial metal with techno crossover, aggressive chugging riff, sharp stop-start breaks, 140 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, synthesizer player on sequencers and acid synth lines, drummer playing live drums over programmed breakbeats and singing male backing vocals, distorted chugging guitars, squelching acid synths, pounding electronic rhythms, processed aggressive vocals, cold digital production",
+      "exclude": "autotune, trap beats, modern pop, acoustic, lo-fi, country",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, synthesizers and sequencers, live drums over programmed breakbeats with male backing vocals]\n\n[Verse 1: female lead vocal]\nYou typed your name into the box and the box believed you,\nBut your name had a quote in it and a command or two.\nThe program pasted it straight into a query on the fly,\nAnd the database obeyed it and it never asked why!\n\n[Chorus: female lead vocal, male backing vocals]\nSanitize! (Never trust the input!)\nSanitize! (Check it at the door!)\nEvery field and every form and every byte from the outside,\nSanitize, sanitize, and there’s nowhere for the code to hide!\n\n[Verse 2: female lead vocal]\nDon’t glue the input into commands like it’s a piece of code,\nUse parameters and keep the data on its own road.\nValidate what you expect, reject what you do not,\nEscape it on the way back out or the page will run their plot!\n\n[Chorus: female lead vocal, male backing vocals]\nSanitize! (Never trust the input!)\nSanitize! (Check it at the door!)\nEvery field and every form and every byte from the outside,\nSanitize, sanitize, and there’s nowhere for the code to hide!\n\n[Bridge: female lead vocal, male backing shouts]\nName! (A name!) Number! (A number!)\nAnything else! (Rejected!)\n\n[Synth Solo: synth line filtering stray notes out of an incoming stream of noise]\n\n[Final Chorus: female lead vocal, male backing vocals]\nSanitize! (Never trust the input!)\nSanitize! (Check it at the door!)\nEvery field and every form and every byte from the outside,\nSanitize, sanitize, and there’s nowhere for the code to hide!\n\n[End]"
+    },
+    {
+      "title": "Encryption",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "Scramble every message with a key that we both share,",
+            "Anyone who reads it hears just noise up in the air.",
+            "Use the same key to unlock it on the other side,",
+            "Symmetric encryption, and the meaning’s safe inside!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Encryption! (Lock it up!)",
+            "Encryption! (Scramble it all!)",
+            "Plaintext in and ciphertext out, a wall that won’t fall,",
+            "Encryption, encryption, and the key is all!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "The algorithm can be public, everyone can know the plan,",
+            "The only secret is the key, so keep it if you can.",
+            "But how do I get the key to you without someone seeing it too?",
+            "That’s the problem no lock can solve, until something new!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Plaintext! (Readable!) Ciphertext! (Noise!)",
+            "The key! (The only secret!) Long! (There’s no other choice!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Lead guitar solo: Qword",
+          "desc": "Qword plays a melody everyone knows, then plays it again scrambled by a pattern only Nyble knows. To everyone else it sounds like noise. Nyble applies the same pattern in reverse on her bass, and the original melody comes back out."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Encryption! (Lock it up!)",
+            "Encryption! (Scramble it all!)",
+            "Plaintext in and ciphertext out, a wall that won’t fall,",
+            "Encryption, encryption, and the key is all!"
+          ]
+        }
+      ],
+      "note": "The master tapes went to the pressing plant in a locked case, with the key sent by a different courier. The case arrived first and sat there for a week.",
+      "lesson": "Symmetric encryption uses one shared secret key both to turn readable plaintext into scrambled ciphertext and to turn it back. The algorithm can be public; only the key has to be secret (Kerckhoffs’s principle), and it must be long enough that trying every key is hopeless. The hard part is getting the key to the other person safely.",
+      "n": 8,
+      "sunoTitle": "Encryption",
+      "style": "1998 industrial metal with techno crossover, cold hypnotic techno-metal groove, steady and mechanical, 128 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, synthesizer player on sequencers and acid synth lines, drummer playing live drums over programmed breakbeats and singing male backing vocals, distorted chugging guitars, squelching acid synths, pounding electronic rhythms, processed aggressive vocals, cold digital production",
+      "exclude": "autotune, trap beats, modern pop, acoustic, lo-fi, country",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, synthesizers and sequencers, live drums over programmed breakbeats with male backing vocals]\n\n[Verse 1: female lead vocal]\nScramble every message with a key that we both share,\nAnyone who reads it hears just noise up in the air.\nUse the same key to unlock it on the other side,\nSymmetric encryption, and the meaning’s safe inside!\n\n[Chorus: female lead vocal, male backing vocals]\nEncryption! (Lock it up!)\nEncryption! (Scramble it all!)\nPlaintext in and ciphertext out, a wall that won’t fall,\nEncryption, encryption, and the key is all!\n\n[Verse 2: female lead vocal]\nThe algorithm can be public, everyone can know the plan,\nThe only secret is the key, so keep it if you can.\nBut how do I get the key to you without someone seeing it too?\nThat’s the problem no lock can solve, until something new!\n\n[Chorus: female lead vocal, male backing vocals]\nEncryption! (Lock it up!)\nEncryption! (Scramble it all!)\nPlaintext in and ciphertext out, a wall that won’t fall,\nEncryption, encryption, and the key is all!\n\n[Bridge: female lead vocal, male backing shouts]\nPlaintext! (Readable!) Ciphertext! (Noise!)\nThe key! (The only secret!) Long! (There’s no other choice!)\n\n[Lead Guitar Solo: familiar melody scrambled into noise, then unscrambled back to the original]\n\n[Final Chorus: female lead vocal, male backing vocals]\nEncryption! (Lock it up!)\nEncryption! (Scramble it all!)\nPlaintext in and ciphertext out, a wall that won’t fall,\nEncryption, encryption, and the key is all!\n\n[End]"
+    },
+    {
+      "title": "Public Key",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "I give the world a padlock and I keep the only key,",
+            "Anyone can lock a box and send it straight to me.",
+            "The public key is everywhere, I print it on the sleeve,",
+            "The private one stays home with me and never will it leave!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Public key! (Lock it with mine!)",
+            "Private key! (Only I can read the line!)",
+            "Two keys born together, one for all and one for one,",
+            "Public key, private key, and the sharing problem’s done!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Multiply two giant primes, a number huge and wide,",
+            "Easy to make but nearly impossible to divide.",
+            "Use it to send a session key, then switch to something fast,",
+            "The public key solves the handshake, and the secret’s safe at last!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Encrypt with the public! (Anyone can!)",
+            "Decrypt with the private! (Only one hand!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Synth solo: Wyrd",
+          "desc": "Wyrd plays a lead line that anyone in the band can join in and play along with. But only Nyble knows the closing phrase that resolves it, and when she plays it, the whole line suddenly makes sense."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Public key! (Lock it with mine!)",
+            "Private key! (Only I can read the line!)",
+            "Two keys born together, one for all and one for one,",
+            "Public key, private key, and the sharing problem’s done!"
+          ]
+        }
+      ],
+      "note": "The solution to the master-tape problem: a lock anyone can close, but only Nyble can open.",
+      "lesson": "Public-key (asymmetric) cryptography uses a pair of keys: anything locked with the public key can only be unlocked with the matching private key. Anyone can send you a secret without sharing one first. RSA’s security rests on how hard it is to factor the product of two huge primes. In practice, public keys are used to agree on a fast symmetric key for the rest of the conversation.",
+      "n": 9,
+      "sunoTitle": "Public Key",
+      "style": "1998 industrial metal with techno crossover, triumphant soaring techno-metal anthem, big synth leads, 134 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, synthesizer player on sequencers and acid synth lines, drummer playing live drums over programmed breakbeats and singing male backing vocals, distorted chugging guitars, squelching acid synths, pounding electronic rhythms, processed aggressive vocals, cold digital production",
+      "exclude": "autotune, trap beats, modern pop, acoustic, lo-fi, country",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, synthesizers and sequencers, live drums over programmed breakbeats with male backing vocals]\n\n[Verse 1: female lead vocal]\nI give the world a padlock and I keep the only key,\nAnyone can lock a box and send it straight to me.\nThe public key is everywhere, I print it on the sleeve,\nThe private one stays home with me and never will it leave!\n\n[Chorus: female lead vocal, male backing vocals]\nPublic key! (Lock it with mine!)\nPrivate key! (Only I can read the line!)\nTwo keys born together, one for all and one for one,\nPublic key, private key, and the sharing problem’s done!\n\n[Verse 2: female lead vocal]\nMultiply two giant primes, a number huge and wide,\nEasy to make but nearly impossible to divide.\nUse it to send a session key, then switch to something fast,\nThe public key solves the handshake, and the secret’s safe at last!\n\n[Chorus: female lead vocal, male backing vocals]\nPublic key! (Lock it with mine!)\nPrivate key! (Only I can read the line!)\nTwo keys born together, one for all and one for one,\nPublic key, private key, and the sharing problem’s done!\n\n[Bridge: female lead vocal, male backing shouts]\nEncrypt with the public! (Anyone can!)\nDecrypt with the private! (Only one hand!)\n\n[Synth Solo: open lead line anyone can join, resolved by one private closing phrase]\n\n[Final Chorus: female lead vocal, male backing vocals]\nPublic key! (Lock it with mine!)\nPrivate key! (Only I can read the line!)\nTwo keys born together, one for all and one for one,\nPublic key, private key, and the sharing problem’s done!\n\n[End]"
+    },
+    {
+      "title": "Signed",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "Run the message through a hash and a fingerprint comes out,",
+            "Change a single letter and the fingerprint will shout.",
+            "One way only, you can’t turn it back around,",
+            "The same input, the same hash, every time it’s found!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Signed! (It came from me!)",
+            "Signed! (It’s what I wrote!)",
+            "Sign it with my private key and anyone can check the note,",
+            "Signed, signed, sealed and true,",
+            "Nobody can forge my name, not even you!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Sign the hash with my private key, and that’s the signature,",
+            "Anyone with my public key can check that it is pure.",
+            "If the message changed along the way, the check will fail,",
+            "If someone forged my name, the math will tell the tale!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Hash! (The fingerprint!) Sign! (The seal!)",
+            "Verify! (Prove that it’s real!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Bass solo: Nyble",
+          "desc": "Nyble ends every phrase with the same short signature riff, and after each one the rest of the band checks it by playing it back. Once, Wyrd tries to play the signature on a phrase Nyble didn’t play, and the band refuses to echo it."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Signed! (It came from me!)",
+            "Signed! (It’s what I wrote!)",
+            "Sign it with my private key and anyone can check the note,",
+            "Signed, signed, sealed and true,",
+            "Nobody can forge my name, not even you!"
+          ]
+        }
+      ],
+      "note": "Every copy of the album was signed with Nyble’s private key. The band signed them with a pen too.",
+      "lesson": "A cryptographic hash function turns any data into a short, fixed-size fingerprint. It only works one way, and changing even one bit gives a completely different hash. A digital signature is made with the signer’s private key; anyone with the public key can verify who signed the message and that it hasn’t been changed since.",
+      "n": 10,
+      "sunoTitle": "Signed",
+      "style": "1998 industrial metal with techno crossover, heavy deliberate riff with a stamping rhythm, 112 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, synthesizer player on sequencers and acid synth lines, drummer playing live drums over programmed breakbeats and singing male backing vocals, distorted chugging guitars, squelching acid synths, pounding electronic rhythms, processed aggressive vocals, cold digital production",
+      "exclude": "autotune, trap beats, modern pop, acoustic, lo-fi, country",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, synthesizers and sequencers, live drums over programmed breakbeats with male backing vocals]\n\n[Verse 1: female lead vocal]\nRun the message through a hash and a fingerprint comes out,\nChange a single letter and the fingerprint will shout.\nOne way only, you can’t turn it back around,\nThe same input, the same hash, every time it’s found!\n\n[Chorus: female lead vocal, male backing vocals]\nSigned! (It came from me!)\nSigned! (It’s what I wrote!)\nSign it with my private key and anyone can check the note,\nSigned, signed, sealed and true,\nNobody can forge my name, not even you!\n\n[Verse 2: female lead vocal]\nSign the hash with my private key, and that’s the signature,\nAnyone with my public key can check that it is pure.\nIf the message changed along the way, the check will fail,\nIf someone forged my name, the math will tell the tale!\n\n[Chorus: female lead vocal, male backing vocals]\nSigned! (It came from me!)\nSigned! (It’s what I wrote!)\nSign it with my private key and anyone can check the note,\nSigned, signed, sealed and true,\nNobody can forge my name, not even you!\n\n[Bridge: female lead vocal, male backing shouts]\nHash! (The fingerprint!) Sign! (The seal!)\nVerify! (Prove that it’s real!)\n\n[Bass Guitar Solo: signature riff ending every phrase, echoed back by the band to verify it]\n\n[Final Chorus: female lead vocal, male backing vocals]\nSigned! (It came from me!)\nSigned! (It’s what I wrote!)\nSign it with my private key and anyone can check the note,\nSigned, signed, sealed and true,\nNobody can forge my name, not even you!\n\n[End]"
+    },
+    {
+      "title": "Man in the Middle",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "You think you’re talking to me and I think I’m talking to you,",
+            "But someone’s in the middle and they’re reading everything we do.",
+            "They hand you their key and they tell you it’s mine,",
+            "They read it, change it, pass it on, and everything looks fine!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Man in the middle! (Who are you really?)",
+            "Man in the middle! (Prove it’s you!)",
+            "A public key is only good if you know whose it is,",
+            "Man in the middle, and the secret isn’t ours, it’s his!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "So who can vouch the key is mine? A certificate with a name,",
+            "Signed by someone that we both trust to guarantee the claim.",
+            "Check the certificate, check the chain, before you say hello,",
+            "Or you’re whispering your secrets to a stranger you don’t know!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Alice! (To Bob!) Bob! (To Alice!)",
+            "Mallory! (Rewriting every scene!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Intercepted solo: Qword, Nyble and Wyrd",
+          "desc": "Qword and Nyble trade phrases, but every phrase passes through Wyrd’s synth on the way, and Wyrd changes a note or two before passing it on. Neither of them notices until the last exchange, when the phrases no longer match."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Man in the middle! (Who are you really?)",
+            "Man in the middle! (Prove it’s you!)",
+            "A public key is only good if you know whose it is,",
+            "Man in the middle, and the secret isn’t ours, it’s his!"
+          ]
+        }
+      ],
+      "note": "The vocals on this one pass through Wyrd’s sampler between Nyble and the microphone. Listen closely, and some words change.",
+      "lesson": "In a man-in-the-middle attack, an attacker secretly sits between two parties, relaying and possibly changing everything they say, for example by handing each side the attacker’s own public key. The defense is to authenticate keys: certificates signed by trusted certificate authorities bind a public key to a real identity, as SSL (today TLS) does for websites. Alice, Bob and Mallory are cryptography’s classic cast.",
+      "n": 11,
+      "sunoTitle": "Man in the Middle",
+      "style": "1998 industrial metal with techno crossover, tense paranoid riff, two conversations overlapping, 126 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, synthesizer player on sequencers and acid synth lines, drummer playing live drums over programmed breakbeats and singing male backing vocals, distorted chugging guitars, squelching acid synths, pounding electronic rhythms, processed aggressive vocals, cold digital production",
+      "exclude": "autotune, trap beats, modern pop, acoustic, lo-fi, country",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, synthesizers and sequencers, live drums over programmed breakbeats with male backing vocals]\n\n[Verse 1: female lead vocal]\nYou think you’re talking to me and I think I’m talking to you,\nBut someone’s in the middle and they’re reading everything we do.\nThey hand you their key and they tell you it’s mine,\nThey read it, change it, pass it on, and everything looks fine!\n\n[Chorus: female lead vocal, male backing vocals]\nMan in the middle! (Who are you really?)\nMan in the middle! (Prove it’s you!)\nA public key is only good if you know whose it is,\nMan in the middle, and the secret isn’t ours, it’s his!\n\n[Verse 2: female lead vocal]\nSo who can vouch the key is mine? A certificate with a name,\nSigned by someone that we both trust to guarantee the claim.\nCheck the certificate, check the chain, before you say hello,\nOr you’re whispering your secrets to a stranger you don’t know!\n\n[Chorus: female lead vocal, male backing vocals]\nMan in the middle! (Who are you really?)\nMan in the middle! (Prove it’s you!)\nA public key is only good if you know whose it is,\nMan in the middle, and the secret isn’t ours, it’s his!\n\n[Bridge: female lead vocal, male backing shouts]\nAlice! (To Bob!) Bob! (To Alice!)\nMallory! (Rewriting every scene!)\n\n[Instrumental Break: guitar and bass trade phrases through a synth that subtly alters them]\n\n[Final Chorus: female lead vocal, male backing vocals]\nMan in the middle! (Who are you really?)\nMan in the middle! (Prove it’s you!)\nA public key is only good if you know whose it is,\nMan in the middle, and the secret isn’t ours, it’s his!\n\n[End]"
+    },
+    {
+      "title": "Social Engineer",
+      "parts": [
+        {
+          "kind": "spoken",
+          "label": "Intro (spoken)",
+          "lines": [
+            "Every lock we owned was perfect.",
+            "Then someone just asked nicely."
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "We had the best locks money could buy, the strongest codes around,",
+            "Firewalls and passwords, every door was safe and sound.",
+            "Then a stranger at the stage door smiled and said, I’m with the duck,",
+            "And security just let him in, and that was it for luck!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Social engineer! (Don’t hack the machine!)",
+            "Social engineer! (Hack the human in between!)",
+            "A friendly voice, a hurried call, a reason to believe,",
+            "Social engineer, and it’s people you deceive!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "A phone call from the help desk saying they just need your code,",
+            "A letter from the boss who needs a payment on the road,",
+            "Urgency and authority, the levers that they pull,",
+            "Stop and check, call back yourself, and don’t let them fool!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Who’s asking? (Verify!) Why now? (Verify!)",
+            "Call them back! (Verify!)",
+            "The duck says nothing! (So should I!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "The stranger: full band",
+          "desc": "A stranger’s riff walks into the song mid-solo, confident and friendly, and the whole band starts playing along without checking it. Bytes stops and asks it a question with a single fill. It can’t answer. The band shuts it out and closes the album together."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Social engineer! (Don’t hack the machine!)",
+            "Social engineer! (Hack the human in between!)",
+            "A friendly voice, a hurried call, a reason to believe,",
+            "Social engineer, and it’s people you deceive!"
+          ]
+        }
+      ],
+      "note": "About the first night of the 1998 tour, when a fan walked past security by saying “I’m with the duck.” It worked.",
+      "lesson": "Social engineering attacks people instead of technology: phishing emails, pretexting phone calls, following someone through a locked door, all using urgency and authority to get around good judgment. Defenses include training, verification steps (call back on a number you already know), and systems designed so one person’s mistake can’t compromise everything. People are part of the security system.",
+      "n": 12,
+      "sunoTitle": "Social Engineer",
+      "style": "1998 industrial metal with techno crossover, epic menacing industrial closer, slow build to a massive finale, 108 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, synthesizer player on sequencers and acid synth lines, drummer playing live drums over programmed breakbeats and singing male backing vocals, distorted chugging guitars, squelching acid synths, pounding electronic rhythms, processed aggressive vocals, cold digital production",
+      "exclude": "autotune, trap beats, modern pop, acoustic, lo-fi, country",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, synthesizers and sequencers, live drums over programmed breakbeats with male backing vocals]\n\n[Intro]\n[Spoken Word: female voice]\nEvery lock we owned was perfect.\nThen someone just asked nicely.\n\n[Verse 1: female lead vocal]\nWe had the best locks money could buy, the strongest codes around,\nFirewalls and passwords, every door was safe and sound.\nThen a stranger at the stage door smiled and said, I’m with the duck,\nAnd security just let him in, and that was it for luck!\n\n[Chorus: female lead vocal, male backing vocals]\nSocial engineer! (Don’t hack the machine!)\nSocial engineer! (Hack the human in between!)\nA friendly voice, a hurried call, a reason to believe,\nSocial engineer, and it’s people you deceive!\n\n[Verse 2: female lead vocal]\nA phone call from the help desk saying they just need your code,\nA letter from the boss who needs a payment on the road,\nUrgency and authority, the levers that they pull,\nStop and check, call back yourself, and don’t let them fool!\n\n[Chorus: female lead vocal, male backing vocals]\nSocial engineer! (Don’t hack the machine!)\nSocial engineer! (Hack the human in between!)\nA friendly voice, a hurried call, a reason to believe,\nSocial engineer, and it’s people you deceive!\n\n[Bridge: female lead vocal, male backing shouts]\nWho’s asking? (Verify!) Why now? (Verify!)\nCall them back! (Verify!)\nThe duck says nothing! (So should I!)\n\n[Instrumental Break: a confident outside riff joins the song unchecked, gets challenged by the drums, and is shut out]\n\n[Final Chorus: female lead vocal, male backing vocals]\nSocial engineer! (Don’t hack the machine!)\nSocial engineer! (Hack the human in between!)\nA friendly voice, a hurried call, a reason to believe,\nSocial engineer, and it’s people you deceive!\n\n[End]"
+    }
+  ]
+}

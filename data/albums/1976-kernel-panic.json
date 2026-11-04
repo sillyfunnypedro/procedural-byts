@@ -1,0 +1,869 @@
+{
+  "year": 1976,
+  "slug": "kernel-panic",
+  "title": "Kernel Panic",
+  "knowledge_area": "Operating systems",
+  "genre": "1976 hard rock with an early punk edge",
+  "description": "Kernel Panic is the 1976 third album from Procedural Byts: twelve fast, raw tracks of hard rock with an early punk edge about the program that runs all the other programs. Nyble sings lead and plays bass, Byt plays lead guitar, and Bytes plays drums and sings backup. Booting, system calls, processes and fork, scheduling, context switches, locks, deadlock, virtual memory, page faults, file systems, device drivers and the crash that takes everything down. The recording sessions deadlocked for three weeks until someone moved the duck. Play loud. Then reboot.",
+  "tagline": "The 1976 hard-rock-meets-punk album from Procedural Byts: an operating systems course in twelve fast songs, from boot to kernel panic.",
+  "lineup": "Still a power trio. Nyble sings lead on every song and plays bass guitar. Byt plays lead guitar. Bytes plays drums and sings backup.",
+  "members": [
+    {
+      "name": "Nyble",
+      "role": "Lead vocals, bass guitar",
+      "bio": "Four bits and the band’s scheduler, whether anyone asked her to be or not. Nyble sings lead on every song, plays bass, and on this album she also had to reap a zombie."
+    },
+    {
+      "name": "Byt",
+      "role": "Lead guitar",
+      "bio": "One bit, and the only member who has ever tried to fork himself. Byt plays lead guitar and most of the solos, which on this record include two solos at once, a solo that asks permission, and a solo that only pretends to use the whole neck."
+    },
+    {
+      "name": "Bytes",
+      "role": "Drums, backing vocals",
+      "bio": "Eight bits, eight flip-flops, and the person holding the drumsticks during the deadlock. Bytes plays drums, sings backup, and is the one who finally breaks the deadlock in the middle of the song, with a single crash cymbal."
+    },
+    {
+      "name": "Null",
+      "role": "Rubber duck, technical advisor",
+      "bio": "Sat on the only lyric sheet for three weeks. Resolved the deadlock by being moved. Has not commented."
+    }
+  ],
+  "story": {
+    "heading": "The Deadlock Sessions",
+    "paragraphs": [
+      "By 1976 the band had played enough shows to have strong opinions about who should go first, who should wait, and who was hogging the microphone. So they wrote an album about the program that settles those arguments for every computer: the operating system.",
+      "The studio had one good microphone, one good amplifier and one good pair of drumsticks. Within a week, Nyble had the microphone and was waiting for Byt to finish his guitar part, Byt had the amp and was waiting for Bytes to finish the drums, and Bytes had the sticks and was waiting for Nyble’s lyrics. Nobody moved for three weeks.",
+      "The deadlock ended when the producer picked up Null, who had been sitting on the only copy of the lyric sheet the whole time, and everyone realized they could start again. Deadlock (Nobody Moves) was written that afternoon.",
+      "After that, the producer ran the sessions round robin: four hours each, then out, ready or not. Byt complained that he was being starved. Bytes pointed out that the real problem was the zombie.",
+      "The zombie was Byt’s fault. He had tried to fork himself so he could play rhythm and lead at the same time. The child process hung around the studio for days, eating everyone’s sandwiches, until Nyble finally reaped it.",
+      "On the last day, the tape machine crashed hard. The band recorded the title track in one take while it rebooted, which is why the album ends the way it does."
+    ]
+  },
+  "cover_sub": "The third album, 1976. Twelve fast songs about the program that runs all the others.",
+  "songs": [
+    {
+      "title": "Bootstrap",
+      "parts": [
+        {
+          "kind": "spoken",
+          "label": "Intro (spoken)",
+          "lines": [
+            "Power on."
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "Press the switch and the lights come on,",
+            "Firmware wakes and the dark is gone.",
+            "A tiny loader in the ROM so small",
+            "Loads a bigger loader, and that loads it all!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Bootstrap! Pull yourself up!",
+            "Bootstrap! Fill the empty cup!",
+            "From a single spark to the kernel’s crown,",
+            "Bootstrap, bootstrap, you can’t keep it down!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "The kernel’s loaded and it takes the throne,",
+            "Counts up the memory and claims it as its own,",
+            "Starts the first process, the father of them all,",
+            "Then the login prompt waits for your call!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Chicken or the egg? (The loader!)",
+            "Who loads the loader? (The ROM!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Instrumental break: full band",
+          "desc": "Bytes starts with a single kick drum, the firmware. Nyble’s bass comes in on top, the bootloader. Then Byt’s guitar crashes in, the kernel, and the whole system is up."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Bootstrap! Pull yourself up!",
+            "Bootstrap! Fill the empty cup!",
+            "From a single spark to the kernel’s crown,",
+            "Bootstrap, bootstrap, you can’t keep it down!"
+          ]
+        }
+      ],
+      "note": "Each instrument starts the next, the way each stage of a boot loads the one after it.",
+      "lesson": "Booting: firmware in read-only memory runs a tiny bootloader, which loads the operating system kernel. The kernel sets up memory and hardware, starts the first process, and the system comes up ready for you to log in. The name comes from “pulling yourself up by your bootstraps.”",
+      "n": 1,
+      "sunoTitle": "Bootstrap",
+      "style": "1976 hard rock with an early punk edge, raw fast power trio, explosive fast opener, riff that kicks in one instrument at a time, 150 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, drummer singing male backing vocals, loud overdriven lead guitar, driving pick-played bass guitar, pounding live drums, gang vocal shouts, raw live-in-the-room tape production",
+      "exclude": "synths, autotune, EDM, trap beats, modern pop, polished radio production",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, drums with male backing vocals]\n\n[Intro]\n[Spoken Word: female voice]\nPower on.\n\n[Verse 1: female lead vocal]\nPress the switch and the lights come on,\nFirmware wakes and the dark is gone.\nA tiny loader in the ROM so small\nLoads a bigger loader, and that loads it all!\n\n[Chorus: female lead vocal, male backing vocals]\nBootstrap! Pull yourself up!\nBootstrap! Fill the empty cup!\nFrom a single spark to the kernel’s crown,\nBootstrap, bootstrap, you can’t keep it down!\n\n[Verse 2: female lead vocal]\nThe kernel’s loaded and it takes the throne,\nCounts up the memory and claims it as its own,\nStarts the first process, the father of them all,\nThen the login prompt waits for your call!\n\n[Chorus: female lead vocal, male backing vocals]\nBootstrap! Pull yourself up!\nBootstrap! Fill the empty cup!\nFrom a single spark to the kernel’s crown,\nBootstrap, bootstrap, you can’t keep it down!\n\n[Bridge: female lead vocal, male backing shouts]\nChicken or the egg? (The loader!)\nWho loads the loader? (The ROM!)\n\n[Instrumental Break: instruments enter one at a time, each one launching the next]\n\n[Final Chorus: female lead vocal, male backing vocals]\nBootstrap! Pull yourself up!\nBootstrap! Fill the empty cup!\nFrom a single spark to the kernel’s crown,\nBootstrap, bootstrap, you can’t keep it down!\n\n[End]"
+    },
+    {
+      "title": "System Call",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "I’m just a program in user mode,",
+            "Fenced in my box on a narrow road.",
+            "I can’t touch the disk and I can’t touch the wire,",
+            "Only the kernel gets to play with the fire!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "System call! Knock on the kernel’s door!",
+            "System call! Ask for something more!",
+            "Read it, write it, open it, make it so,",
+            "Cross into kernel mode and back you go!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "The trap goes off and the mode flips around,",
+            "The kernel checks you out before you hit the ground.",
+            "Are you allowed? Is the request okay?",
+            "It does the job and sends you on your way!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Protection! (Protection!) Keep the programs apart!",
+            "One bad program can’t break everybody’s heart!"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Lead guitar solo: Byt",
+          "desc": "Byt plays quiet, muted riffs: user mode. To play a loud note, he has to raise his hand to Nyble, who stomps on his distortion pedal for one phrase, kernel mode, then switches it off again."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "System call! Knock on the kernel’s door!",
+            "System call! Ask for something more!",
+            "Read it, write it, open it, make it so,",
+            "Cross into kernel mode and back you go!"
+          ]
+        }
+      ],
+      "note": "Byt had to ask permission before every loud note. It was the longest he had ever gone without breaking anything.",
+      "lesson": "Programs run in user mode with limited privileges, and the kernel runs in kernel mode with full access to the hardware. A system call (like read, write, open or fork) traps into the kernel, which checks the request, does the privileged work and returns. This protection stops one program from crashing or spying on the others.",
+      "n": 2,
+      "sunoTitle": "System Call",
+      "style": "1976 hard rock with an early punk edge, raw fast power trio, swaggering hard rock riff with punk shouts, 128 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, drummer singing male backing vocals, loud overdriven lead guitar, driving pick-played bass guitar, pounding live drums, gang vocal shouts, raw live-in-the-room tape production",
+      "exclude": "synths, autotune, EDM, trap beats, modern pop, polished radio production",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nI’m just a program in user mode,\nFenced in my box on a narrow road.\nI can’t touch the disk and I can’t touch the wire,\nOnly the kernel gets to play with the fire!\n\n[Chorus: female lead vocal, male backing vocals]\nSystem call! Knock on the kernel’s door!\nSystem call! Ask for something more!\nRead it, write it, open it, make it so,\nCross into kernel mode and back you go!\n\n[Verse 2: female lead vocal]\nThe trap goes off and the mode flips around,\nThe kernel checks you out before you hit the ground.\nAre you allowed? Is the request okay?\nIt does the job and sends you on your way!\n\n[Chorus: female lead vocal, male backing vocals]\nSystem call! Knock on the kernel’s door!\nSystem call! Ask for something more!\nRead it, write it, open it, make it so,\nCross into kernel mode and back you go!\n\n[Bridge: female lead vocal, male backing shouts]\nProtection! (Protection!) Keep the programs apart!\nOne bad program can’t break everybody’s heart!\n\n[Lead Guitar Solo: quiet muted riffs broken by short bursts of full distortion]\n\n[Final Chorus: female lead vocal, male backing vocals]\nSystem call! Knock on the kernel’s door!\nSystem call! Ask for something more!\nRead it, write it, open it, make it so,\nCross into kernel mode and back you go!\n\n[End]"
+    },
+    {
+      "title": "Fork in the Road",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "A program on the disk is just a list of things to do,",
+            "A process is the program running, living, breathing through.",
+            "It’s got its own memory, its own counter and its stack,",
+            "A number for its name, the PID upon its back!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Fork in the road! (One becomes two!)",
+            "Fork in the road! (The child looks just like you!)",
+            "The parent goes one way, the child goes the other,",
+            "Fork in the road, and they don’t know each other!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Fork gives a zero to the child, the parent gets its name,",
+            "Exec wipes the child clean and gives it a brand-new game.",
+            "The parent waits for the child to finish and to die,",
+            "Or the child becomes a zombie, and you’ll never say goodbye!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Zombie! (Zombie!) Dead but in the table!",
+            "Reap it with a wait, if you’re able!"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Twin solo: Byt and Nyble",
+          "desc": "Byt plays a phrase, and at the fork Nyble’s bass copies it note for note. Then the two lines split and go their own ways, until Byt stops and waits for Nyble to finish before the last chorus."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Fork in the road! (One becomes two!)",
+            "Fork in the road! (The child looks just like you!)",
+            "The parent goes one way, the child goes the other,",
+            "Fork in the road, and they don’t know each other!"
+          ]
+        }
+      ],
+      "note": "Byt tried to fork himself during the sessions to play two parts at once. The child process hung around the studio for days eating sandwiches until Nyble reaped it.",
+      "lesson": "A process is a running program with its own memory, registers, stack and process ID. In Unix, `fork()` copies the process (it returns 0 to the child and the child’s ID to the parent), `exec()` replaces the child’s program with a new one, and `wait()` lets the parent collect the child when it finishes. A finished child nobody waits for becomes a zombie.",
+      "n": 3,
+      "sunoTitle": "Fork in the Road",
+      "style": "1976 hard rock with an early punk edge, raw fast power trio, driving punk-edged riff that splits into two separate lines, 144 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, drummer singing male backing vocals, loud overdriven lead guitar, driving pick-played bass guitar, pounding live drums, gang vocal shouts, raw live-in-the-room tape production",
+      "exclude": "synths, autotune, EDM, trap beats, modern pop, polished radio production",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nA program on the disk is just a list of things to do,\nA process is the program running, living, breathing through.\nIt’s got its own memory, its own counter and its stack,\nA number for its name, the PID upon its back!\n\n[Chorus: female lead vocal, male backing vocals]\nFork in the road! (One becomes two!)\nFork in the road! (The child looks just like you!)\nThe parent goes one way, the child goes the other,\nFork in the road, and they don’t know each other!\n\n[Verse 2: female lead vocal]\nFork gives a zero to the child, the parent gets its name,\nExec wipes the child clean and gives it a brand-new game.\nThe parent waits for the child to finish and to die,\nOr the child becomes a zombie, and you’ll never say goodbye!\n\n[Chorus: female lead vocal, male backing vocals]\nFork in the road! (One becomes two!)\nFork in the road! (The child looks just like you!)\nThe parent goes one way, the child goes the other,\nFork in the road, and they don’t know each other!\n\n[Bridge: female lead vocal, male backing shouts]\nZombie! (Zombie!) Dead but in the table!\nReap it with a wait, if you’re able!\n\n[Instrumental Break: lead guitar and bass guitar play in unison, then split into two separate lines]\n\n[Final Chorus: female lead vocal, male backing vocals]\nFork in the road! (One becomes two!)\nFork in the road! (The child looks just like you!)\nThe parent goes one way, the child goes the other,\nFork in the road, and they don’t know each other!\n\n[End]"
+    },
+    {
+      "title": "Round Robin",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "Ten programs and a single CPU,",
+            "Who goes first, and how long till you’re through?",
+            "The scheduler picks and the scheduler decides",
+            "Who gets to run and who waits outside!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Round robin! (Take your turn!)",
+            "Round robin! (Watch the time slice burn!)",
+            "Run a little while, then the back of the line,",
+            "Round and round, everybody gets their time!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "First come, first served, and the long one blocks the way,",
+            "Shortest job first, but the long ones never play.",
+            "Priority runs the important ones fast,",
+            "But starve the little guys and they’ll never get past!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Time’s up! (Time’s up!) The timer says so!",
+            "Preempt the process and let the next one go!"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Trading solo: whole band",
+          "desc": "Byt, Nyble and Bytes take turns with exactly four bars each, three times around. When your time slice ends you stop, even mid-phrase, and the next player goes."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Round robin! (Take your turn!)",
+            "Round robin! (Watch the time slice burn!)",
+            "Run a little while, then the back of the line,",
+            "Round and round, everybody gets their time!"
+          ]
+        }
+      ],
+      "note": "Each member gets exactly four bars of the solo and then gets cut off, ready or not.",
+      "lesson": "The scheduler decides which process gets the CPU. First come, first served is simple, but long jobs block short ones. Shortest job first cuts waiting but can starve long jobs, and priority scheduling can starve low priorities. Round robin gives every process a time slice and uses a timer interrupt to switch to the next.",
+      "n": 4,
+      "sunoTitle": "Round Robin",
+      "style": "1976 hard rock with an early punk edge, raw fast power trio, fast rotating punk riff, call-and-response between band members, 160 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, drummer singing male backing vocals, loud overdriven lead guitar, driving pick-played bass guitar, pounding live drums, gang vocal shouts, raw live-in-the-room tape production",
+      "exclude": "synths, autotune, EDM, trap beats, modern pop, polished radio production",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nTen programs and a single CPU,\nWho goes first, and how long till you’re through?\nThe scheduler picks and the scheduler decides\nWho gets to run and who waits outside!\n\n[Chorus: female lead vocal, male backing vocals]\nRound robin! (Take your turn!)\nRound robin! (Watch the time slice burn!)\nRun a little while, then the back of the line,\nRound and round, everybody gets their time!\n\n[Verse 2: female lead vocal]\nFirst come, first served, and the long one blocks the way,\nShortest job first, but the long ones never play.\nPriority runs the important ones fast,\nBut starve the little guys and they’ll never get past!\n\n[Chorus: female lead vocal, male backing vocals]\nRound robin! (Take your turn!)\nRound robin! (Watch the time slice burn!)\nRun a little while, then the back of the line,\nRound and round, everybody gets their time!\n\n[Bridge: female lead vocal, male backing shouts]\nTime’s up! (Time’s up!) The timer says so!\nPreempt the process and let the next one go!\n\n[Instrumental Break: lead guitar, bass guitar and drums trade strict four-bar solos in rotation]\n\n[Final Chorus: female lead vocal, male backing vocals]\nRound robin! (Take your turn!)\nRound robin! (Watch the time slice burn!)\nRun a little while, then the back of the line,\nRound and round, everybody gets their time!\n\n[End]"
+    },
+    {
+      "title": "Context Switch",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "Running process A when the timer goes off,",
+            "Freeze it in the moment, take its registers off.",
+            "Save it in the table, every value in its place,",
+            "Load up process B and put on its face!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Context switch! Change the scene!",
+            "Context switch! Save the machine!",
+            "Freeze one, wake one, nobody can tell,",
+            "Context switch, and they all think it’s going well!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Every switch has a cost, a little time that’s gone,",
+            "Saving and restoring while nobody’s getting on.",
+            "Switch too often and the work begins to slow,",
+            "Too seldom and the waiting starts to grow!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Process control block! (Who you are!)",
+            "Counter, stack, registers! (Where you are!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Lead guitar solo: Byt",
+          "desc": "Byt plays two completely different solos, switching between them every few bars. Each time, he freezes one mid-phrase and later picks it up at exactly the same note, with a tiny gap at every switch."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Context switch! Change the scene!",
+            "Context switch! Save the machine!",
+            "Freeze one, wake one, nobody can tell,",
+            "Context switch, and they all think it’s going well!"
+          ]
+        }
+      ],
+      "note": "The hardest song on the album to play live. Byt has to keep two solos in his head at once.",
+      "lesson": "A context switch saves the running process’s state (registers, program counter, stack pointer) in its process control block and restores another process’s state. That’s how one CPU looks like it’s running many programs at once. Every switch costs time, so time slices balance responsiveness against overhead.",
+      "n": 5,
+      "sunoTitle": "Context Switch",
+      "style": "1976 hard rock with an early punk edge, raw fast power trio, stop-and-go hard rock riff, abrupt shifts between two grooves, 132 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, drummer singing male backing vocals, loud overdriven lead guitar, driving pick-played bass guitar, pounding live drums, gang vocal shouts, raw live-in-the-room tape production",
+      "exclude": "synths, autotune, EDM, trap beats, modern pop, polished radio production",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nRunning process A when the timer goes off,\nFreeze it in the moment, take its registers off.\nSave it in the table, every value in its place,\nLoad up process B and put on its face!\n\n[Chorus: female lead vocal, male backing vocals]\nContext switch! Change the scene!\nContext switch! Save the machine!\nFreeze one, wake one, nobody can tell,\nContext switch, and they all think it’s going well!\n\n[Verse 2: female lead vocal]\nEvery switch has a cost, a little time that’s gone,\nSaving and restoring while nobody’s getting on.\nSwitch too often and the work begins to slow,\nToo seldom and the waiting starts to grow!\n\n[Chorus: female lead vocal, male backing vocals]\nContext switch! Change the scene!\nContext switch! Save the machine!\nFreeze one, wake one, nobody can tell,\nContext switch, and they all think it’s going well!\n\n[Bridge: female lead vocal, male backing shouts]\nProcess control block! (Who you are!)\nCounter, stack, registers! (Where you are!)\n\n[Lead Guitar Solo: alternates between two different solos, pausing one and resuming the other]\n\n[Final Chorus: female lead vocal, male backing vocals]\nContext switch! Change the scene!\nContext switch! Save the machine!\nFreeze one, wake one, nobody can tell,\nContext switch, and they all think it’s going well!\n\n[End]"
+    },
+    {
+      "title": "Lock It Down",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "Two programs reach for the same number at the same time,",
+            "Both of them read it, both add one, and only one makes the line.",
+            "The total should be two, but it’s only one again,",
+            "The critical section needs a guard at the gate, my friend!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Lock it down! (Only one inside!)",
+            "Lock it down! (The rest wait outside!)",
+            "Grab the lock, do the work, then let it go,",
+            "Mutual exclusion, one at a time, you know!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "A semaphore counts how many can get through,",
+            "A mutex is a key, and there’s only one for you.",
+            "Forget to unlock and the others wait for good,",
+            "Lock too much and nothing moves the way it should!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Race condition! (Who got there first?)",
+            "Lock the critical section, or the data’s cursed!"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Bass solo: Nyble",
+          "desc": "Only one instrument may hold the melody at a time. Nyble holds it, hands it to Byt, then takes it back. Once, they both grab it at the same time, and the clash is so ugly they never do it again."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Lock it down! (Only one inside!)",
+            "Lock it down! (The rest wait outside!)",
+            "Grab the lock, do the work, then let it go,",
+            "Mutual exclusion, one at a time, you know!"
+          ]
+        }
+      ],
+      "note": "The studio had one good microphone. This song is about that microphone.",
+      "lesson": "When processes or threads share data, a race condition can corrupt it: two increments can turn into one. The code that touches shared data is a critical section. A mutex (a lock) lets only one in at a time, and a semaphore counts how many can enter. Always release your locks, and lock only what you need.",
+      "n": 6,
+      "sunoTitle": "Lock It Down",
+      "style": "1976 hard rock with an early punk edge, raw fast power trio, tense chugging riff, heavy and tight, 118 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, drummer singing male backing vocals, loud overdriven lead guitar, driving pick-played bass guitar, pounding live drums, gang vocal shouts, raw live-in-the-room tape production",
+      "exclude": "synths, autotune, EDM, trap beats, modern pop, polished radio production",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nTwo programs reach for the same number at the same time,\nBoth of them read it, both add one, and only one makes the line.\nThe total should be two, but it’s only one again,\nThe critical section needs a guard at the gate, my friend!\n\n[Chorus: female lead vocal, male backing vocals]\nLock it down! (Only one inside!)\nLock it down! (The rest wait outside!)\nGrab the lock, do the work, then let it go,\nMutual exclusion, one at a time, you know!\n\n[Verse 2: female lead vocal]\nA semaphore counts how many can get through,\nA mutex is a key, and there’s only one for you.\nForget to unlock and the others wait for good,\nLock too much and nothing moves the way it should!\n\n[Chorus: female lead vocal, male backing vocals]\nLock it down! (Only one inside!)\nLock it down! (The rest wait outside!)\nGrab the lock, do the work, then let it go,\nMutual exclusion, one at a time, you know!\n\n[Bridge: female lead vocal, male backing shouts]\nRace condition! (Who got there first?)\nLock the critical section, or the data’s cursed!\n\n[Bass Guitar Solo: melody passed back and forth with the lead guitar, never both at once]\n\n[Final Chorus: female lead vocal, male backing vocals]\nLock it down! (Only one inside!)\nLock it down! (The rest wait outside!)\nGrab the lock, do the work, then let it go,\nMutual exclusion, one at a time, you know!\n\n[End]"
+    },
+    {
+      "title": "Deadlock (Nobody Moves)",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "I’ve got the drumsticks and I’m waiting for the mic,",
+            "You’ve got the mic, you’re waiting on the bass you like,",
+            "She’s got the bass and she’s waiting for the sticks,",
+            "Nobody gives, and nobody’s gonna fix!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Deadlock! (Nobody moves!)",
+            "Deadlock! (Nobody grooves!)",
+            "Everybody holding on and everybody stuck,",
+            "Waiting in a circle, deadlock, no luck!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "It takes four things together to freeze the whole band:",
+            "One at a time, and holding on while you wait to land,",
+            "No one can take it from you, and the waiting forms a ring,",
+            "Break just one of the four and the band can sing!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Five philosophers at dinner, five forks on the table,",
+            "Everybody grabs the left one, and nobody’s able!"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Deadlock break: full band",
+          "desc": "The band holds one chord, each waiting for someone else. Then four full bars of silence. Then Bytes smashes a crash cymbal, takes the riff away from everyone, and the song starts moving again."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Deadlock! (Nobody moves!)",
+            "Deadlock! (Nobody grooves!)",
+            "Everybody holding on and everybody stuck,",
+            "Waiting in a circle, deadlock, no luck!"
+          ]
+        }
+      ],
+      "note": "The recording sessions deadlocked for three weeks. This song is how they got out.",
+      "lesson": "Deadlock happens when processes each hold a resource while waiting for one another in a cycle. It needs four conditions at once: mutual exclusion, hold and wait, no preemption, and circular wait. Break any one, for example by always taking resources in the same order, and deadlock can’t happen. The dining philosophers are the classic example.",
+      "n": 7,
+      "sunoTitle": "Deadlock (Nobody Moves)",
+      "style": "1976 hard rock with an early punk edge, raw fast power trio, heavy grinding riff that grinds to a total halt mid-song, 100 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, drummer singing male backing vocals, loud overdriven lead guitar, driving pick-played bass guitar, pounding live drums, gang vocal shouts, raw live-in-the-room tape production",
+      "exclude": "synths, autotune, EDM, trap beats, modern pop, polished radio production",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nI’ve got the drumsticks and I’m waiting for the mic,\nYou’ve got the mic, you’re waiting on the bass you like,\nShe’s got the bass and she’s waiting for the sticks,\nNobody gives, and nobody’s gonna fix!\n\n[Chorus: female lead vocal, male backing vocals]\nDeadlock! (Nobody moves!)\nDeadlock! (Nobody grooves!)\nEverybody holding on and everybody stuck,\nWaiting in a circle, deadlock, no luck!\n\n[Verse 2: female lead vocal]\nIt takes four things together to freeze the whole band:\nOne at a time, and holding on while you wait to land,\nNo one can take it from you, and the waiting forms a ring,\nBreak just one of the four and the band can sing!\n\n[Chorus: female lead vocal, male backing vocals]\nDeadlock! (Nobody moves!)\nDeadlock! (Nobody grooves!)\nEverybody holding on and everybody stuck,\nWaiting in a circle, deadlock, no luck!\n\n[Bridge: female lead vocal, male backing shouts]\nFive philosophers at dinner, five forks on the table,\nEverybody grabs the left one, and nobody’s able!\n\n[Instrumental Break: band holds one chord, four bars of total silence, then a huge drum crash restarts the song]\n\n[Final Chorus: female lead vocal, male backing vocals]\nDeadlock! (Nobody moves!)\nDeadlock! (Nobody grooves!)\nEverybody holding on and everybody stuck,\nWaiting in a circle, deadlock, no luck!\n\n[End]"
+    },
+    {
+      "title": "Virtual Memory",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "Every program thinks it owns the whole machine,",
+            "Every address from zero to the top it’s ever seen.",
+            "But it’s an illusion, a map inside the dark,",
+            "The real memory’s smaller, and it’s shared by every spark!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Virtual memory! A world that isn’t there!",
+            "Virtual memory! Addresses in the air!",
+            "Every process gets its own and none of them collide,",
+            "The page table knows where the real ones hide!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Split it into pages, cut the frames to size,",
+            "The table maps the virtual to the real, a clean disguise.",
+            "One program can’t touch another, they live in separate rooms,",
+            "And the pages you’re not using sleep down in the tombs!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Translate! (Virtual to real!)",
+            "The TLB remembers, and that’s the deal!"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Lead guitar solo: Byt",
+          "desc": "Byt’s solo sounds like it sweeps across the whole neck, but every phrase is actually mapped onto the same few frets Nyble lets him borrow. Big address space, small real memory."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Virtual memory! A world that isn’t there!",
+            "Virtual memory! Addresses in the air!",
+            "Every process gets its own and none of them collide,",
+            "The page table knows where the real ones hide!"
+          ]
+        }
+      ],
+      "note": "Byt’s solo sounds like it covers the whole neck. It doesn’t.",
+      "lesson": "Virtual memory gives every process its own private address space. Memory is split into pages, and a page table maps each virtual page to a physical frame; the TLB caches recent translations. This keeps processes apart and lets programs use more memory than the machine physically has.",
+      "n": 8,
+      "sunoTitle": "Virtual Memory",
+      "style": "1976 hard rock with an early punk edge, raw fast power trio, spacey wide-open riff, echoing guitar, big and expansive, 108 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, drummer singing male backing vocals, loud overdriven lead guitar, driving pick-played bass guitar, pounding live drums, gang vocal shouts, raw live-in-the-room tape production",
+      "exclude": "synths, autotune, EDM, trap beats, modern pop, polished radio production",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nEvery program thinks it owns the whole machine,\nEvery address from zero to the top it’s ever seen.\nBut it’s an illusion, a map inside the dark,\nThe real memory’s smaller, and it’s shared by every spark!\n\n[Chorus: female lead vocal, male backing vocals]\nVirtual memory! A world that isn’t there!\nVirtual memory! Addresses in the air!\nEvery process gets its own and none of them collide,\nThe page table knows where the real ones hide!\n\n[Verse 2: female lead vocal]\nSplit it into pages, cut the frames to size,\nThe table maps the virtual to the real, a clean disguise.\nOne program can’t touch another, they live in separate rooms,\nAnd the pages you’re not using sleep down in the tombs!\n\n[Chorus: female lead vocal, male backing vocals]\nVirtual memory! A world that isn’t there!\nVirtual memory! Addresses in the air!\nEvery process gets its own and none of them collide,\nThe page table knows where the real ones hide!\n\n[Bridge: female lead vocal, male backing shouts]\nTranslate! (Virtual to real!)\nThe TLB remembers, and that’s the deal!\n\n[Lead Guitar Solo: sweeping wide-range solo with heavy echo]\n\n[Final Chorus: female lead vocal, male backing vocals]\nVirtual memory! A world that isn’t there!\nVirtual memory! Addresses in the air!\nEvery process gets its own and none of them collide,\nThe page table knows where the real ones hide!\n\n[End]"
+    },
+    {
+      "title": "Page Fault",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "I reach for a page, but the page isn’t there,",
+            "It’s out on the disk, down the hall, down the stair.",
+            "The hardware cries fault and the kernel steps in,",
+            "Fetches it back, and we try it again!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Page fault! (Not in memory!)",
+            "Page fault! (Go and get it for me!)",
+            "Kick one out to make some room,",
+            "Page fault, page fault, impending doom!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Who gets evicted when the memory’s full?",
+            "The least recently used is the one you should pull.",
+            "But too many programs and too little space,",
+            "And you’re swapping all day, and you’re thrashing the place!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Thrashing! (Thrashing!) Nothing gets done!",
+            "All of the time swapping, and no one has fun!"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Drum solo: Bytes",
+          "desc": "Bytes plays a steady beat, but every so often he reaches for a drum that isn’t in his kit and has to stop while a roadie runs to fetch it and carries another one away. By the end the roadie is swapping drums faster than Bytes can play them: thrashing."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Page fault! (Not in memory!)",
+            "Page fault! (Go and get it for me!)",
+            "Kick one out to make some room,",
+            "Page fault, page fault, impending doom!"
+          ]
+        }
+      ],
+      "note": "Bytes’s drum kit was split between the studio and a storage room down the hall. The roadie ran a lot.",
+      "lesson": "When a process touches a page that isn’t in physical memory, a page fault happens: the OS loads the page from disk, evicting another if memory is full, using a replacement policy like least recently used (LRU). When there isn’t enough memory for what the programs are actively using, the system thrashes, spending its time swapping instead of working.",
+      "n": 9,
+      "sunoTitle": "Page Fault",
+      "style": "1976 hard rock with an early punk edge, raw fast power trio, chaotic stop-start punk riff, frantic, 168 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, drummer singing male backing vocals, loud overdriven lead guitar, driving pick-played bass guitar, pounding live drums, gang vocal shouts, raw live-in-the-room tape production",
+      "exclude": "synths, autotune, EDM, trap beats, modern pop, polished radio production",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nI reach for a page, but the page isn’t there,\nIt’s out on the disk, down the hall, down the stair.\nThe hardware cries fault and the kernel steps in,\nFetches it back, and we try it again!\n\n[Chorus: female lead vocal, male backing vocals]\nPage fault! (Not in memory!)\nPage fault! (Go and get it for me!)\nKick one out to make some room,\nPage fault, page fault, impending doom!\n\n[Verse 2: female lead vocal]\nWho gets evicted when the memory’s full?\nThe least recently used is the one you should pull.\nBut too many programs and too little space,\nAnd you’re swapping all day, and you’re thrashing the place!\n\n[Chorus: female lead vocal, male backing vocals]\nPage fault! (Not in memory!)\nPage fault! (Go and get it for me!)\nKick one out to make some room,\nPage fault, page fault, impending doom!\n\n[Bridge: female lead vocal, male backing shouts]\nThrashing! (Thrashing!) Nothing gets done!\nAll of the time swapping, and no one has fun!\n\n[Drum Solo: steady beat interrupted by frantic stops, ending in chaotic thrashing]\n\n[Final Chorus: female lead vocal, male backing vocals]\nPage fault! (Not in memory!)\nPage fault! (Go and get it for me!)\nKick one out to make some room,\nPage fault, page fault, impending doom!\n\n[End]"
+    },
+    {
+      "title": "Everything Is a File",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "Names in a directory, folders in a tree,",
+            "Start up at the root and follow the path to me.",
+            "Slash, home, Nyble, songs, that’s the way that you go,",
+            "Every file has a name and a place, you know!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Everything is a file! (Everything is a file!)",
+            "The disk, the printer, the keyboard all the while!",
+            "Open it, read it, write it, close it tight,",
+            "Everything is a file, and the file is right!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Behind the name, an inode holds the key,",
+            "Where the blocks are scattered and how big it’ll be.",
+            "Read, write, execute, the permissions on the door,",
+            "Owner, group and others, who can see what for!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Read! (Read!) Write! (Write!) Execute! (Execute!)",
+            "Check the permissions before you touch the loot!"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Bass solo: Nyble",
+          "desc": "Nyble’s solo is a directory tree: one root phrase, and each new phrase opens a folder inside the last. At the bottom she finds the file she was looking for, then climbs back up the same path to the root."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Everything is a file! (Everything is a file!)",
+            "The disk, the printer, the keyboard all the while!",
+            "Open it, read it, write it, close it tight,",
+            "Everything is a file, and the file is right!"
+          ]
+        }
+      ],
+      "note": "The only song where all three members sing the whole chorus together.",
+      "lesson": "A file system organizes data into files and nested directories starting from a root, named by paths. Metadata (in Unix, an inode) records where a file’s blocks are, its size and its permissions: read, write and execute for the owner, the group and everyone else. Unix even treats devices as files, so one open/read/write/close interface works for everything.",
+      "n": 10,
+      "sunoTitle": "Everything Is a File",
+      "style": "1976 hard rock with an early punk edge, raw fast power trio, punchy mid-tempo rocker with a big sing-along chorus, 124 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, drummer singing male backing vocals, loud overdriven lead guitar, driving pick-played bass guitar, pounding live drums, gang vocal shouts, raw live-in-the-room tape production",
+      "exclude": "synths, autotune, EDM, trap beats, modern pop, polished radio production",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nNames in a directory, folders in a tree,\nStart up at the root and follow the path to me.\nSlash, home, Nyble, songs, that’s the way that you go,\nEvery file has a name and a place, you know!\n\n[Chorus: female lead vocal, male backing vocals]\nEverything is a file! (Everything is a file!)\nThe disk, the printer, the keyboard all the while!\nOpen it, read it, write it, close it tight,\nEverything is a file, and the file is right!\n\n[Verse 2: female lead vocal]\nBehind the name, an inode holds the key,\nWhere the blocks are scattered and how big it’ll be.\nRead, write, execute, the permissions on the door,\nOwner, group and others, who can see what for!\n\n[Chorus: female lead vocal, male backing vocals]\nEverything is a file! (Everything is a file!)\nThe disk, the printer, the keyboard all the while!\nOpen it, read it, write it, close it tight,\nEverything is a file, and the file is right!\n\n[Bridge: female lead vocal, male backing shouts]\nRead! (Read!) Write! (Write!) Execute! (Execute!)\nCheck the permissions before you touch the loot!\n\n[Bass Guitar Solo: one root phrase branching into deeper phrases, then climbing back]\n\n[Final Chorus: female lead vocal, male backing vocals]\nEverything is a file! (Everything is a file!)\nThe disk, the printer, the keyboard all the while!\nOpen it, read it, write it, close it tight,\nEverything is a file, and the file is right!\n\n[End]"
+    },
+    {
+      "title": "Device Driver",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "Every printer speaks a language of its own,",
+            "Every disk has its secrets, every terminal its tone.",
+            "The kernel can’t learn them all, there are too many to know,",
+            "So the driver translates and tells it where to go!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Device driver! Talk to the machine!",
+            "Device driver! Speak to the unseen!",
+            "One interface on top and a thousand down below,",
+            "Device driver, driver, make the hardware go!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Buffer it and queue it, because the disk is slow,",
+            "Gather up the writes and then let them flow.",
+            "The hardware raises interrupts to say the job is through,",
+            "The driver wakes the waiting one and hands it back to you!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Abstraction! (One for all!)",
+            "The driver hides the hardware behind the wall!"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Lead guitar solo: Byt",
+          "desc": "Byt plays the same riff through three different amplifiers, one after another, and Nyble adjusts the knobs on each so they all come out sounding identical. The driver hides the difference."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Device driver! Talk to the machine!",
+            "Device driver! Speak to the unseen!",
+            "One interface on top and a thousand down below,",
+            "Device driver, driver, make the hardware go!"
+          ]
+        }
+      ],
+      "note": "Recorded through three different amplifiers. You shouldn’t be able to tell.",
+      "lesson": "A device driver is kernel code that knows how to control one kind of hardware and offers the rest of the operating system a standard interface, so nothing else needs to know the details. Drivers handle buffering, queuing requests and responding to the device’s interrupts.",
+      "n": 11,
+      "sunoTitle": "Device Driver",
+      "style": "1976 hard rock with an early punk edge, raw fast power trio, gritty mechanical riff, heavy and grinding, 112 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, drummer singing male backing vocals, loud overdriven lead guitar, driving pick-played bass guitar, pounding live drums, gang vocal shouts, raw live-in-the-room tape production",
+      "exclude": "synths, autotune, EDM, trap beats, modern pop, polished radio production",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nEvery printer speaks a language of its own,\nEvery disk has its secrets, every terminal its tone.\nThe kernel can’t learn them all, there are too many to know,\nSo the driver translates and tells it where to go!\n\n[Chorus: female lead vocal, male backing vocals]\nDevice driver! Talk to the machine!\nDevice driver! Speak to the unseen!\nOne interface on top and a thousand down below,\nDevice driver, driver, make the hardware go!\n\n[Verse 2: female lead vocal]\nBuffer it and queue it, because the disk is slow,\nGather up the writes and then let them flow.\nThe hardware raises interrupts to say the job is through,\nThe driver wakes the waiting one and hands it back to you!\n\n[Chorus: female lead vocal, male backing vocals]\nDevice driver! Talk to the machine!\nDevice driver! Speak to the unseen!\nOne interface on top and a thousand down below,\nDevice driver, driver, make the hardware go!\n\n[Bridge: female lead vocal, male backing shouts]\nAbstraction! (One for all!)\nThe driver hides the hardware behind the wall!\n\n[Lead Guitar Solo: one riff played through three different amp tones that end up sounding identical]\n\n[Final Chorus: female lead vocal, male backing vocals]\nDevice driver! Talk to the machine!\nDevice driver! Speak to the unseen!\nOne interface on top and a thousand down below,\nDevice driver, driver, make the hardware go!\n\n[End]"
+    },
+    {
+      "title": "Kernel Panic",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "A pointer to nowhere, deep inside the core,",
+            "The kernel trips and stumbles and it hits the floor.",
+            "There’s no one above it to catch it when it falls,",
+            "When the kernel breaks, it’s the end of it all!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Kernel panic! Everything stops!",
+            "Kernel panic! The whole system drops!",
+            "No safety net, no handler, no one left to call,",
+            "Kernel panic, panic, it takes down them all!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "A program crashes and the kernel cleans it up,",
+            "But who cleans up the kernel when it drinks the poisoned cup?",
+            "Dump the memory, print the message on the screen,",
+            "Then reboot and start again, the cleanest you’ve ever seen!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Panic! (Panic!) Halt and dump the core!",
+            "Reboot! (Reboot!) Start it like before!"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Crash and reboot: full band",
+          "desc": "Everything goes wrong at once: the band plays every part at full speed into a wall of noise and stops dead. Silence. Then the opening riff of Bootstrap, from the top. Reboot."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Kernel panic! Everything stops!",
+            "Kernel panic! The whole system drops!",
+            "No safety net, no handler, no one left to call,",
+            "Kernel panic, panic, it takes down them all!"
+          ]
+        }
+      ],
+      "note": "The tape machine crashed on the last day. The band recorded this in one take while it rebooted.",
+      "lesson": "A kernel panic is a fatal error inside the operating system kernel itself. Nothing runs above the kernel to recover it, so it halts, often saving a memory dump for debugging, and the machine has to reboot. That’s why kernel code has to be especially careful: a bug there takes everything down.",
+      "n": 12,
+      "sunoTitle": "Kernel Panic",
+      "style": "1976 hard rock with an early punk edge, raw fast power trio, furious fast punk closer that collapses into noise and silence, then restarts, 176 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, drummer singing male backing vocals, loud overdriven lead guitar, driving pick-played bass guitar, pounding live drums, gang vocal shouts, raw live-in-the-room tape production",
+      "exclude": "synths, autotune, EDM, trap beats, modern pop, polished radio production",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nA pointer to nowhere, deep inside the core,\nThe kernel trips and stumbles and it hits the floor.\nThere’s no one above it to catch it when it falls,\nWhen the kernel breaks, it’s the end of it all!\n\n[Chorus: female lead vocal, male backing vocals]\nKernel panic! Everything stops!\nKernel panic! The whole system drops!\nNo safety net, no handler, no one left to call,\nKernel panic, panic, it takes down them all!\n\n[Verse 2: female lead vocal]\nA program crashes and the kernel cleans it up,\nBut who cleans up the kernel when it drinks the poisoned cup?\nDump the memory, print the message on the screen,\nThen reboot and start again, the cleanest you’ve ever seen!\n\n[Chorus: female lead vocal, male backing vocals]\nKernel panic! Everything stops!\nKernel panic! The whole system drops!\nNo safety net, no handler, no one left to call,\nKernel panic, panic, it takes down them all!\n\n[Bridge: female lead vocal, male backing shouts]\nPanic! (Panic!) Halt and dump the core!\nReboot! (Reboot!) Start it like before!\n\n[Instrumental Break: full band chaos into abrupt silence, then the opening riff restarts from the top]\n\n[Final Chorus: female lead vocal, male backing vocals]\nKernel panic! Everything stops!\nKernel panic! The whole system drops!\nNo safety net, no handler, no one left to call,\nKernel panic, panic, it takes down them all!\n\n[End]"
+    }
+  ]
+}

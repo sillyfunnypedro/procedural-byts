@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>CS1 — Bytes, Nybles & Byts</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Metal+Mania&family=Spectral:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#e6e1ea; --ink:#2a1630; --muted:#6a5872; --accent:#b8560f; --accent2:#7a1f2b;
+  --sleeve:#2a1630; --sleeve-ink:#f2c46a; --rule:#c6bccd; --code:#d8d0de;
+  color-scheme: light;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px);
+  padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#160a0d; --ink:#eadfd2; --muted:#a6948a; --accent:#f0a33c; --accent2:#e2533a;
+    --sleeve:#2b0f14; --sleeve-ink:#f2c46a; --rule:#3a2227; --code:#2a1519;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#160a0d; --ink:#eadfd2; --muted:#a6948a; --accent:#f0a33c; --accent2:#e2533a;
+  --sleeve:#2b0f14; --sleeve-ink:#f2c46a; --rule:#3a2227; --code:#2a1519;
+  color-scheme: dark;
+}
+*,*::before,*::after{box-sizing:inherit}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{margin:0;background:var(--bg);color:var(--ink);
+  font-family:"Spectral",Georgia,"Times New Roman",serif;font-size:1.0625rem;line-height:1.65}
+.wrap{max-width:40rem;margin:0 auto;padding:0 1.25rem 4rem}
+.metal{font-family:"Metal Mania","Copperplate",Impact,fantasy;font-weight:400;letter-spacing:.01em}
+
+/* Cover */
+.cover{background:var(--sleeve);color:var(--sleeve-ink);
+  aspect-ratio:1/1;max-width:40rem;margin:1.25rem auto 0;
+  display:flex;flex-direction:column;justify-content:space-between;
+  padding:1.5rem;position:relative;overflow:hidden}
+.cover::before{content:"";position:absolute;inset:-20%;
+  background:repeating-radial-gradient(circle at 50% 120%, transparent 0 14px, rgba(242,196,106,.07) 14px 15px);
+  pointer-events:none}
+.band{font-size:clamp(1.6rem,7vw,2.6rem);line-height:1.05;margin:0;position:relative}
+.title{font-size:clamp(7rem,42vw,17rem);line-height:.8;margin:0;align-self:flex-end;position:relative;
+  color:transparent;-webkit-text-stroke:2px var(--sleeve-ink);
+  text-shadow:6px 6px 0 rgba(226,83,58,.55)}
+.cover small{position:relative;font-style:italic;opacity:.85}
+
+/* Tracklist */
+.sides{display:grid;grid-template-columns:1fr;gap:1.5rem;margin:2.5rem 0 1rem}
+@media (min-width:34rem){.sides{grid-template-columns:1fr 1fr}}
+.sides h2{font-size:1.6rem;margin:0 0 .4rem;color:var(--accent2)}
+.sides ol{margin:0;padding-left:1.6rem}
+.sides li{margin:.15rem 0}
+.sides a{color:var(--ink);text-decoration-color:var(--rule);text-underline-offset:3px}
+.sides a:hover,.sides a:focus-visible{color:var(--accent)}
+.sides ol.b{counter-reset:none}
+a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+/* Songs */
+.song{border-top:3px double var(--rule);padding-top:2rem;margin-top:3rem}
+.song h2{font-size:clamp(2rem,8vw,2.8rem);line-height:1;margin:0 0 .3rem;color:var(--accent2)}
+.num{color:var(--accent);display:block;font-size:1.1rem;font-style:italic;font-family:"Spectral",Georgia,serif;margin-bottom:.25rem}
+.style{font-style:italic;color:var(--muted);margin:0 0 1.5rem}
+.part{margin:0 0 1.4rem}
+.part h3{font-size:.95rem;font-weight:600;margin:0 0 .2rem;color:var(--accent)}
+.part p{margin:0}
+.chorus p{padding-left:1rem;border-left:3px solid var(--accent)}
+.again{font-style:italic;color:var(--muted);margin:0 0 1.4rem}
+.spoken p{font-style:italic}
+code{font-family:ui-monospace,"SF Mono",Menlo,Consolas,monospace;font-size:.88em;
+  background:var(--code);padding:.05em .3em;border-radius:3px;white-space:nowrap}
+.lesson{margin-top:1.8rem;padding:1rem 1.1rem;background:var(--code);font-size:.97rem}
+.lesson strong{color:var(--accent2)}
+footer{margin-top:4rem;text-align:center;color:var(--muted);font-style:italic}
+@media (max-width:22rem){code{white-space:normal}}
+</style>
+</head>
+<body>
+
+<header class="cover" role="img" aria-label="Album cover: CS1 by Bytes, Nybles and Byts">
+  <p class="band metal">Bytes, Nybles &amp; Byts</p>
+  <p class="title metal">CS1</p>
+  <small>Twelve songs for the first semester. Play loud.</small>
+</header>
+
+<main class="wrap">
+
+<nav class="sides" aria-label="Track list">
+  <div>
+    <h2 class="metal">Side A</h2>
+    <ol>
+      <li><a href="#t1">Hello, World (Awaken)</a></li>
+      <li><a href="#t2">Bound in Memory</a></li>
+      <li><a href="#t3">Truth Tables of Doom</a></li>
+      <li><a href="#t4">The Crossroads of Logic</a></li>
+      <li><a href="#t5">Iron Iteration</a></li>
+      <li><a href="#t6">Call of the Function</a></li>
+    </ol>
+  </div>
+  <div>
+    <h2 class="metal">Side B</h2>
+    <ol start="7">
+      <li><a href="#t7">Chains of Characters</a></li>
+      <li><a href="#t8">Index of Doom</a></li>
+      <li><a href="#t9">Blueprint of the Beast</a></li>
+      <li><a href="#t10">Bug in the Machine</a></li>
+      <li><a href="#t11">Sorting the Damned</a></li>
+      <li><a href="#t12">Base Case</a></li>
+    </ol>
+  </div>
+</nav>
+
+<!-- 1 -->
+<section class="song" id="t1">
+  <span class="num">Track 1</span>
+  <h2 class="metal">Hello, World (Awaken)</h2>
+  <p class="style">Opens with a lone, droning organ; the guitars crash in on the first print.</p>
+  <div class="part spoken"><h3>Intro, spoken</h3><p>In the beginning there was the void… and a blinking cursor.</p></div>
+  <div class="part"><h3>Verse 1</h3><p>
+    The screen is black, the cursor blinks,<br>
+    The machine is waiting, it never thinks.<br>
+    I type the words the elders knew,<br>
+    <code>print("Hello, World")</code> — and the light breaks through!</p></div>
+  <div class="part chorus"><h3>Chorus</h3><p>
+    Hello, World! I am alive!<br>
+    Run the code and watch it thrive!<br>
+    One line of power, one line of fire,<br>
+    The first command of the code-born choir!</p></div>
+  <div class="part"><h3>Verse 2</h3><p>
+    Source to the compiler, compiler to the core,<br>
+    Syntax errors scream at me, I fix them, run once more.<br>
+    A semicolon missing brought the whole thing down,<br>
+    But now my words are glowing and I wear the coder’s crown!</p></div>
+  <p class="again">Chorus</p>
+  <div class="part"><h3>Bridge</h3><p>
+    Input! Output! The sacred flow!<br>
+    Keyboard above and the screen below!<br>
+    Read what they give me, show what I know,<br>
+    Instructions in order, row after row!</p></div>
+  <div class="part spoken"><h3>Outro</h3><p>Hello… world… hello… world…</p></div>
+  <p class="lesson"><strong>Lesson:</strong> a program is a list of instructions run in order. You write source code, the computer translates and runs it, syntax errors stop it before it starts, and input and output are how it talks to the world.</p>
+</section>
+
+<!-- 2 -->
+<section class="song" id="t2">
+  <span class="num">Track 2</span>
+  <h2 class="metal">Bound in Memory</h2>
+  <p class="style">Mid-tempo stomp, every line lands like a hammer on an anvil.</p>
+  <div class="part"><h3>Verse 1</h3><p>
+    I carve a name upon a box of iron and of steel,<br>
+    <code>int score = 0;</code> — the bargain’s sealed.<br>
+    A variable’s a vessel with a name upon the door,<br>
+    Assign it something new and the old is gone forevermore!</p></div>
+  <div class="part chorus"><h3>Chorus</h3><p>
+    Bound in memory! Name and value!<br>
+    Bound in memory! Typed and true!<br>
+    Int and double, boolean, char,<br>
+    Know your type and you’ll go far!</p></div>
+  <div class="part"><h3>Verse 2</h3><p>
+    An int holds the whole ones, no fraction can it keep,<br>
+    A double holds the decimals that wander through the deep,<br>
+    A boolean knows only true or false, the day or night,<br>
+    A char is one lone letter, and a String’s a word of might!</p></div>
+  <p class="again">Chorus</p>
+  <div class="part"><h3>Bridge</h3><p>
+    Seven divided by two! (Is three!)<br>
+    Integer division throws the half away from me!<br>
+    Cast it to a double if you want the point-five,<br>
+    Or the truncation demon eats your fraction alive!</p></div>
+  <div class="part spoken"><h3>Outro</h3><p><code>score = score + 1;</code> … the box remembers.</p></div>
+  <p class="lesson"><strong>Lesson:</strong> a variable is a named place that holds a value. Its type decides what it can hold, assignment replaces the old value, and integer division drops the fractional part.</p>
+</section>
+
+<!-- 3 -->
+<section class="song" id="t3">
+  <span class="num">Track 3</span>
+  <h2 class="metal">Truth Tables of Doom</h2>
+  <p class="style">Grinding, chromatic riff that only ever lands on two notes: true and false.</p>
+  <div class="part"><h3>Verse 1</h3><p>
+    Plus and minus, times, divide, the ancient math of men,<br>
+    Modulo hands back what’s left, again and yet again.<br>
+    Precedence decides which blow will fall before the rest,<br>
+    Parentheses will bend the order — use them when you’re pressed!</p></div>
+  <div class="part chorus"><h3>Chorus</h3><p>
+    True! False! The judgement falls!<br>
+    And, or, not through the marble halls!<br>
+    Both must be true for the AND to rise,<br>
+    Just one for the OR, and the NOT turns lies!</p></div>
+  <div class="part"><h3>Verse 2</h3><p>
+    Double equals asks a question, single equals takes,<br>
+    Mix them up, oh wretched one, and feel the code that breaks!<br>
+    Less than, greater, not equal — comparisons of steel,<br>
+    They forge the truth that every branch and every loop will feel.</p></div>
+  <p class="again">Chorus</p>
+  <div class="part"><h3>Bridge</h3><p>
+    Short circuit! (Short circuit!)<br>
+    If the first is false, the AND won’t see!<br>
+    Short circuit! (Short circuit!)<br>
+    If the first is true, the OR goes free!</p></div>
+  <div class="part spoken"><h3>Outro</h3><p>Not true… is false… is false…</p></div>
+  <p class="lesson"><strong>Lesson:</strong> arithmetic operators (including <code>%</code> for remainder) follow precedence rules; <code>==</code> compares while <code>=</code> assigns; <code>&amp;&amp;</code>, <code>||</code> and <code>!</code> combine conditions, and they stop early once the answer is known.</p>
+</section>
+
+<!-- 4 -->
+<section class="song" id="t4">
+  <span class="num">Track 4</span>
+  <h2 class="metal">The Crossroads of Logic</h2>
+  <p class="style">Thunderous drums, a riff that splits into two guitars at every fork.</p>
+  <div class="part spoken"><h3>Intro, spoken</h3><p>Every program reaches the crossroads… and it must choose its path.</p></div>
+  <div class="part"><h3>Verse 1</h3><p>
+    I stand at the fork where the dark roads divide,<br>
+    <code>if</code> the condition is true, I go to one side.<br>
+    <code>else</code> I take the other, there’s no in-between,<br>
+    True or false, the sharpest blade you’ve seen!<br>
+    <code>else if</code>, <code>else if</code>, I can chain them in a row,<br>
+    Checking every gate till I know where to go!</p></div>
+  <div class="part chorus"><h3>Chorus</h3><p>
+    Decide! Decide! The branches are calling!<br>
+    One path is rising, the other is falling!<br>
+    Test it with <code>if</code> or switch on the sign,<br>
+    The program obeys, the choice is divine!</p></div>
+  <div class="part"><h3>Verse 2</h3><p>
+    When the question is a range, like greater than ten,<br>
+    When AND meets OR in the battle again,<br>
+    When the truths are tangled and they can’t be named,<br>
+    <code>if</code> is the hammer that won’t be tamed!</p></div>
+  <div class="part"><h3>Verse 3</h3><p>
+    Now the switch is a judge with a single decree,<br>
+    He takes one value and he sets it free.<br>
+    Case one, case two, case three in a row,<br>
+    He jumps to the match and he lets it go!<br>
+    And the <code>default</code> waits when no case is true,<br>
+    The last line of defense standing guard over you!</p></div>
+  <div class="part"><h3>Bridge</h3><p>
+    Fall through! (Fall through!) Forgot to <code>break</code> the line!<br>
+    Fall through! (Fall through!) Now you’re running every case in time!<br>
+    Put your <code>break</code> at the end of the deed,<br>
+    Or the cases will bleed, the cases will bleed!</p></div>
+  <div class="part chorus"><h3>Final chorus</h3><p>
+    <code>if</code> for the ranges! <code>if</code> for the twisted and the true!<br>
+    Switch for one value with exact cases to see you through!<br>
+    Decide! Decide! The branches are calling!<br>
+    The program obeys, or the program is falling!</p></div>
+  <p class="lesson"><strong>Lesson:</strong> use <code>if</code>/<code>else if</code>/<code>else</code> for ranges and compound conditions; use <code>switch</code> when one value is compared against many exact options. In classic switch syntax, a missing <code>break</code> falls through to the next case.</p>
+</section>
+
+<!-- 5 -->
+<section class="song" id="t5">
+  <span class="num">Track 5</span>
+  <h2 class="metal">Iron Iteration</h2>
+  <p class="style">Slow, doom-laden riff in E, then it gallops.</p>
+  <div class="part spoken"><h3>Intro, spoken over feedback</h3><p>In the depths of the machine, where the instructions never sleep… there are three ways to repeat.</p></div>
+  <div class="part"><h3>Verse 1</h3><p>
+    I know where I’m starting, I know where I’ll end,<br>
+    A counter in my fist from one up to ten.<br>
+    <code>for i = 1</code>, and I march down the line,<br>
+    Each step is numbered, each step is mine!<br>
+    When the count runs out, I break from the chain,<br>
+    I know how many times I’ll ride through the pain!</p></div>
+  <div class="part chorus"><h3>Chorus</h3><p>
+    Loop! Loop! Around and around!<br>
+    The code keeps on turning, it’s iron-bound!<br>
+    Count it, or check it, before or behind,<br>
+    Iteration is burning a hole in my mind!</p></div>
+  <div class="part"><h3>Verse 2</h3><p>
+    Now the while is a watchman who stands at the gate,<br>
+    He checks the condition before you can wait.<br>
+    While the fire is burning, he lets you inside,<br>
+    But if it’s already false, you’ll never ride!<br>
+    Zero times or forever, he won’t say which,<br>
+    Forget to change the test and you’re stuck in the ditch!</p></div>
+  <p class="again">Chorus</p>
+  <div class="part"><h3>Bridge</h3><p>
+    Infinite loop! (Infinite loop!) No way out of the hall!<br>
+    Infinite loop! (Infinite loop!) Forgot to update it all!<br>
+    Change the variable, break the spell,<br>
+    Or spin forever in silicon hell!</p></div>
+  <div class="part"><h3>Verse 3</h3><p>
+    Repeat until: the reckless one,<br>
+    He charges through the door before the test is done.<br>
+    He does the deed once, then he asks the question,<br>
+    Until the dragon’s dead, no hesitation!<br>
+    At least one time he’ll swing the blade,<br>
+    The check comes after the move is made!</p></div>
+  <div class="part chorus"><h3>Final chorus</h3><p>
+    For when you know the number!<br>
+    While when you check before!<br>
+    Repeat until you’ve done it once,<br>
+    Then test it at the door!</p></div>
+  <p class="lesson"><strong>Lesson:</strong> <code>for</code> when the number of repetitions is known; <code>while</code> tests first and may run zero times; repeat-until (do-while) tests last and always runs at least once. Something inside the loop must move it toward stopping.</p>
+</section>
+
+<!-- 6 -->
+<section class="song" id="t6">
+  <span class="num">Track 6</span>
+  <h2 class="metal">Call of the Function</h2>
+  <p class="style">Call-and-response anthem; the crowd shouts back every “Call!”</p>
+  <div class="part"><h3>Verse 1</h3><p>
+    Don’t write it twice, don’t write it thrice, the wise ones always say,<br>
+    Wrap the deed inside a name and call it any day.<br>
+    Define the ritual, give it parameters to hold,<br>
+    Pass arguments into the gate and watch the spell unfold!</p></div>
+  <div class="part chorus"><h3>Chorus</h3><p>
+    Call! (Call!) The function answers!<br>
+    Call! (Call!) It does the deed!<br>
+    Takes what you give and returns what you need!<br>
+    Call! Call! Call!</p></div>
+  <div class="part"><h3>Verse 2</h3><p>
+    <code>return</code> sends the treasure back to the one who made the call,<br>
+    A <code>void</code> one does its work and gives back nothing at all.<br>
+    The variables inside it live and die within its walls,<br>
+    That’s scope, my friend — what’s born inside, outside it never crawls!</p></div>
+  <p class="again">Chorus</p>
+  <div class="part"><h3>Bridge</h3><p>
+    Break it down! (Break it down!) Big problems into small!<br>
+    Decompose! (Decompose!) And conquer them all!<br>
+    Name it well and test it alone,<br>
+    Each little function a stepping stone!</p></div>
+  <div class="part spoken"><h3>Outro</h3><p>Return… return… return.</p></div>
+  <p class="lesson"><strong>Lesson:</strong> functions (methods) package code under a name so it can be reused. Parameters are the placeholders, arguments are the actual values passed in, <code>return</code> hands a result back, local variables only exist inside, and big problems get broken into small functions.</p>
+</section>
+
+<!-- 7 -->
+<section class="song" id="t7">
+  <span class="num">Track 7</span>
+  <h2 class="metal">Chains of Characters</h2>
+  <p class="style">Side B opens with clanking chains and a twin-guitar harmony line.</p>
+  <div class="part"><h3>Verse 1</h3><p>
+    Letters bound together in a chain of shining links,<br>
+    A String’s a row of characters, it’s more than you think.<br>
+    <code>charAt</code> reaches in and pulls a single letter out,<br>
+    <code>length</code> counts up every link, from the whisper to the shout!</p></div>
+  <div class="part chorus"><h3>Chorus</h3><p>
+    Chains! Chains of characters!<br>
+    Concatenate and bind!<br>
+    Plus will forge them into one,<br>
+    Link by link aligned!</p></div>
+  <div class="part"><h3>Verse 2</h3><p>
+    <code>substring</code> cuts a piece away — the start is kept, the end is not,<br>
+    Remember that, or lose the final letter that you got!<br>
+    Compare them with <code>.equals</code>, never with the double sign,<br>
+    Or you’re checking where they live, not the words upon the line!</p></div>
+  <p class="again">Chorus</p>
+  <div class="part"><h3>Bridge</h3><p>
+    Immutable! (Immutable!) The chain can never change!<br>
+    Every edit forges new, the old one stays the same!<br>
+    Uppercase, replace, or trim the ends,<br>
+    You get a brand new chain, my friends!</p></div>
+  <p class="lesson"><strong>Lesson:</strong> a string is a sequence of characters, indexed from zero. <code>+</code> joins strings, <code>substring(start, end)</code> excludes the end index, Java strings are compared with <code>.equals</code> rather than <code>==</code>, and string methods return new strings instead of changing the original.</p>
+</section>
+
+<!-- 8 -->
+<section class="song" id="t8">
+  <span class="num">Track 8</span>
+  <h2 class="metal">Index of Doom</h2>
+  <p class="style">Funeral-march tempo that counts out every slot, starting from zero.</p>
+  <div class="part"><h3>Verse 1</h3><p>
+    A row of iron coffins lined up in the night,<br>
+    One name to rule them all, each slot sealed tight.<br>
+    The first one is the zero, don’t you dare forget,<br>
+    The count begins at nothing — it’s the oldest debt!</p></div>
+  <div class="part chorus"><h3>Chorus</h3><p>
+    Index! Index! Zero to n minus one!<br>
+    Index! Index! Till the array is done!<br>
+    Square brackets open the coffin lid,<br>
+    <code>a[i]</code> reveals what the darkness hid!</p></div>
+  <div class="part"><h3>Verse 2</h3><p>
+    Walk it with a <code>for</code> loop from the zero to the end,<br>
+    <code>length</code> tells you just how far the march will extend.<br>
+    An array is fixed in size, the coffins cannot grow,<br>
+    But a list will stretch and swallow more — <code>add</code> and watch it go!</p></div>
+  <p class="again">Chorus</p>
+  <div class="part"><h3>Bridge</h3><p>
+    Out of bounds! (Out of bounds!) Index n is not there!<br>
+    Out of bounds! (Out of bounds!) The exception rips the air!<br>
+    Off by one, off by one,<br>
+    The curse of every coder’s son!</p></div>
+  <div class="part spoken"><h3>Outro</h3><p>Zero… one… two… n minus one… (silence)</p></div>
+  <p class="lesson"><strong>Lesson:</strong> an array stores many values under one name, indexed from 0 to length − 1. Arrays have a fixed size; lists (like <code>ArrayList</code>) can grow. Using index <code>length</code> or beyond crashes, and off-by-one errors are the classic loop bug.</p>
+</section>
+
+<!-- 9 -->
+<section class="song" id="t9">
+  <span class="num">Track 9</span>
+  <h2 class="metal">Blueprint of the Beast</h2>
+  <p class="style">Epic, galloping, with a choir of identical voices that slowly drift apart.</p>
+  <div class="part"><h3>Verse 1</h3><p>
+    In the forge of the class the blueprint’s drawn in fire,<br>
+    Fields to hold its memory, methods for its ire.<br>
+    But the blueprint’s not the beast, it’s just the plan, the mold,<br>
+    <code>new</code> breathes life into the iron, makes the object bold!</p></div>
+  <div class="part chorus"><h3>Chorus</h3><p>
+    Blueprint of the beast!<br>
+    One class, a thousand forms!<br>
+    Each object holds its own state<br>
+    Through the raging storms!</p></div>
+  <div class="part"><h3>Verse 2</h3><p>
+    The constructor is the birth rite, sets the fields when life begins,<br>
+    <code>this</code> speaks of the object’s self, what lies within its skin.<br>
+    Keep your fields <code>private</code>, guard them with your might,<br>
+    Let the methods be the gatekeepers — encapsulation’s right!</p></div>
+  <p class="again">Chorus</p>
+  <div class="part"><h3>Bridge</h3><p>
+    Instance! (Instance!) Two dragons from one mold!<br>
+    Instance! (Instance!) One is young and one is old!<br>
+    Same methods, different fire,<br>
+    Each one burns with its own desire!</p></div>
+  <p class="lesson"><strong>Lesson:</strong> a class is a blueprint; objects are instances made with <code>new</code>. Fields hold each object’s own state, methods define its behavior, the constructor sets it up, <code>this</code> refers to the current object, and <code>private</code> fields with public methods give you encapsulation.</p>
+</section>
+
+<!-- 10 -->
+<section class="song" id="t10">
+  <span class="num">Track 10</span>
+  <h2 class="metal">Bug in the Machine</h2>
+  <p class="style">Paranoid, skittering riff; the drums keep dropping out like something’s wrong.</p>
+  <div class="part"><h3>Verse 1</h3><p>
+    It compiled without a warning, but the answer’s wrong,<br>
+    Something’s crawling in the shadows where it don’t belong.<br>
+    Syntax was the easy foe, the compiler shows its face,<br>
+    But logic bugs are phantoms and they never leave a trace!</p></div>
+  <div class="part chorus"><h3>Chorus</h3><p>
+    Bug in the machine! Hunt it down!<br>
+    Print the values, trace the ground!<br>
+    Read the error, find the line,<br>
+    Test it till the output’s fine!</p></div>
+  <div class="part"><h3>Verse 2</h3><p>
+    Read the stack trace like a map that leads you to the lair,<br>
+    Set a breakpoint, step by step, the debugger takes you there.<br>
+    Predict before you run it, then compare what came to be,<br>
+    The gap between expected and the actual sets you free!</p></div>
+  <p class="again">Chorus</p>
+  <div class="part"><h3>Bridge</h3><p>
+    Test the edges! (Test the edges!) Zero, empty, negative one!<br>
+    Test the edges! (Test the edges!) Before your work is done!<br>
+    The biggest and the smallest and the one that isn’t there,<br>
+    That’s where the bugs are breeding, so beware!</p></div>
+  <div class="part spoken"><h3>Outro</h3><p>Explain it to the rubber duck… the duck knows… the duck always knows.</p></div>
+  <p class="lesson"><strong>Lesson:</strong> syntax errors are caught before running, runtime errors crash with a stack trace, and logic errors give wrong answers quietly. Debug by predicting the output, printing or stepping through values, and testing edge cases.</p>
+</section>
+
+<!-- 11 -->
+<section class="song" id="t11">
+  <span class="num">Track 11</span>
+  <h2 class="metal">Sorting the Damned</h2>
+  <p class="style">Starts chaotic and atonal, and the riff literally falls into order by the last chorus.</p>
+  <div class="part"><h3>Verse 1</h3><p>
+    Searching through the darkness, one by one I walk the line,<br>
+    Linear search checks every soul until the target I find.<br>
+    But if the list is sorted, cut the realm in half,<br>
+    Binary search divides and laughs the conqueror’s laugh!</p></div>
+  <div class="part chorus"><h3>Chorus</h3><p>
+    Sort them! Sort the damned!<br>
+    Order from the chaos by my hand!<br>
+    Swap them! Compare them!<br>
+    Smallest to the front of the land!</p></div>
+  <div class="part"><h3>Verse 2</h3><p>
+    Selection finds the smallest, drags it to the front,<br>
+    Insertion slides each newcomer in, a careful hunt,<br>
+    Bubble swaps the neighbors till the giants reach the skies,<br>
+    Slow but true — n squared beneath the burning skies!</p></div>
+  <p class="again">Chorus</p>
+  <div class="part"><h3>Bridge</h3><p>
+    Big O! (Big O!) How the time will grow!<br>
+    n for the linear, walking slow!<br>
+    Log n for the halving blow!<br>
+    n squared when the sorts are slow!</p></div>
+  <p class="lesson"><strong>Lesson:</strong> linear search checks each item (time grows with n); binary search halves a <em>sorted</em> list each step (log n). Selection, insertion and bubble sort are simple but take about n² comparisons. Big-O describes how running time grows with input size.</p>
+</section>
+
+<!-- 12 -->
+<section class="song" id="t12">
+  <span class="num">Track 12</span>
+  <h2 class="metal">Base Case</h2>
+  <p class="style">Eight-minute closer: each verse is a little shorter than the last, until it hits bottom and climbs back out.</p>
+  <div class="part"><h3>Verse 1</h3><p>
+    A function that calls itself, a mirror in a mirror’s eye,<br>
+    Each call a smaller problem as the stack climbs high.<br>
+    Factorial of n is n times factorial of n minus one,<br>
+    Down and down the spiral till the smallest case is done!</p></div>
+  <div class="part chorus"><h3>Chorus</h3><p>
+    Base case! The floor of the abyss!<br>
+    Base case! Without it, nothing but this!<br>
+    Every step must shrink the fight,<br>
+    Till the base case brings the light!</p></div>
+  <div class="part"><h3>Verse 2</h3><p>
+    Then the calls return like warriors home from war,<br>
+    Each one hands its answer back to the one that came before.<br>
+    The stack unwinds in glory, frame by frame by frame,<br>
+    And the first call holds the answer, and we speak its name!</p></div>
+  <p class="again">Chorus</p>
+  <div class="part"><h3>Bridge</h3><p>
+    Stack overflow! (Stack overflow!) No base case in sight!<br>
+    Stack overflow! (Stack overflow!) Falling through the endless night!</p></div>
+  <div class="part chorus"><h3>Final chorus</h3><p>
+    From Hello, World to the base case low,<br>
+    We counted, we branched, we let the loops go!<br>
+    Every step must shrink the fight,<br>
+    Till the base case brings the light!</p></div>
+  <div class="part spoken"><h3>Outro, spoken</h3><p>And so the student becomes the programmer… and types, once more… Hello, World.</p></div>
+  <p class="lesson"><strong>Lesson:</strong> a recursive function solves a problem by calling itself on a smaller version. It needs a base case that stops the recursion and each call must move toward it; otherwise the call stack overflows. Results are built up as the calls return.</p>
+</section>
+
+<footer>
+  <p class="metal" style="font-size:1.5rem;margin:0">Bytes, Nybles &amp; Byts</p>
+  <p>Recorded live in the computer lab, after hours.</p>
+</footer>
+
+</main>
+</body>
+</html>

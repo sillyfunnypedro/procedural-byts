@@ -1,0 +1,871 @@
+{
+  "year": 1995,
+  "slug": "merge-conflict",
+  "title": "Merge Conflict",
+  "knowledge_area": "Software engineering",
+  "genre": "1995 industrial metal",
+  "description": "Merge Conflict is the 1995 album from Procedural Byts: twelve tracks of industrial metal about how software actually gets built, by people, together. Nyble sings lead and plays bass, Qword plays lead guitar, Wyrd plugs the synths back in alongside a rack of samplers, and Bytes plays drums over machine loops and sings backup. Requirements, process, design, patterns, testing, code review, refactoring, technical debt, estimation and version control. The first album the band made with a written plan. Each member recorded on their own branch: the recording took two months, and the merge took four. Play loud. Review everything.",
+  "tagline": "The 1995 industrial metal album from Procedural Byts: a software engineering course in twelve songs, recorded on four branches and merged the hard way.",
+  "lineup": "The four-piece, plugged back in. Nyble sings lead on every song and plays bass guitar. Qword plays lead guitar. Wyrd plays synthesizers and samplers. Bytes plays drums over machine loops and sings backup.",
+  "members": [
+    {
+      "name": "Nyble",
+      "role": "Lead vocals, bass guitar",
+      "bio": "Four bits, and the author of the band’s first requirements document. Nyble sings lead on every song and plays bass, and every song on this album had to trace back to a line she wrote."
+    },
+    {
+      "name": "Qword",
+      "role": "Lead guitar",
+      "bio": "Sixty-four bits, and allowed to solo again, as long as the solo passes review. Qword’s branch had the most changes on the album and the most conflicts."
+    },
+    {
+      "name": "Wyrd",
+      "role": "Synthesizers, samplers",
+      "bio": "Thirty-two bits, back on synthesizers after the organ years, plus a rack of samplers. Wyrd turned the studio photocopier into a drum loop and has never apologized."
+    },
+    {
+      "name": "Bytes",
+      "role": "Drums, backing vocals",
+      "bio": "Eight bits, playing live drums over machine loops and singing backup. Every code review comment he wrote said “louder.” Nobody has been able to argue with it."
+    },
+    {
+      "name": "Null",
+      "role": "Rubber duck, technical advisor",
+      "bio": "Reviewer of last resort. Approved every change on the album by not objecting."
+    }
+  ],
+  "story": {
+    "heading": "Four Branches",
+    "paragraphs": [
+      "For the first time in twenty-five years, the band wrote down what they were going to make before they made it. Nyble sent a survey to the fan club asking what people wanted from the next album. The top four answers were louder, longer, angrier and more duck.",
+      "Industrial was in, so Wyrd plugged the synthesizers back in and added a rack of samplers. Wyrd recorded the studio’s air conditioner, the photocopier and Bytes dropping his sticks, and turned all three into rhythm tracks.",
+      "They tried the waterfall first: a month of requirements, a month of design, then recording, with testing saved for the end. At the end, they discovered the whole album was in the wrong key, and went back to the top.",
+      "So each member took their own branch: one copy of the songs each, changed independently for six weeks. The recording took two months. The merge took four. Nyble and Qword had both rewritten the chorus of Merge Conflict on the same night, in completely different ways, and you can hear both on the record.",
+      "Every part had to pass code review by another member before it went on the master tape. Qword’s reviews were long and thoughtful. Wyrd’s were precise. Every review Bytes wrote said “louder.” When two members couldn’t agree, they explained their sides to Null, and by the time they finished explaining, one of them usually realized they were wrong.",
+      "The album came in eleven weeks late. Bytes suggested bringing in session players to catch up. Nyble pointed out that adding people to a late project makes it later. They did it anyway, and proved her right."
+    ]
+  },
+  "cover_sub": "The 1995 album. Recorded on four branches, merged the hard way.",
+  "songs": [
+    {
+      "title": "Requirements",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "Tell me what you need before I build a thing,",
+            "Not the how, the what, the song you want to sing.",
+            "The user says it should be fast, the user says it should be clear,",
+            "But fast for who, and clear to what, and how will we know we’re here?"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Requirements! (What do you need?)",
+            "Requirements! (Write it down and read!)",
+            "Ask before you build it or you’ll build the wrong machine,",
+            "Requirements, requirements, say exactly what you mean!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Functional is what it does, the features on the list,",
+            "Non-functional is how it does it, speed and trust and risk.",
+            "Make it testable and measurable, a number you can check,",
+            "Or the thing that you deliver is a beautiful wreck!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "That’s not what I asked for! (That’s what you said!)",
+            "That’s not what I meant! (Then say it instead!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Lead guitar solo: Qword",
+          "desc": "Nyble hands Qword a written description of the solo: fast, high, memorable. Qword plays exactly that, three times, three different ways, and each time Nyble says that’s not what she meant. The fourth time, Qword asks her questions first, and nails it."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Requirements! (What do you need?)",
+            "Requirements! (Write it down and read!)",
+            "Ask before you build it or you’ll build the wrong machine,",
+            "Requirements, requirements, say exactly what you mean!"
+          ]
+        }
+      ],
+      "note": "The band surveyed their fans before writing a note. The top four answers were louder, longer, angrier and more duck.",
+      "lesson": "Requirements describe what the software must do (functional requirements) and how well it must do it, like speed, reliability and security (non-functional requirements). They come from talking with users, and they should be clear, testable and agreed on before building. Misunderstood requirements are among the most expensive mistakes in software.",
+      "n": 1,
+      "sunoTitle": "Requirements",
+      "style": "1995 industrial metal, mechanical stomping industrial riff, chanted vocals, machine samples, 112 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, keyboard player on synthesizers and samplers, drummer singing male backing vocals, chugging distorted guitars, mechanical drum loops layered with live drums, harsh synth textures and machine samples, aggressive processed vocals, dark heavy production",
+      "exclude": "autotune, EDM, trap beats, modern pop, acoustic, lo-fi",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, synthesizers and samplers, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nTell me what you need before I build a thing,\nNot the how, the what, the song you want to sing.\nThe user says it should be fast, the user says it should be clear,\nBut fast for who, and clear to what, and how will we know we’re here?\n\n[Chorus: female lead vocal, male backing vocals]\nRequirements! (What do you need?)\nRequirements! (Write it down and read!)\nAsk before you build it or you’ll build the wrong machine,\nRequirements, requirements, say exactly what you mean!\n\n[Verse 2: female lead vocal]\nFunctional is what it does, the features on the list,\nNon-functional is how it does it, speed and trust and risk.\nMake it testable and measurable, a number you can check,\nOr the thing that you deliver is a beautiful wreck!\n\n[Chorus: female lead vocal, male backing vocals]\nRequirements! (What do you need?)\nRequirements! (Write it down and read!)\nAsk before you build it or you’ll build the wrong machine,\nRequirements, requirements, say exactly what you mean!\n\n[Bridge: female lead vocal, male backing shouts]\nThat’s not what I asked for! (That’s what you said!)\nThat’s not what I meant! (Then say it instead!)\n\n[Lead Guitar Solo: the same solo played three different ways, then one confident final version]\n\n[Final Chorus: female lead vocal, male backing vocals]\nRequirements! (What do you need?)\nRequirements! (Write it down and read!)\nAsk before you build it or you’ll build the wrong machine,\nRequirements, requirements, say exactly what you mean!\n\n[End]"
+    },
+    {
+      "title": "Waterfall",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "Requirements, then design, then build, then test, then ship,",
+            "Every stage flows downward, one long falling trip.",
+            "Sign it off and never look back up the hill,",
+            "Find a mistake at the bottom and you’re climbing back up still!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Waterfall! (Falling down!)",
+            "Waterfall! (Hit the ground!)",
+            "Every stage complete before the next one can begin,",
+            "Waterfall, waterfall, and you find the bugs again!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "So build it in a circle, a little at a time,",
+            "Plan a bit and build a bit and test it and refine.",
+            "Show it to the users every few weeks, not once at the end,",
+            "Iterate, iterate, and the river learns to bend!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Plan! Build! Test! Repeat!",
+            "Small steps! (Small steps!) Don’t wait for the end to see defeat!"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Synth solo: Wyrd",
+          "desc": "Wyrd’s synth line cascades down in strict stages and never climbs back up. At the bottom, one wrong note forces the whole cascade to start over from the top. The second time, Wyrd plays it in short loops instead, fixing each one before moving on."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Waterfall! (Falling down!)",
+            "Waterfall! (Hit the ground!)",
+            "Every stage complete before the next one can begin,",
+            "Waterfall, waterfall, and you find the bugs again!"
+          ]
+        }
+      ],
+      "note": "The band tried this process first. It is the main reason the album was late.",
+      "lesson": "The waterfall model runs requirements, design, implementation, testing and deployment strictly in order. It’s easy to plan, but it finds problems late, when they’re most expensive to fix. Iterative and incremental models, like the spiral model, build the software in small cycles and get feedback early and often.",
+      "n": 2,
+      "sunoTitle": "Waterfall",
+      "style": "1995 industrial metal, crushing descending industrial riff, cascading synths, 104 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, keyboard player on synthesizers and samplers, drummer singing male backing vocals, chugging distorted guitars, mechanical drum loops layered with live drums, harsh synth textures and machine samples, aggressive processed vocals, dark heavy production",
+      "exclude": "autotune, EDM, trap beats, modern pop, acoustic, lo-fi",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, synthesizers and samplers, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nRequirements, then design, then build, then test, then ship,\nEvery stage flows downward, one long falling trip.\nSign it off and never look back up the hill,\nFind a mistake at the bottom and you’re climbing back up still!\n\n[Chorus: female lead vocal, male backing vocals]\nWaterfall! (Falling down!)\nWaterfall! (Hit the ground!)\nEvery stage complete before the next one can begin,\nWaterfall, waterfall, and you find the bugs again!\n\n[Verse 2: female lead vocal]\nSo build it in a circle, a little at a time,\nPlan a bit and build a bit and test it and refine.\nShow it to the users every few weeks, not once at the end,\nIterate, iterate, and the river learns to bend!\n\n[Chorus: female lead vocal, male backing vocals]\nWaterfall! (Falling down!)\nWaterfall! (Hit the ground!)\nEvery stage complete before the next one can begin,\nWaterfall, waterfall, and you find the bugs again!\n\n[Bridge: female lead vocal, male backing shouts]\nPlan! Build! Test! Repeat!\nSmall steps! (Small steps!) Don’t wait for the end to see defeat!\n\n[Synth Solo: cascading descending synth line that restarts from the top, then loops in short cycles]\n\n[Final Chorus: female lead vocal, male backing vocals]\nWaterfall! (Falling down!)\nWaterfall! (Hit the ground!)\nEvery stage complete before the next one can begin,\nWaterfall, waterfall, and you find the bugs again!\n\n[End]"
+    },
+    {
+      "title": "Loose Coupling",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "Break it into modules, every piece with just one job,",
+            "Keep the details hidden where no other piece can rob.",
+            "Talk through the interface and never through the wall,",
+            "Change one piece inside it and you won’t break them all!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Loose coupling! (Keep apart!)",
+            "High cohesion! (Single heart!)",
+            "Every module knows its job and nothing of the rest,",
+            "Loose coupling, high cohesion, and the design is at its best!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Tightly coupled code is a knot of tangled wire,",
+            "Pull a single thread and the whole thing catches fire.",
+            "Information hiding is a promise at the door,",
+            "Swap out what’s inside and the outside needs no more!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Interface! (The promise!)",
+            "Implementation! (The secret!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Bass and guitar duet: Nyble and Qword",
+          "desc": "Nyble and Qword play completely independent parts that touch only at one agreed note every four bars: the interface. Halfway through, Bytes swaps Qword’s entire part for a new one, and Nyble’s part doesn’t have to change at all."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Loose coupling! (Keep apart!)",
+            "High cohesion! (Single heart!)",
+            "Every module knows its job and nothing of the rest,",
+            "Loose coupling, high cohesion, and the design is at its best!"
+          ]
+        }
+      ],
+      "note": "Every part on this song was recorded by someone who never heard the others. It still fits.",
+      "lesson": "Good design splits software into modules with high cohesion, where each one does a single focused job, and low coupling, where they depend on each other as little as possible. Modules talk through interfaces and hide how they work inside (information hiding), so one can change without breaking the others.",
+      "n": 3,
+      "sunoTitle": "Loose Coupling",
+      "style": "1995 industrial metal, tight precise industrial groove, interlocking parts, 120 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, keyboard player on synthesizers and samplers, drummer singing male backing vocals, chugging distorted guitars, mechanical drum loops layered with live drums, harsh synth textures and machine samples, aggressive processed vocals, dark heavy production",
+      "exclude": "autotune, EDM, trap beats, modern pop, acoustic, lo-fi",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, synthesizers and samplers, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nBreak it into modules, every piece with just one job,\nKeep the details hidden where no other piece can rob.\nTalk through the interface and never through the wall,\nChange one piece inside it and you won’t break them all!\n\n[Chorus: female lead vocal, male backing vocals]\nLoose coupling! (Keep apart!)\nHigh cohesion! (Single heart!)\nEvery module knows its job and nothing of the rest,\nLoose coupling, high cohesion, and the design is at its best!\n\n[Verse 2: female lead vocal]\nTightly coupled code is a knot of tangled wire,\nPull a single thread and the whole thing catches fire.\nInformation hiding is a promise at the door,\nSwap out what’s inside and the outside needs no more!\n\n[Chorus: female lead vocal, male backing vocals]\nLoose coupling! (Keep apart!)\nHigh cohesion! (Single heart!)\nEvery module knows its job and nothing of the rest,\nLoose coupling, high cohesion, and the design is at its best!\n\n[Bridge: female lead vocal, male backing shouts]\nInterface! (The promise!)\nImplementation! (The secret!)\n\n[Instrumental Break: bass guitar and lead guitar play independent parts that meet on one agreed note every four bars]\n\n[Final Chorus: female lead vocal, male backing vocals]\nLoose coupling! (Keep apart!)\nHigh cohesion! (Single heart!)\nEvery module knows its job and nothing of the rest,\nLoose coupling, high cohesion, and the design is at its best!\n\n[End]"
+    },
+    {
+      "title": "Gang of Four",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "Same problem, different program, a hundred times before,",
+            "Somebody solved it once, so write it down forevermore.",
+            "A pattern is a name for a solution that you know,",
+            "Say singleton or observer and the whole team knows where to go!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Gang of four! (Patterns!)",
+            "Gang of four! (Name them!)",
+            "Don’t reinvent the wheel, the wheel is in the book,",
+            "Gang of four, gang of four, take another look!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "The observer waits and listens till the subject makes a change,",
+            "The decorator wraps a thing and makes it new but not too strange.",
+            "The factory makes the objects so the caller doesn’t care,",
+            "The strategy swaps the method, and it’s waiting in the air!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Observer! Decorator! Factory! Strategy!",
+            "A shared vocabulary for you and me!"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Four patterns: full band",
+          "desc": "Four members, four patterns. Qword plays a riff, and Wyrd, the observer, echoes every change. Nyble wraps the riff in a new bass line without touching it: a decorator. Bytes plays one strategy on the drums, then swaps in another on the fly."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Gang of four! (Patterns!)",
+            "Gang of four! (Name them!)",
+            "Don’t reinvent the wheel, the wheel is in the book,",
+            "Gang of four, gang of four, take another look!"
+          ]
+        }
+      ],
+      "note": "Named after the four authors of the design patterns book that came out the year before. The band also has four members. They consider this a pattern.",
+      "lesson": "Design patterns are named, reusable solutions to problems that come up again and again, popularized by the 1994 book by Gamma, Helm, Johnson and Vlissides, the “Gang of Four.” Observer notifies dependents when something changes, decorator wraps an object to add behavior, factory hides how objects are created, and strategy swaps one algorithm for another. Their names give a team a shared vocabulary.",
+      "n": 4,
+      "sunoTitle": "Gang of Four",
+      "style": "1995 industrial metal, anthemic heavy industrial riff in four interlocking parts, 128 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, keyboard player on synthesizers and samplers, drummer singing male backing vocals, chugging distorted guitars, mechanical drum loops layered with live drums, harsh synth textures and machine samples, aggressive processed vocals, dark heavy production",
+      "exclude": "autotune, EDM, trap beats, modern pop, acoustic, lo-fi",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, synthesizers and samplers, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nSame problem, different program, a hundred times before,\nSomebody solved it once, so write it down forevermore.\nA pattern is a name for a solution that you know,\nSay singleton or observer and the whole team knows where to go!\n\n[Chorus: female lead vocal, male backing vocals]\nGang of four! (Patterns!)\nGang of four! (Name them!)\nDon’t reinvent the wheel, the wheel is in the book,\nGang of four, gang of four, take another look!\n\n[Verse 2: female lead vocal]\nThe observer waits and listens till the subject makes a change,\nThe decorator wraps a thing and makes it new but not too strange.\nThe factory makes the objects so the caller doesn’t care,\nThe strategy swaps the method, and it’s waiting in the air!\n\n[Chorus: female lead vocal, male backing vocals]\nGang of four! (Patterns!)\nGang of four! (Name them!)\nDon’t reinvent the wheel, the wheel is in the book,\nGang of four, gang of four, take another look!\n\n[Bridge: female lead vocal, male backing shouts]\nObserver! Decorator! Factory! Strategy!\nA shared vocabulary for you and me!\n\n[Instrumental Break: four interlocking instrumental parts, each playing a distinct role]\n\n[Final Chorus: female lead vocal, male backing vocals]\nGang of four! (Patterns!)\nGang of four! (Name them!)\nDon’t reinvent the wheel, the wheel is in the book,\nGang of four, gang of four, take another look!\n\n[End]"
+    },
+    {
+      "title": "Unit Test",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "Take the smallest piece and test it all alone,",
+            "Give it an input, know the answer, check it on its own.",
+            "Assert it equals four, and if it doesn’t, raise the flag,",
+            "Catch it in the workshop, not when it’s in the bag!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Unit test! (Pass!)",
+            "Unit test! (Fail!)",
+            "Red, then green, then clean, and you’re back on the trail!",
+            "Run them every time you change a single line,",
+            "Unit test, unit test, and the build is fine!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Write the test before the code and watch it fail,",
+            "Then write just enough to pass, and follow up the trail.",
+            "The edge, the empty, the zero and the null,",
+            "Test the strange ones too, the ones you think are dull!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Expected! (Four!) Actual! (Four!)",
+            "Pass! (Next!) Pass! (More!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Drum solo: Bytes",
+          "desc": "Bytes plays each drum on the kit by itself, one at a time, and waits for the engineer’s thumbs-up before moving to the next. Only when every drum has passed does he play them all together."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Unit test! (Pass!)",
+            "Unit test! (Fail!)",
+            "Red, then green, then clean, and you’re back on the trail!",
+            "Run them every time you change a single line,",
+            "Unit test, unit test, and the build is fine!"
+          ]
+        }
+      ],
+      "note": "Every drum on the kit was tested on its own before the band played a note together.",
+      "lesson": "A unit test checks one small piece of code, like a function or a class, on its own: give it an input and assert the expected output. Automated tests run after every change. Test-driven development writes a failing test first, then just enough code to pass it, then cleans up: red, green, refactor. Always test the edge cases: empty, zero, null and the boundaries.",
+      "n": 5,
+      "sunoTitle": "Unit Test",
+      "style": "1995 industrial metal, fast mechanical riff, precise and percussive, 144 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, keyboard player on synthesizers and samplers, drummer singing male backing vocals, chugging distorted guitars, mechanical drum loops layered with live drums, harsh synth textures and machine samples, aggressive processed vocals, dark heavy production",
+      "exclude": "autotune, EDM, trap beats, modern pop, acoustic, lo-fi",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, synthesizers and samplers, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nTake the smallest piece and test it all alone,\nGive it an input, know the answer, check it on its own.\nAssert it equals four, and if it doesn’t, raise the flag,\nCatch it in the workshop, not when it’s in the bag!\n\n[Chorus: female lead vocal, male backing vocals]\nUnit test! (Pass!)\nUnit test! (Fail!)\nRed, then green, then clean, and you’re back on the trail!\nRun them every time you change a single line,\nUnit test, unit test, and the build is fine!\n\n[Verse 2: female lead vocal]\nWrite the test before the code and watch it fail,\nThen write just enough to pass, and follow up the trail.\nThe edge, the empty, the zero and the null,\nTest the strange ones too, the ones you think are dull!\n\n[Chorus: female lead vocal, male backing vocals]\nUnit test! (Pass!)\nUnit test! (Fail!)\nRed, then green, then clean, and you’re back on the trail!\nRun them every time you change a single line,\nUnit test, unit test, and the build is fine!\n\n[Bridge: female lead vocal, male backing shouts]\nExpected! (Four!) Actual! (Four!)\nPass! (Next!) Pass! (More!)\n\n[Drum Solo: each drum played alone and checked, then the whole kit together]\n\n[Final Chorus: female lead vocal, male backing vocals]\nUnit test! (Pass!)\nUnit test! (Fail!)\nRed, then green, then clean, and you’re back on the trail!\nRun them every time you change a single line,\nUnit test, unit test, and the build is fine!\n\n[End]"
+    },
+    {
+      "title": "Regression",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "I fixed the bug on Monday and I broke the build by noon,",
+            "Something that was working is now singing out of tune.",
+            "A change in one place over here, a failure over there,",
+            "The code went backwards, and I never had a care!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Regression! (It used to work!)",
+            "Regression! (Now it’s gone berserk!)",
+            "Run every test you’ve ever written every time you change,",
+            "Regression, regression, and nothing will be strange!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Unit tests the pieces, integration tests the seams,",
+            "System tests the whole thing, acceptance tests the dreams.",
+            "Every bug you ever fixed gets a test so it stays dead,",
+            "Run them all automatically before you go to bed!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Unit! (The piece!) Integration! (The seams!)",
+            "System! (The whole!) Acceptance! (The dreams!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Lead guitar solo: Qword",
+          "desc": "Qword replays a fragment of every earlier solo on the album, one after another, to make sure they all still work. One of them comes out wrong. Qword stops, fixes it, and plays the whole run again from the start."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Regression! (It used to work!)",
+            "Regression! (Now it’s gone berserk!)",
+            "Run every test you’ve ever written every time you change,",
+            "Regression, regression, and nothing will be strange!"
+          ]
+        }
+      ],
+      "note": "The solo quotes every earlier solo on the album, played back to check that none of them broke.",
+      "lesson": "A regression is a bug in something that used to work, often caused by a change somewhere else. Regression testing reruns the whole existing test suite after every change, ideally automatically. The levels of testing are unit (one piece), integration (pieces working together), system (the whole thing) and acceptance (does it meet the users’ needs). Every fixed bug should get a test so it stays fixed.",
+      "n": 6,
+      "sunoTitle": "Regression",
+      "style": "1995 industrial metal, heavy grinding riff that keeps looping back on itself, 116 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, keyboard player on synthesizers and samplers, drummer singing male backing vocals, chugging distorted guitars, mechanical drum loops layered with live drums, harsh synth textures and machine samples, aggressive processed vocals, dark heavy production",
+      "exclude": "autotune, EDM, trap beats, modern pop, acoustic, lo-fi",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, synthesizers and samplers, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nI fixed the bug on Monday and I broke the build by noon,\nSomething that was working is now singing out of tune.\nA change in one place over here, a failure over there,\nThe code went backwards, and I never had a care!\n\n[Chorus: female lead vocal, male backing vocals]\nRegression! (It used to work!)\nRegression! (Now it’s gone berserk!)\nRun every test you’ve ever written every time you change,\nRegression, regression, and nothing will be strange!\n\n[Verse 2: female lead vocal]\nUnit tests the pieces, integration tests the seams,\nSystem tests the whole thing, acceptance tests the dreams.\nEvery bug you ever fixed gets a test so it stays dead,\nRun them all automatically before you go to bed!\n\n[Chorus: female lead vocal, male backing vocals]\nRegression! (It used to work!)\nRegression! (Now it’s gone berserk!)\nRun every test you’ve ever written every time you change,\nRegression, regression, and nothing will be strange!\n\n[Bridge: female lead vocal, male backing shouts]\nUnit! (The piece!) Integration! (The seams!)\nSystem! (The whole!) Acceptance! (The dreams!)\n\n[Lead Guitar Solo: quick quotes of earlier riffs replayed in sequence, one comes out wrong and is corrected]\n\n[Final Chorus: female lead vocal, male backing vocals]\nRegression! (It used to work!)\nRegression! (Now it’s gone berserk!)\nRun every test you’ve ever written every time you change,\nRegression, regression, and nothing will be strange!\n\n[End]"
+    },
+    {
+      "title": "Code Review",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "I wrote it late at night and it looked fine to me,",
+            "But another set of eyes can see what I can’t see.",
+            "Read my code before it merges, tell me what is wrong,",
+            "A bug found in the review is a bug that won’t live long!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Code review! (Read it through!)",
+            "Code review! (I’ll read yours too!)",
+            "Be kind about the person, but be honest with the code,",
+            "Code review, code review, and we share the load!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Is it clear? Is it tested? Does it do what it’s meant for?",
+            "Would a stranger reading it next year still know the score?",
+            "Ask a question, don’t attack, suggest a better way,",
+            "Approve it when it’s ready, and it ships another day!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Looks good to me! (Did you read it?)",
+            "Looks good to me! (Did you really read it?)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Trading solo: Qword and Wyrd",
+          "desc": "Qword plays a phrase. Wyrd plays it back with one suggested change. Qword accepts some of the changes, pushes back on one, and the final version is better than either of them would have played alone."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Code review! (Read it through!)",
+            "Code review! (I’ll read yours too!)",
+            "Be kind about the person, but be honest with the code,",
+            "Code review, code review, and we share the load!"
+          ]
+        }
+      ],
+      "note": "Every part on the album was reviewed by another member before it reached the master tape. Every review Bytes wrote said “louder.”",
+      "lesson": "In code review, teammates read a change before it’s merged. It catches bugs, improves clarity and spreads knowledge around the team. Good reviews check that the code is correct, tested, readable and well designed, and they comment on the code, not the person. “Looks good to me” only means something if you actually read it.",
+      "n": 7,
+      "sunoTitle": "Code Review",
+      "style": "1995 industrial metal, call-and-response industrial riff, two voices trading lines, 124 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, keyboard player on synthesizers and samplers, drummer singing male backing vocals, chugging distorted guitars, mechanical drum loops layered with live drums, harsh synth textures and machine samples, aggressive processed vocals, dark heavy production",
+      "exclude": "autotune, EDM, trap beats, modern pop, acoustic, lo-fi",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, synthesizers and samplers, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nI wrote it late at night and it looked fine to me,\nBut another set of eyes can see what I can’t see.\nRead my code before it merges, tell me what is wrong,\nA bug found in the review is a bug that won’t live long!\n\n[Chorus: female lead vocal, male backing vocals]\nCode review! (Read it through!)\nCode review! (I’ll read yours too!)\nBe kind about the person, but be honest with the code,\nCode review, code review, and we share the load!\n\n[Verse 2: female lead vocal]\nIs it clear? Is it tested? Does it do what it’s meant for?\nWould a stranger reading it next year still know the score?\nAsk a question, don’t attack, suggest a better way,\nApprove it when it’s ready, and it ships another day!\n\n[Chorus: female lead vocal, male backing vocals]\nCode review! (Read it through!)\nCode review! (I’ll read yours too!)\nBe kind about the person, but be honest with the code,\nCode review, code review, and we share the load!\n\n[Bridge: female lead vocal, male backing shouts]\nLooks good to me! (Did you read it?)\nLooks good to me! (Did you really read it?)\n\n[Instrumental Break: guitar phrase answered by a synth version with one change, back and forth]\n\n[Final Chorus: female lead vocal, male backing vocals]\nCode review! (Read it through!)\nCode review! (I’ll read yours too!)\nBe kind about the person, but be honest with the code,\nCode review, code review, and we share the load!\n\n[End]"
+    },
+    {
+      "title": "Refactor",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "It works, but it’s a mess, a tangle and a maze,",
+            "A function three pages long and copied seven ways.",
+            "Rename it, split it, pull the duplicates apart,",
+            "Same behavior on the outside, but a clean and better heart!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Refactor! (Clean it up!)",
+            "Refactor! (Same results!)",
+            "Small steps, run the tests, and leave it better than before,",
+            "Refactor, refactor, and the code can breathe once more!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Code smells: long methods, names that say nothing at all,",
+            "Duplicated logic copied up and down the hall.",
+            "Don’t add a feature while you clean, one thing at a time,",
+            "The tests will tell you if you broke it, and you’ll be fine!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Extract method! (Split it!)",
+            "Rename! (Say what it is!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Lead guitar solo: Qword",
+          "desc": "Qword plays a long, messy solo full of repeated licks and wrong turns. Then Qword plays it again: same melody, same ending, half the notes. Nothing the listener cares about changed. Everything else did."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Refactor! (Clean it up!)",
+            "Refactor! (Same results!)",
+            "Small steps, run the tests, and leave it better than before,",
+            "Refactor, refactor, and the code can breathe once more!"
+          ]
+        }
+      ],
+      "note": "The demo of this song was nine minutes long. The album version is four. It is the same song.",
+      "lesson": "Refactoring changes the inside of code without changing what it does: renaming things, breaking long functions into smaller ones, removing duplication. It’s done in small steps, running the tests after each one. Code smells, like long methods, copied code and names that don’t say what they mean, show you where to start.",
+      "n": 8,
+      "sunoTitle": "Refactor",
+      "style": "1995 industrial metal, chaotic messy riff that gradually tightens into a clean groove, 132 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, keyboard player on synthesizers and samplers, drummer singing male backing vocals, chugging distorted guitars, mechanical drum loops layered with live drums, harsh synth textures and machine samples, aggressive processed vocals, dark heavy production",
+      "exclude": "autotune, EDM, trap beats, modern pop, acoustic, lo-fi",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, synthesizers and samplers, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nIt works, but it’s a mess, a tangle and a maze,\nA function three pages long and copied seven ways.\nRename it, split it, pull the duplicates apart,\nSame behavior on the outside, but a clean and better heart!\n\n[Chorus: female lead vocal, male backing vocals]\nRefactor! (Clean it up!)\nRefactor! (Same results!)\nSmall steps, run the tests, and leave it better than before,\nRefactor, refactor, and the code can breathe once more!\n\n[Verse 2: female lead vocal]\nCode smells: long methods, names that say nothing at all,\nDuplicated logic copied up and down the hall.\nDon’t add a feature while you clean, one thing at a time,\nThe tests will tell you if you broke it, and you’ll be fine!\n\n[Chorus: female lead vocal, male backing vocals]\nRefactor! (Clean it up!)\nRefactor! (Same results!)\nSmall steps, run the tests, and leave it better than before,\nRefactor, refactor, and the code can breathe once more!\n\n[Bridge: female lead vocal, male backing shouts]\nExtract method! (Split it!)\nRename! (Say what it is!)\n\n[Lead Guitar Solo: long messy tangled solo, then the same melody played clean with half the notes]\n\n[Final Chorus: female lead vocal, male backing vocals]\nRefactor! (Clean it up!)\nRefactor! (Same results!)\nSmall steps, run the tests, and leave it better than before,\nRefactor, refactor, and the code can breathe once more!\n\n[End]"
+    },
+    {
+      "title": "Technical Debt",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "We took a shortcut just to make the show on time,",
+            "Hard-coded the setlist, said we’d fix it down the line.",
+            "It worked, and we were happy, and we never fixed it, no,",
+            "And now every change we make is twice as slow!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Technical debt! (Interest on the code!)",
+            "Technical debt! (A heavier load!)",
+            "Every shortcut that you take you’ll pay it back with more,",
+            "Technical debt, technical debt, knocking at the door!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Sometimes it’s worth it, borrow now to ship today,",
+            "But write it down and plan the time to pay it all away.",
+            "Ignore it long enough and the interest takes it all,",
+            "You spend the week on what you broke and build nothing at all!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Borrow! (Ship it now!)",
+            "Pay it back! (Or it pays you back somehow!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Synth solo: Wyrd",
+          "desc": "Every time Wyrd skips a note to keep up, the next phrase gets harder to play, until the solo is crawling under its own weight. Then Wyrd stops, goes back, plays every skipped note, and the line is light again."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Technical debt! (Interest on the code!)",
+            "Technical debt! (A heavier load!)",
+            "Every shortcut that you take you’ll pay it back with more,",
+            "Technical debt, technical debt, knocking at the door!"
+          ]
+        }
+      ],
+      "note": "The phrase was coined in 1992. By 1995, the band owed a lot.",
+      "lesson": "Technical debt, a term from Ward Cunningham in 1992, is the future cost of shortcuts like quick fixes, skipped tests and messy structure. Like money, it can be worth borrowing on purpose to ship on time, but it charges interest: every later change gets slower until you pay it back by refactoring.",
+      "n": 9,
+      "sunoTitle": "Technical Debt",
+      "style": "1995 industrial metal, heavy dragging riff that gets heavier and slower as it goes, 96 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, keyboard player on synthesizers and samplers, drummer singing male backing vocals, chugging distorted guitars, mechanical drum loops layered with live drums, harsh synth textures and machine samples, aggressive processed vocals, dark heavy production",
+      "exclude": "autotune, EDM, trap beats, modern pop, acoustic, lo-fi",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, synthesizers and samplers, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nWe took a shortcut just to make the show on time,\nHard-coded the setlist, said we’d fix it down the line.\nIt worked, and we were happy, and we never fixed it, no,\nAnd now every change we make is twice as slow!\n\n[Chorus: female lead vocal, male backing vocals]\nTechnical debt! (Interest on the code!)\nTechnical debt! (A heavier load!)\nEvery shortcut that you take you’ll pay it back with more,\nTechnical debt, technical debt, knocking at the door!\n\n[Verse 2: female lead vocal]\nSometimes it’s worth it, borrow now to ship today,\nBut write it down and plan the time to pay it all away.\nIgnore it long enough and the interest takes it all,\nYou spend the week on what you broke and build nothing at all!\n\n[Chorus: female lead vocal, male backing vocals]\nTechnical debt! (Interest on the code!)\nTechnical debt! (A heavier load!)\nEvery shortcut that you take you’ll pay it back with more,\nTechnical debt, technical debt, knocking at the door!\n\n[Bridge: female lead vocal, male backing shouts]\nBorrow! (Ship it now!)\nPay it back! (Or it pays you back somehow!)\n\n[Synth Solo: skipped notes pile up making each phrase heavier, then a cleanup restores the line]\n\n[Final Chorus: female lead vocal, male backing vocals]\nTechnical debt! (Interest on the code!)\nTechnical debt! (A heavier load!)\nEvery shortcut that you take you’ll pay it back with more,\nTechnical debt, technical debt, knocking at the door!\n\n[End]"
+    },
+    {
+      "title": "Estimate",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "How long will it take? Two weeks, I said with pride,",
+            "It took us two months, and I don’t know why I lied.",
+            "It always takes longer, even when you plan for more,",
+            "The last ten percent takes as long as the ninety before!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Estimate! (Twice as long!)",
+            "Estimate! (We were wrong!)",
+            "Break it into pieces small enough to see,",
+            "Estimate, estimate, and add a little buffer for you and me!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "The album’s running late, so let’s bring in some more hands,",
+            "But every new player needs to learn the songs and plans.",
+            "Adding people to a late project makes it later still,",
+            "Nine mothers can’t make a baby in a month, and never will!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Brooks’s law! (More hands, more delay!)",
+            "Mythical man-month! (There’s no other way!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Drum solo: Bytes",
+          "desc": "Bytes is told the fill will take four bars. It takes eight. Nyble joins in to help him catch up, and it takes twelve."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Estimate! (Twice as long!)",
+            "Estimate! (We were wrong!)",
+            "Break it into pieces small enough to see,",
+            "Estimate, estimate, and add a little buffer for you and me!"
+          ]
+        }
+      ],
+      "note": "The album came in eleven weeks late. Adding session players made it later.",
+      "lesson": "Software estimates are famously optimistic. Breaking work into small, well-understood tasks and using data from past projects helps. The ninety-ninety rule jokes that the last 10% of the work takes as long as the first 90%. Brooks’s law, from The Mythical Man-Month (1975): adding people to a late project makes it later, because new people need time to learn and everyone spends more time communicating.",
+      "n": 10,
+      "sunoTitle": "Estimate",
+      "style": "1995 industrial metal, frantic industrial riff with constantly shifting tempo, 140 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, keyboard player on synthesizers and samplers, drummer singing male backing vocals, chugging distorted guitars, mechanical drum loops layered with live drums, harsh synth textures and machine samples, aggressive processed vocals, dark heavy production",
+      "exclude": "autotune, EDM, trap beats, modern pop, acoustic, lo-fi",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, synthesizers and samplers, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nHow long will it take? Two weeks, I said with pride,\nIt took us two months, and I don’t know why I lied.\nIt always takes longer, even when you plan for more,\nThe last ten percent takes as long as the ninety before!\n\n[Chorus: female lead vocal, male backing vocals]\nEstimate! (Twice as long!)\nEstimate! (We were wrong!)\nBreak it into pieces small enough to see,\nEstimate, estimate, and add a little buffer for you and me!\n\n[Verse 2: female lead vocal]\nThe album’s running late, so let’s bring in some more hands,\nBut every new player needs to learn the songs and plans.\nAdding people to a late project makes it later still,\nNine mothers can’t make a baby in a month, and never will!\n\n[Chorus: female lead vocal, male backing vocals]\nEstimate! (Twice as long!)\nEstimate! (We were wrong!)\nBreak it into pieces small enough to see,\nEstimate, estimate, and add a little buffer for you and me!\n\n[Bridge: female lead vocal, male backing shouts]\nBrooks’s law! (More hands, more delay!)\nMythical man-month! (There’s no other way!)\n\n[Drum Solo: a fill that keeps running long, slowing further when a second player joins]\n\n[Final Chorus: female lead vocal, male backing vocals]\nEstimate! (Twice as long!)\nEstimate! (We were wrong!)\nBreak it into pieces small enough to see,\nEstimate, estimate, and add a little buffer for you and me!\n\n[End]"
+    },
+    {
+      "title": "Version Control",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "Save it, label it, write down what you changed,",
+            "A history of every version, every line rearranged.",
+            "Break it on a Tuesday? Roll it back to Monday’s take,",
+            "Every step remembered, and you can undo any mistake!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Version control! (Every change!)",
+            "Version control! (Who and why!)",
+            "Commit it with a message and the history won’t die!",
+            "Branch it off and try it, and if it fails, let it go,",
+            "Version control, version control, it’s the only way to know!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Who changed this line? The log will tell you who and when,",
+            "Why they did it, what they fixed, and you can go back then.",
+            "A branch for every feature, a sandbox of your own,",
+            "Experiment without fear, and you’re never on your own!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Check it in! (Save!) Check it out! (Load!)",
+            "Roll it back! (Undo!) Branch it off! (A brand-new road!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Bass solo: Nyble",
+          "desc": "Nyble plays a phrase and Wyrd samples it: version one. She changes it twice, decides the second change was a mistake, and rolls back to version two. Then Wyrd plays all three versions back, in order: the history."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Version control! (Every change!)",
+            "Version control! (Who and why!)",
+            "Commit it with a message and the history won’t die!",
+            "Branch it off and try it, and if it fails, let it go,",
+            "Version control, version control, it’s the only way to know!"
+          ]
+        }
+      ],
+      "note": "The rewinding sounds are the band’s actual master tapes, sampled by Wyrd.",
+      "lesson": "A version control system (in 1995, tools like RCS and CVS) records every change: who made it, when, and why. You can look at the history, compare versions and roll back mistakes. Branches let people work on separate features in isolation and merge them later. A good commit message explains why the change was made.",
+      "n": 11,
+      "sunoTitle": "Version Control",
+      "style": "1995 industrial metal, relentless mechanical groove with rewinding tape effects, 126 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, keyboard player on synthesizers and samplers, drummer singing male backing vocals, chugging distorted guitars, mechanical drum loops layered with live drums, harsh synth textures and machine samples, aggressive processed vocals, dark heavy production",
+      "exclude": "autotune, EDM, trap beats, modern pop, acoustic, lo-fi",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, synthesizers and samplers, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nSave it, label it, write down what you changed,\nA history of every version, every line rearranged.\nBreak it on a Tuesday? Roll it back to Monday’s take,\nEvery step remembered, and you can undo any mistake!\n\n[Chorus: female lead vocal, male backing vocals]\nVersion control! (Every change!)\nVersion control! (Who and why!)\nCommit it with a message and the history won’t die!\nBranch it off and try it, and if it fails, let it go,\nVersion control, version control, it’s the only way to know!\n\n[Verse 2: female lead vocal]\nWho changed this line? The log will tell you who and when,\nWhy they did it, what they fixed, and you can go back then.\nA branch for every feature, a sandbox of your own,\nExperiment without fear, and you’re never on your own!\n\n[Chorus: female lead vocal, male backing vocals]\nVersion control! (Every change!)\nVersion control! (Who and why!)\nCommit it with a message and the history won’t die!\nBranch it off and try it, and if it fails, let it go,\nVersion control, version control, it’s the only way to know!\n\n[Bridge: female lead vocal, male backing shouts]\nCheck it in! (Save!) Check it out! (Load!)\nRoll it back! (Undo!) Branch it off! (A brand-new road!)\n\n[Bass Guitar Solo: one phrase saved, changed twice, rolled back, then all versions replayed in order]\n\n[Final Chorus: female lead vocal, male backing vocals]\nVersion control! (Every change!)\nVersion control! (Who and why!)\nCommit it with a message and the history won’t die!\nBranch it off and try it, and if it fails, let it go,\nVersion control, version control, it’s the only way to know!\n\n[End]"
+    },
+    {
+      "title": "Merge Conflict",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "Four of us, four branches, six weeks on our own,",
+            "Everybody changing everything, each one in their zone.",
+            "Now it’s time to merge it all and make the four of us one,",
+            "And the same line changed in two places means the fight has just begun!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Merge conflict! (Mine or yours?)",
+            "Merge conflict! (Open the doors!)",
+            "Two changes to the same line, and the machine can’t choose,",
+            "Merge conflict, merge conflict, talk or we all lose!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Merge early and merge often, keep your branches small,",
+            "The longer you stay separate, the harder that you fall.",
+            "Sit down and read both versions, keep the best of what you see,",
+            "The conflict isn’t in the code, it’s between you and me!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Ours! (Keep mine!) Theirs! (Keep yours!)",
+            "Both! (Together!) Talk! (And open the doors!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "The merge: full band",
+          "desc": "All four members play their own branch’s version of the main riff at the same time, and it’s a wreck. Bar by bar, they work it out on stage, keeping the best part of each, until all four are playing one merged riff that none of them wrote alone."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Merge conflict! (Mine or yours?)",
+            "Merge conflict! (Open the doors!)",
+            "Two changes to the same line, and the machine can’t choose,",
+            "Merge conflict, merge conflict, talk or we all lose!"
+          ]
+        }
+      ],
+      "note": "Nyble and Qword both rewrote this song’s chorus on the same night, in different ways. You can hear both.",
+      "lesson": "Merging combines changes from different branches. When two branches change the same lines, the tool reports a merge conflict, and a person has to resolve it by choosing one version or combining both. Merging often keeps branches small and conflicts rare. Most of software engineering is teamwork, and most conflicts are resolved by people talking to each other.",
+      "n": 12,
+      "sunoTitle": "Merge Conflict",
+      "style": "1995 industrial metal, massive chaotic industrial closer, clashing parts resolving into one huge riff, 136 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, keyboard player on synthesizers and samplers, drummer singing male backing vocals, chugging distorted guitars, mechanical drum loops layered with live drums, harsh synth textures and machine samples, aggressive processed vocals, dark heavy production",
+      "exclude": "autotune, EDM, trap beats, modern pop, acoustic, lo-fi",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, synthesizers and samplers, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nFour of us, four branches, six weeks on our own,\nEverybody changing everything, each one in their zone.\nNow it’s time to merge it all and make the four of us one,\nAnd the same line changed in two places means the fight has just begun!\n\n[Chorus: female lead vocal, male backing vocals]\nMerge conflict! (Mine or yours?)\nMerge conflict! (Open the doors!)\nTwo changes to the same line, and the machine can’t choose,\nMerge conflict, merge conflict, talk or we all lose!\n\n[Verse 2: female lead vocal]\nMerge early and merge often, keep your branches small,\nThe longer you stay separate, the harder that you fall.\nSit down and read both versions, keep the best of what you see,\nThe conflict isn’t in the code, it’s between you and me!\n\n[Chorus: female lead vocal, male backing vocals]\nMerge conflict! (Mine or yours?)\nMerge conflict! (Open the doors!)\nTwo changes to the same line, and the machine can’t choose,\nMerge conflict, merge conflict, talk or we all lose!\n\n[Bridge: female lead vocal, male backing shouts]\nOurs! (Keep mine!) Theirs! (Keep yours!)\nBoth! (Together!) Talk! (And open the doors!)\n\n[Instrumental Break: four instruments play four different versions of the riff at once, then resolve bar by bar into one]\n\n[Final Chorus: female lead vocal, male backing vocals]\nMerge conflict! (Mine or yours?)\nMerge conflict! (Open the doors!)\nTwo changes to the same line, and the machine can’t choose,\nMerge conflict, merge conflict, talk or we all lose!\n\n[End]"
+    }
+  ]
+}

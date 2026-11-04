@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Procedural Byts</title>
+<meta name="description" content="Procedural Byts: a fictional metal band whose albums cover the computer science curriculum, one decade and one genre at a time.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Metal+Mania&family=Spectral:ital,wght@0,400;0,600;1,400&family=Barlow+Condensed:wght@600;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#e8e4ea;--ink:#21152a;--muted:#62566c;--accent:#9c2a1e;--accent2:#1f4f9c;--panel:#f6f3f7;--rule:#c8bfce;--chip:#ddd5e2;color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#120b12;--ink:#ece3dc;--muted:#a8999f;--accent:#ee6a4a;--accent2:#7cb6ff;--panel:#1d1320;--rule:#352737;--chip:#2b1e2e;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#120b12;--ink:#ece3dc;--muted:#a8999f;--accent:#ee6a4a;--accent2:#7cb6ff;--panel:#1d1320;--rule:#352737;--chip:#2b1e2e;color-scheme:dark}
+*,*::before,*::after{box-sizing:inherit}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:"Spectral",Georgia,serif;font-size:1.0625rem;line-height:1.6}
+.wrap{max-width:46rem;margin:0 auto;padding:2.5rem 1.15rem 4rem}
+.metal{font-family:"Metal Mania",Impact,fantasy;font-weight:400}
+.cond{font-family:"Barlow Condensed","Arial Narrow",sans-serif;font-weight:700;letter-spacing:.06em;text-transform:uppercase}
+a{color:var(--accent2)}
+.band{font-size:clamp(3rem,14vw,5.2rem);line-height:.95;margin:0;color:var(--accent)}
+.sub{color:var(--accent2);margin:.6rem 0 1.4rem}
+nav.toc{display:flex;flex-wrap:wrap;gap:.4rem 1.2rem;margin:0 0 2rem}
+nav.toc a{color:var(--accent);text-decoration:none}
+nav.toc a:hover{text-decoration:underline}
+h2{font-size:clamp(1.9rem,8vw,2.5rem);line-height:1;margin:3rem 0 1rem;color:var(--accent);scroll-margin-top:1rem}
+.lineup{display:grid;grid-template-columns:1fr;gap:.6rem;margin:0;padding:0;list-style:none}
+@media (min-width:36rem){.lineup{grid-template-columns:1fr 1fr}}
+.lineup li{background:var(--panel);border-left:4px solid var(--accent);padding:.65rem .85rem}
+.lineup b{font-size:1.2rem;display:block}
+.lineup .role{display:block;color:var(--accent2);font-size:.95rem}
+.lineup .yrs{display:block;color:var(--muted);font-style:italic;font-size:.9rem;margin-bottom:.2rem}
+.rel{position:relative;padding:0 0 2rem 4.6rem}
+.rel::before{content:"";position:absolute;left:3.45rem;top:.4rem;bottom:0;width:2px;background:var(--rule)}
+.rel:last-child::before{display:none}
+.year{position:absolute;left:0;top:0;width:3rem;text-align:right;font-family:"Barlow Condensed","Arial Narrow",sans-serif;font-weight:700;font-size:1.25rem;color:var(--accent2)}
+.dot{position:absolute;left:3.12rem;top:.45rem;width:.75rem;height:.75rem;border-radius:50%;background:var(--accent);box-shadow:0 0 0 3px var(--bg)}
+.future .dot{background:var(--bg);border:2px solid var(--accent)}
+.rel h3{margin:0;font-size:1.5rem;line-height:1.15}
+.rel h3 a{color:var(--ink);text-decoration-color:var(--rule);text-underline-offset:4px}
+.rel h3 a:hover{color:var(--accent)}
+.soon{font-family:"Barlow Condensed",sans-serif;font-size:.8rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);vertical-align:middle;margin-left:.4rem}
+.tags{display:flex;flex-wrap:wrap;gap:.35rem;margin:.4rem 0 .5rem}
+.tag{font-family:"Barlow Condensed","Arial Narrow",sans-serif;font-weight:600;font-size:.85rem;padding:.1rem .5rem;border-radius:3px;background:var(--chip)}
+.tag.ka{background:var(--accent2);color:#fff}
+.rel p{margin:0 0 .4rem}
+.tracks{font-size:.93rem;color:var(--muted)}
+.trivia{list-style:none;margin:0;padding:0}
+.trivia li{padding:.6rem 0;border-bottom:1px solid var(--rule)}
+.trivia .ty{display:inline-block;min-width:3.2rem;font-family:"Barlow Condensed",sans-serif;font-weight:700;color:var(--accent2)}
+.howto p{margin:0 0 .9rem}
+.tablewrap{overflow-x:auto}
+table{width:100%;border-collapse:collapse;font-size:.95rem}
+th,td{text-align:left;padding:.45rem .5rem;border-bottom:1px solid var(--rule);vertical-align:top}
+th{font-family:"Barlow Condensed",sans-serif;font-weight:700;letter-spacing:.05em;text-transform:uppercase;font-size:.85rem;color:var(--muted)}
+td:first-child{white-space:nowrap;color:var(--accent2);font-weight:600}
+footer{margin-top:3rem;color:var(--muted);font-style:italic;text-align:center}
+a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+</style>
+</head>
+<body>
+<main class="wrap">
+<h1 class="band metal">Procedural Byts</h1>
+<p class="sub cond">A computer science curriculum in heavy metal, 1970 to now</p>
+<nav class="toc cond" aria-label="Sections"><a href="#albums">Albums</a><a href="making-of.html">Making of</a><a href="#band">The band</a><a href="#trivia">Trivia</a><a href="#coverage">Curriculum</a><a href="#suno">Using with Suno</a></nav>
+<p>Procedural Byts are a fictional band who have released a record every three to five years since 1970. Each album covers one area of the ACM/IEEE-CS/AAAI CS2023 computer science curriculum in the metal style of its decade, from 1970 proto-metal to a 2024 quantum reunion. Every song teaches one concept, and the solos act it out. There are 18 albums and 218 songs, covering all seventeen CS2023 knowledge areas plus quantum computing. The duck has been there the whole time.</p>
+
+<h2 id="albums" class="metal">Albums</h2>
+<article class="rel"><span class="year">1970</span><span class="dot"></span>
+  <h3><a href="albums/cs1.html">CS1</a></h3>
+  <div class="tags"><span class="tag ka">Software development fundamentals</span><span class="tag">1970s heavy metal</span></div>
+  <p>The 1970 proto-metal debut from Procedural Byts: a first-semester CS course in twelve heavy songs, from Hello, World to the base case.</p>
+  <p class="tracks">12 tracks: Hello, World (Awaken), Bound in Memory, Truth Tables of Doom, The Crossroads of Logic, Iron Iteration, Call of the Function, Chains of Characters, Index of Doom, Blueprint of the Beast, Bug in the Machine, Sorting the Damned, Base Case</p>
+</article><article class="rel"><span class="year">1973</span><span class="dot"></span>
+  <h3><a href="albums/fetch-decode-execute.html">Fetch, Decode, Execute</a></h3>
+  <div class="tags"><span class="tag ka">Architecture and organization</span><span class="tag">1973 heavy blues rock</span></div>
+  <p>The 1973 heavy blues follow-up from Procedural Byts: a computer architecture course in twelve songs, recorded inside the machine.</p>
+  <p class="tracks">12 tracks: Logic Gates of Hell, Two’s Complement, Floating Point Blues, Flip-Flop, Register Blues, Fetch, Decode, Execute, Speak in Opcodes, The Memory Hierarchy, Interrupt, Pipeline, Clock Speed, Stored Program</p>
+</article><article class="rel"><span class="year">1976</span><span class="dot"></span>
+  <h3><a href="albums/kernel-panic.html">Kernel Panic</a></h3>
+  <div class="tags"><span class="tag ka">Operating systems</span><span class="tag">1976 hard rock with an early punk edge</span></div>
+  <p>The 1976 hard-rock-meets-punk album from Procedural Byts: an operating systems course in twelve fast songs, from boot to kernel panic.</p>
+  <p class="tracks">12 tracks: Bootstrap, System Call, Fork in the Road, Round Robin, Context Switch, Lock It Down, Deadlock (Nobody Moves), Virtual Memory, Page Fault, Everything Is a File, Device Driver, Kernel Panic</p>
+</article><article class="rel"><span class="year">1979</span><span class="dot"></span>
+  <h3><a href="albums/syntax-error.html">Syntax Error</a></h3>
+  <div class="tags"><span class="tag ka">Foundations of programming languages</span><span class="tag">1979 new wave of British heavy metal</span></div>
+  <p>The 1979 NWOBHM album from Procedural Byts: a programming languages course in twelve songs, with a whole side of no guitar.</p>
+  <p class="tracks">12 tracks: Lexer of the Damned, Parse Tree, Compile or Interpret, Strongly Typed, Lexical Scope, Garbage Collector, Lambda, No Side Effects, Immutable, Map, Filter, Reduce, Closure, Paradigm Shift</p>
+</article><article class="rel"><span class="year">1982</span><span class="dot"></span>
+  <h3><a href="albums/packet-storm.html">Packet Storm</a></h3>
+  <div class="tags"><span class="tag ka">Networking and communication</span><span class="tag">1982 classic heavy metal</span></div>
+  <p>The 1982 heavy metal album from Procedural Byts: a networking course in twelve songs, recorded by mail and reassembled by sequence number.</p>
+  <p class="tracks">12 tracks: Packet Storm, Seven Layers Deep, Collision Domain, Address Unknown, Router of the Lost, Three-Way Handshake, Sequence Number, Packet Loss, Fire and Forget, Slow Start, Name Server, Flag Day</p>
+</article><article class="rel"><span class="year">1985</span><span class="dot"></span>
+  <h3><a href="albums/cs2-live.html">CS2: Live on the Abstract Data Tour ’85</a></h3>
+  <div class="tags"><span class="tag ka">Algorithmic foundations</span><span class="tag">1985 heavy metal</span></div>
+  <p>The 1985 live album from Procedural Byts: a second-semester CS course played to sold-out arenas, now with thirty-two bits of synth.</p>
+  <p class="tracks">12 tracks: Sons of the Superclass, Polymorph, Contract in Blood, Throw Down, Generic Warrior, Chain Reaction, Last In, First Out, Line of Fire, Collision Course, Root of All Evil, Divide and Conquer, Order of Growth</p>
+</article><article class="rel"><span class="year">1989</span><span class="dot"></span>
+  <h3><a href="albums/qed.html">Q.E.D.</a></h3>
+  <div class="tags"><span class="tag ka">Mathematical and statistical foundations</span><span class="tag">1989 progressive metal concept album</span></div>
+  <p>The 1989 prog-metal concept album from Procedural Byts: a discrete math course in twelve songs, and a proof the band has to finish without Byt.</p>
+  <p class="tracks">12 tracks: If and Only If, For All, There Exists, Reductio, The Ladder, The Empty Set, One to One, Pigeonhole, Choose Your Fate, Weighted Dice, Modulo Midnight, Seven Bridges, Q.E.D.</p>
+</article><article class="rel"><span class="year">1992</span><span class="dot"></span>
+  <h3><a href="albums/third-normal-form.html">Third Normal Form</a></h3>
+  <div class="tags"><span class="tag ka">Data management</span><span class="tag">1992 grunge and alternative metal</span></div>
+  <p>The 1992 grunge album from Procedural Byts: a databases course in twelve songs, and the end of the four-setlist problem.</p>
+  <p class="tracks">12 tracks: Select All, Entity, Relationship, Primary Key, Referential Integrity, Join Me, Group By, Anomaly, Third Normal Form, Null, Index, ACID, Commit</p>
+</article><article class="rel"><span class="year">1995</span><span class="dot"></span>
+  <h3><a href="albums/merge-conflict.html">Merge Conflict</a></h3>
+  <div class="tags"><span class="tag ka">Software engineering</span><span class="tag">1995 industrial metal</span></div>
+  <p>The 1995 industrial metal album from Procedural Byts: a software engineering course in twelve songs, recorded on four branches and merged the hard way.</p>
+  <p class="tracks">12 tracks: Requirements, Waterfall, Loose Coupling, Gang of Four, Unit Test, Regression, Code Review, Refactor, Technical Debt, Estimate, Version Control, Merge Conflict</p>
+</article><article class="rel"><span class="year">1998</span><span class="dot"></span>
+  <h3><a href="albums/buffer-overflow.html">Buffer Overflow</a></h3>
+  <div class="tags"><span class="tag ka">Security</span><span class="tag">1998 industrial metal with techno crossover</span></div>
+  <p>The 1998 industrial-techno album from Procedural Byts: a computer security course in twelve songs, and why backstage passes now need two factors.</p>
+  <p class="tracks">12 tracks: Triad, Threat Model, Password, Two Factor, Least Privilege, Buffer Overflow, Sanitize, Encryption, Public Key, Signed, Man in the Middle, Social Engineer</p>
+</article><article class="rel"><span class="year">2001</span><span class="dot"></span>
+  <h3><a href="albums/race-condition.html">Race Condition</a></h3>
+  <div class="tags"><span class="tag ka">Parallel and distributed computing</span><span class="tag">2001 nu-metal</span></div>
+  <p>The 2001 nu-metal album from Procedural Byts: a parallel and distributed computing course in twelve songs, plus a hidden thirteenth.</p>
+  <p class="tracks">13 tracks: Race Condition (Nyble First), Many Cores, Shared Memory, Mutex, Barrier, Message Passing, Embarrassingly Parallel, Amdahl, Lamport Clock, Slow or Dead, Consensus, CAP, Race Condition (Bytes First)</p>
+</article><article class="rel"><span class="year">2004</span><span class="dot"></span>
+  <h3><a href="albums/rasterize.html">Rasterize</a></h3>
+  <div class="tags"><span class="tag ka">Graphics and interactive techniques</span><span class="tag">2004 metalcore</span></div>
+  <p>The 2004 metalcore album from Procedural Byts: a computer graphics course in twelve songs, starting with a single straight line.</p>
+  <p class="tracks">12 tracks: Bresenham, RGB, Made of Triangles, Matrix Transform, Perspective, The Pipeline, Z-Buffer, Phong, Texture, Jaggies, Ray Tracer, Sixty Frames</p>
+</article><article class="rel"><span class="year">2007</span><span class="dot"></span>
+  <h3><a href="albums/user-error.html">User Error</a></h3>
+  <div class="tags"><span class="tag ka">Human-computer interaction</span><span class="tag">2007 alternative metal</span></div>
+  <p>The 2007 alt-metal album from Procedural Byts: a human-computer interaction course in twelve songs, and why it was never the user’s fault.</p>
+  <p class="tracks">12 tracks: User Error, Affordance, Mental Model, Feedback, Know Your User, Paper Prototype, Think Aloud, Fitts’s Law, Seven, Plus or Minus Two, Accessible to All, Dark Pattern, Undo</p>
+</article><article class="rel"><span class="year">2010</span><span class="dot"></span>
+  <h3><a href="albums/cross-platform.html">Cross-Platform</a></h3>
+  <div class="tags"><span class="tag ka">Specialized platform development</span><span class="tag">2010 electronic rock</span></div>
+  <p>The 2010 electronic rock album from Procedural Byts: a platforms course in twelve songs, released as an app and playable on a fridge.</p>
+  <p class="tracks">12 tracks: Cross-Platform, Client and Server, Structure, Style, Behavior, Responsive, Stateless, Background, Fat Finger, Battery Low, Game Loop, Entity Component System, Embedded, Runs on the Fridge</p>
+</article><article class="rel"><span class="year">2013</span><span class="dot"></span>
+  <h3><a href="albums/cache-me-if-you-can.html">Cache Me If You Can</a></h3>
+  <div class="tags"><span class="tag ka">Systems fundamentals</span><span class="tag">2013 djent progressive metal</span></div>
+  <p>The 2013 djent album from Procedural Byts: a systems fundamentals course in twelve songs, toured on four virtual machines and one very loud host.</p>
+  <p class="tracks">12 tracks: Cache Me If You Can, Latency, Bandwidth, Bottleneck, Queue Up, State Machine, Leaky Abstraction, Virtual Machine, Container, Fault Tolerant, Five Nines, Two Hard Things</p>
+</article><article class="rel"><span class="year">2016</span><span class="dot"></span>
+  <h3><a href="albums/terms-of-service.html">Terms of Service</a></h3>
+  <div class="tags"><span class="tag ka">Society, ethics, and professionalism</span><span class="tag">2016 post-metal</span></div>
+  <p>The 2016 post-metal album from Procedural Byts: a computing ethics course in twelve songs, and how the band got its duck back.</p>
+  <p class="tracks">12 tracks: Terms of Service, Privacy, Who Owns the Code, Copyleft, Duty of Care, Whistleblower, Avoid Harm, Three Lenses, Who Is Missing, Carbon, Replaced, Fine Print</p>
+</article><article class="rel"><span class="year">2019</span><span class="dot"></span>
+  <h3><a href="albums/gradient-descent.html">Gradient Descent</a></h3>
+  <div class="tags"><span class="tag ka">Artificial intelligence</span><span class="tag">2019 synthwave metal</span></div>
+  <p>The 2019 synthwave metal album from Procedural Byts: an artificial intelligence course in twelve songs, and the AI band with the five-legged duck.</p>
+  <p class="tracks">12 tracks: The Turing Test, A Star, Minimax, Expert System, Prior, Training Data, Neural Net, Gradient Descent, Overfit, Cluster, Reward, Five Legs</p>
+</article><article class="rel"><span class="year">2024</span><span class="dot"></span>
+  <h3><a href="albums/superposition.html">Superposition</a></h3>
+  <div class="tags"><span class="tag ka">Bonus: quantum computing</span><span class="tag">genre-blending metal</span></div>
+  <p>The 2024 reunion album from Procedural Byts: a quantum computing course in thirteen songs, each in two eras at once, with Byt both back and not.</p>
+  <p class="tracks">13 tracks: Superposition, Measurement, Interference, Hadamard, Two to the N, Entanglement, No-Cloning, Grover, Shor, Quantum Key, Decoherence, Advantage, Hello, World (Quantum Reprise)</p>
+</article>
+
+<h2 id="band" class="metal">The Band</h2>
+<ul class="lineup"><li><b>Nyble</b><span class="role">Lead vocals, bass guitar</span><span class="yrs">1970 to now</span><span>Four bits. Half a byte, one hex digit, and the voice of the band on every album.</span></li><li><b>Byt</b><span class="role">Lead guitar</span><span class="yrs">1970 to 1988, and 2024 in superposition</span><span>One bit. Flipped mid-solo in 1988; the band blames a cosmic ray. The band is named after him.</span></li><li><b>Bytes</b><span class="role">Drums, backing vocals</span><span class="yrs">1970 to now</span><span>Eight bits and eight flip-flops. Counts every loop out loud, raps, screams, growls, and was once told he could not be scaled up.</span></li><li><b>Wyrd</b><span class="role">Synthesizers, keytar, organ, turntables, piano</span><span class="yrs">1985 to now</span><span>Thirty-two bits. Answered a magazine ad that said “must align on word boundaries.” Remembers the exact bar Byt stopped on.</span></li><li><b>Qword</b><span class="role">Lead guitar</span><span class="yrs">1988 to now</span><span>Sixty-four bits. The sixty-fourth guitarist to audition. Went without guitar solos from 1992 to 2003 and has been making up for it since. Shares lead guitar with Byt on the 2024 reunion.</span></li><li><b>Null</b><span class="role">Rubber duck, technical advisor</span><span class="yrs">Was there first</span><span>Never returns anything. Returned exactly one value, ever, at the end of Q.E.D. in 1989.</span></li></ul>
+
+<h2 id="trivia" class="metal">Trivia</h2>
+<ul class="trivia"><li><span class="ty">1970</span>The band met in a university basement lab at midnight, each explaining their bugs out loud to the same rubber duck. By sunrise they had fixed each other’s bugs, and the duck had said nothing.</li><li><span class="ty">1970</span>The name was a typo. Nyble meant to write “Procedural Bits” on the first flyer. Byt filed it as a bug; Nyble closed it as “working as intended.”</li><li><span class="ty">1970</span>At the first gig, Bytes counted in “zero, one, two, three” and the others came in on four. The whole set ran one beat apart. Off-by-one has been the band’s signature ever since.</li><li><span class="ty">1973</span>The second album was recorded inside a mainframe cabinet “for the reverb.” Null sat on the halt switch during one take and stopped the machine; the take is on the record.</li><li><span class="ty">1976</span>The Kernel Panic sessions deadlocked for three weeks. It ended when someone moved the duck, which had been sitting on the only lyric sheet.</li><li><span class="ty">1976</span>Byt once forked himself to play rhythm and lead at the same time. The child process ate everyone’s sandwiches until Nyble reaped it.</li><li><span class="ty">1979</span>Side B of Syntax Error has no guitar. Byt refused to play songs with no side effects.</li><li><span class="ty">1982</span>Packet Storm was recorded by mail. Bytes’s reels arrived out of order and were reassembled by sequence number. One never arrived. Null traveled in every box as packing material.</li><li><span class="ty">1985</span>The tour bus was named the Linked List. It drove past Pittsburgh and couldn’t go back, because it had no back pointer.</li><li><span class="ty">1985</span>In Cleveland, Bytes read the setlist as a stack and the band opened with the encore.</li><li><span class="ty">1985</span>On the live album, Nyble still introduces the band by its old name, Bytes, Nybles and Byts. The recordings were kept as they were.</li><li><span class="ty">1988</span>Byt flipped, mid-solo. He left one line on the bottom of the duck: “If n, then n plus one.” No base case.</li><li><span class="ty">1989</span>The base case turned out to be Hello, World, the first song they ever played. At the end of the proof, Null quacked. It is the only value the duck has ever returned.</li><li><span class="ty">1992</span>Every member kept their own copy of the setlist, and no two matched. Bytes’s still listed songs from 1979.</li><li><span class="ty">1992</span>Asked whether it was equal to itself, Null said nothing. In SQL, that is the correct answer.</li><li><span class="ty">1995</span>Every code review comment Bytes wrote said “louder.” The merge took twice as long as the recording.</li><li><span class="ty">1998</span>A fan got backstage by saying “I’m with the duck.” Backstage passes now need two factors. The security question is “what does the duck say?” The answer is nothing.</li><li><span class="ty">1998</span>Bytes’s password was “drums,” then “drums1,” then “Drums1!”</li><li><span class="ty">2001</span>The title track of Race Condition came out two different ways depending on whose tape machine started first. Both versions are on the album; one is hidden.</li><li><span class="ty">2001</span>With four members, every vote tied two to two, so Null became the fifth voter. The duck abstains every time and has never lost an election.</li><li><span class="ty">2004</span>Wyrd built the band’s first 3D music video by hand and ran out of time before modeling the duck, which ended up with twelve triangles. The low-poly duck is now the band’s logo.</li><li><span class="ty">2007</span>The first pressing of User Error came in packaging nobody could open. The second pressing says “pull here.”</li><li><span class="ty">2010</span>The version of Cross-Platform that runs on a smart fridge, in 64 kilobytes, is the most-played version. In the app’s game, Null has a position, a sprite and a velocity, but no sound component.</li><li><span class="ty">2013</span>The band toured as four virtual machines on one very loud server, until its fan failed on the first night and took all four down at once.</li><li><span class="ty">2013</span>Null has had perfect uptime since 1970, mostly by not doing anything.</li><li><span class="ty">2016</span>The band read its 1970 record contract for the first time. Page eighty-seven gave the label the rights to “any mascot, waterfowl or technical advisor.” They got the duck back and released its likeness under Creative Commons.</li><li><span class="ty">2016</span>Duty of Care, about the Therac-25, is the only Procedural Byts song with no jokes in it.</li><li><span class="ty">2019</span>The label trained an AI on every song the band had recorded and released it as Procedural Bots. It topped the charts for a week, until fans noticed every duck had five legs.</li><li><span class="ty">2019</span>Procedural Bots was always a beat early, because its training data included Bytes’s practice tapes.</li><li><span class="ty">2024</span>Byt returned as a qubit: both in the band and not, until someone checks. Wyrd remembered the exact bar he stopped on in 1988, and Byt picked up on the next one.</li><li><span class="ty">2024</span>The last song on the last album stops before its final note. Whether Byt played it, and whether the duck quacked a second time, has never been measured.</li></ul>
+
+<h2 id="coverage" class="metal">Curriculum Coverage</h2>
+<div class="tablewrap"><table><thead><tr><th>Year</th><th>Album</th><th>CS2023 knowledge area</th></tr></thead><tbody><tr><td>1970</td><td><a href="albums/cs1.html">CS1</a></td><td>Software development fundamentals</td></tr><tr><td>1973</td><td><a href="albums/fetch-decode-execute.html">Fetch, Decode, Execute</a></td><td>Architecture and organization</td></tr><tr><td>1976</td><td><a href="albums/kernel-panic.html">Kernel Panic</a></td><td>Operating systems</td></tr><tr><td>1979</td><td><a href="albums/syntax-error.html">Syntax Error</a></td><td>Foundations of programming languages</td></tr><tr><td>1982</td><td><a href="albums/packet-storm.html">Packet Storm</a></td><td>Networking and communication</td></tr><tr><td>1985</td><td><a href="albums/cs2-live.html">CS2: Live on the Abstract Data Tour ’85</a></td><td>Algorithmic foundations</td></tr><tr><td>1989</td><td><a href="albums/qed.html">Q.E.D.</a></td><td>Mathematical and statistical foundations</td></tr><tr><td>1992</td><td><a href="albums/third-normal-form.html">Third Normal Form</a></td><td>Data management</td></tr><tr><td>1995</td><td><a href="albums/merge-conflict.html">Merge Conflict</a></td><td>Software engineering</td></tr><tr><td>1998</td><td><a href="albums/buffer-overflow.html">Buffer Overflow</a></td><td>Security</td></tr><tr><td>2001</td><td><a href="albums/race-condition.html">Race Condition</a></td><td>Parallel and distributed computing</td></tr><tr><td>2004</td><td><a href="albums/rasterize.html">Rasterize</a></td><td>Graphics and interactive techniques</td></tr><tr><td>2007</td><td><a href="albums/user-error.html">User Error</a></td><td>Human-computer interaction</td></tr><tr><td>2010</td><td><a href="albums/cross-platform.html">Cross-Platform</a></td><td>Specialized platform development</td></tr><tr><td>2013</td><td><a href="albums/cache-me-if-you-can.html">Cache Me If You Can</a></td><td>Systems fundamentals</td></tr><tr><td>2016</td><td><a href="albums/terms-of-service.html">Terms of Service</a></td><td>Society, ethics, and professionalism</td></tr><tr><td>2019</td><td><a href="albums/gradient-descent.html">Gradient Descent</a></td><td>Artificial intelligence</td></tr><tr><td>2024</td><td><a href="albums/superposition.html">Superposition</a></td><td>Bonus: quantum computing</td></tr></tbody></table></div>
+
+<h2 id="suno" class="metal">Using with Suno</h2>
+<div class="howto">
+<p>Every album page has a Copy complete Suno prompt button for each song, plus each Suno field on its own: title, style of music, exclude styles and lyrics. In Suno, switch on Custom mode and paste each field into its box.</p>
+<p>Each style prompt describes the lineup for that era, so the band keeps a consistent sound: female lead vocals on bass guitar, the lead guitarist, the keyboard player once Wyrd joins, and the drummer on backing vocals. Section tags in the lyrics say who sings what, and words in parentheses are sung as backing vocals.</p>
+<p>Lyrics, lessons and prompts are also in the repository as plain Markdown, one file per song.</p>
+</div>
+
+<footer><p class="metal" style="font-size:1.5rem;margin:0;font-style:normal">Procedural Byts</p><p>True for one, and every one that follows.</p></footer>
+</main>
+</body>
+</html>

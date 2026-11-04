@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>The Making Of — Procedural Byts</title>
+<meta name="description" content="Procedural Byts: a fictional metal band whose albums cover the computer science curriculum, one decade and one genre at a time.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Metal+Mania&family=Spectral:ital,wght@0,400;0,600;1,400&family=Barlow+Condensed:wght@600;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#e8e4ea;--ink:#21152a;--muted:#62566c;--accent:#9c2a1e;--accent2:#1f4f9c;--panel:#f6f3f7;--rule:#c8bfce;--chip:#ddd5e2;color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#120b12;--ink:#ece3dc;--muted:#a8999f;--accent:#ee6a4a;--accent2:#7cb6ff;--panel:#1d1320;--rule:#352737;--chip:#2b1e2e;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#120b12;--ink:#ece3dc;--muted:#a8999f;--accent:#ee6a4a;--accent2:#7cb6ff;--panel:#1d1320;--rule:#352737;--chip:#2b1e2e;color-scheme:dark}
+*,*::before,*::after{box-sizing:inherit}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:"Spectral",Georgia,serif;font-size:1.0625rem;line-height:1.6}
+.wrap{max-width:46rem;margin:0 auto;padding:2.5rem 1.15rem 4rem}
+.metal{font-family:"Metal Mania",Impact,fantasy;font-weight:400}
+.cond{font-family:"Barlow Condensed","Arial Narrow",sans-serif;font-weight:700;letter-spacing:.06em;text-transform:uppercase}
+a{color:var(--accent2)}
+.band{font-size:clamp(3rem,14vw,5.2rem);line-height:.95;margin:0;color:var(--accent)}
+.sub{color:var(--accent2);margin:.6rem 0 1.4rem}
+nav.toc{display:flex;flex-wrap:wrap;gap:.4rem 1.2rem;margin:0 0 2rem}
+nav.toc a{color:var(--accent);text-decoration:none}
+nav.toc a:hover{text-decoration:underline}
+h2{font-size:clamp(1.9rem,8vw,2.5rem);line-height:1;margin:3rem 0 1rem;color:var(--accent);scroll-margin-top:1rem}
+.lineup{display:grid;grid-template-columns:1fr;gap:.6rem;margin:0;padding:0;list-style:none}
+@media (min-width:36rem){.lineup{grid-template-columns:1fr 1fr}}
+.lineup li{background:var(--panel);border-left:4px solid var(--accent);padding:.65rem .85rem}
+.lineup b{font-size:1.2rem;display:block}
+.lineup .role{display:block;color:var(--accent2);font-size:.95rem}
+.lineup .yrs{display:block;color:var(--muted);font-style:italic;font-size:.9rem;margin-bottom:.2rem}
+.rel{position:relative;padding:0 0 2rem 4.6rem}
+.rel::before{content:"";position:absolute;left:3.45rem;top:.4rem;bottom:0;width:2px;background:var(--rule)}
+.rel:last-child::before{display:none}
+.year{position:absolute;left:0;top:0;width:3rem;text-align:right;font-family:"Barlow Condensed","Arial Narrow",sans-serif;font-weight:700;font-size:1.25rem;color:var(--accent2)}
+.dot{position:absolute;left:3.12rem;top:.45rem;width:.75rem;height:.75rem;border-radius:50%;background:var(--accent);box-shadow:0 0 0 3px var(--bg)}
+.future .dot{background:var(--bg);border:2px solid var(--accent)}
+.rel h3{margin:0;font-size:1.5rem;line-height:1.15}
+.rel h3 a{color:var(--ink);text-decoration-color:var(--rule);text-underline-offset:4px}
+.rel h3 a:hover{color:var(--accent)}
+.soon{font-family:"Barlow Condensed",sans-serif;font-size:.8rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);vertical-align:middle;margin-left:.4rem}
+.tags{display:flex;flex-wrap:wrap;gap:.35rem;margin:.4rem 0 .5rem}
+.tag{font-family:"Barlow Condensed","Arial Narrow",sans-serif;font-weight:600;font-size:.85rem;padding:.1rem .5rem;border-radius:3px;background:var(--chip)}
+.tag.ka{background:var(--accent2);color:#fff}
+.rel p{margin:0 0 .4rem}
+.tracks{font-size:.93rem;color:var(--muted)}
+.trivia{list-style:none;margin:0;padding:0}
+.trivia li{padding:.6rem 0;border-bottom:1px solid var(--rule)}
+.trivia .ty{display:inline-block;min-width:3.2rem;font-family:"Barlow Condensed",sans-serif;font-weight:700;color:var(--accent2)}
+.howto p{margin:0 0 .9rem}
+.tablewrap{overflow-x:auto}
+table{width:100%;border-collapse:collapse;font-size:.95rem}
+th,td{text-align:left;padding:.45rem .5rem;border-bottom:1px solid var(--rule);vertical-align:top}
+th{font-family:"Barlow Condensed",sans-serif;font-weight:700;letter-spacing:.05em;text-transform:uppercase;font-size:.85rem;color:var(--muted)}
+td:first-child{white-space:nowrap;color:var(--accent2);font-weight:600}
+footer{margin-top:3rem;color:var(--muted);font-style:italic;text-align:center}
+a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+</style>
+</head>
+<body>
+<main class="wrap">
+<p class="cond"><a href="index.html">Procedural Byts home</a></p>
+<h1 class="band metal">The Making Of</h1>
+<p class="sub cond">How a song about loops became eighteen albums</p>
+<h2 class="metal">It started with one song</h2>
+<p>The project began with a single request: an explanation of for loops, while loops and repeat-until loops as a 1970s heavy metal song. That became Iron Iteration. A second song on if and switch statements followed in the same style, and then the idea for a whole album.</p>
+<h2 class="metal">CS1 and the band</h2>
+<p>CS1 became twelve songs covering a first-semester course, first as a web page of liner notes and then as a Word document. The band was a power trio called Bytes, Nybles and Byts: Nyble on lead vocals and bass, Byt on lead guitar, and Bytes on drums and backing vocals. Solos were added wherever a song reviews a programming construct, so each one acts the concept out. The band got an origin story full of computer science jokes, and a rubber duck named Null joined the lineup and never left.</p>
+<h2 class="metal">Making it work in Suno</h2>
+<p>To record the songs in Suno, each one got a prompt: a title, a style description, an exclude list and lyrics with section tags. A copy page put every field one tap away, and then a single Copy complete Suno prompt button joined them all. Making the lineup explicit in every prompt (female lead vocals on bass, lead guitar, drums with male backing vocals) kept the band sounding like one band.</p>
+<h2 class="metal">The band grows</h2>
+<p>CS2 became a 1985 live album recorded on the Abstract Data Tour, with a new member, Wyrd, on synthesizers. The band was renamed Procedural Byts, for good. For the discrete math album, Byt left the band in 1988 and Qword, a 64-bit shredder, took over lead guitar.</p>
+<h2 class="metal">A whole curriculum</h2>
+<p>The band then got a full history: a release every two to five years from 1970 to 2024, each album covering one knowledge area of the ACM/IEEE-CS/AAAI CS2023 curriculum in the metal style of its decade. The albums were written one at a time, from Fetch, Decode, Execute in 1973 to Superposition in 2024, each with its own cover, liner notes, story, solos and Suno prompts. Rasterize starts with Bresenham’s line algorithm, because every picture on a screen starts with a line.</p>
+<h2 class="metal">Recording and publishing</h2>
+<p>Along the way came practical questions. Suno has no official public API, so recordings come down with Download All, one workspace per album. Audio can live on GitHub Pages at 128 kbps, or on YouTube as static videos. When the CS2 page was regenerated, two lines of stage banter changed, so they were restored to match the recordings.</p>
+<h2 class="metal">Every song follows the same shape</h2>
+<p>Each song has verses, a chorus with call-and-response backing vocals in parentheses, a bridge, a solo that acts out the concept, and a final chorus. Each comes with a liner note and a lesson that explains the concept in plain language. In the Suno lyrics, section tags in square brackets say who sings each part, and solo tags describe the instrumental break, because Suno sings anything that isn’t inside square brackets, and treats anything in parentheses as backing vocals.</p>
+<h2 class="metal">The archive</h2>
+<p>Some early artifacts are kept exactly as they were, including the original band name: <a href="archive/cs1-first-liner-notes.html">the first CS1 liner notes page</a> and <a href="archive/CS1-Bytes-Nybles-Byts.docx">the CS1 Word document</a>.</p>
+<footer><p class="metal" style="font-size:1.5rem;margin:0;font-style:normal">Procedural Byts</p><p>Written with Claude. Recorded with Suno.</p></footer>
+</main>
+</body>
+</html>

@@ -1,0 +1,913 @@
+{
+  "year": 1989,
+  "slug": "qed",
+  "title": "Q.E.D.",
+  "knowledge_area": "Mathematical and statistical foundations",
+  "genre": "1989 progressive metal concept album",
+  "description": "Q.E.D. is the 1989 progressive metal concept album from Procedural Byts, and it is one long proof. In 1988 Byt flipped mid-solo and left the band, leaving a single line written on the bottom of the duck: if n, then n plus one. No base case. Nyble sings lead and plays bass, new member Qword plays shred lead guitar, Wyrd plays keyboards and orchestral synths, and Bytes plays drums and sings backup. Twelve songs cover the math of computing: logic, quantifiers, proof by contradiction, induction, sets, functions, the pigeonhole principle, counting, probability, modular arithmetic and graphs, until the band finds the base case in the first song they ever played. Then the duck quacks. Play loud. Show your work.",
+  "tagline": "The 1989 prog-metal concept album from Procedural Byts: a discrete math course in twelve songs, and a proof the band has to finish without Byt.",
+  "lineup": "A four-piece again. Nyble sings lead on every song and plays bass guitar. Qword plays lead guitar. Wyrd plays keyboards and synthesizers. Bytes plays drums and sings backup.",
+  "members": [
+    {
+      "name": "Nyble",
+      "role": "Lead vocals, bass guitar",
+      "bio": "Four bits, and the reason the band kept its name. Nyble sings lead on every song, plays bass, and narrates the proof from the first line to the last."
+    },
+    {
+      "name": "Qword",
+      "role": "Lead guitar",
+      "bio": "Sixty-four bits wide and the fastest player the band has ever had. Qword takes most of the solos on this record and spends the whole album learning to play like the one bit it replaced, right up to the last note."
+    },
+    {
+      "name": "Wyrd",
+      "role": "Keyboards, synthesizers",
+      "bio": "Thirty-two bits, now behind a wall of orchestral synths, harpsichords and choirs. Wyrd’s solos on this album count things: every note, every ordering, every cycle until it comes around again."
+    },
+    {
+      "name": "Bytes",
+      "role": "Drums, backing vocals",
+      "bio": "Eight bits, and the one who tried to fit thirteen beats into twelve slots, nine different ways. Bytes plays drums, sings backup, and kept the odd time signatures from falling apart."
+    },
+    {
+      "name": "Null",
+      "role": "Rubber duck, technical advisor",
+      "bio": "Carried Byt’s inductive step on its underside for the whole album. Quacked once, at the very end. Has not commented since."
+    },
+    {
+      "name": "Byt",
+      "role": "Lead guitar, 1970 to 1988",
+      "bio": "One bit. Flipped. Left the proof unfinished and the band named after him. His note is the last thing you hear Qword play."
+    }
+  ],
+  "story": {
+    "heading": "The Proof",
+    "paragraphs": [
+      "In 1988, in the middle of a solo, Byt flipped. One bit, one night, from one to zero. He walked off stage and never came back. The band blames a cosmic ray. Wyrd remembers the exact bar he stopped on and has never told anyone which one.",
+      "The next morning, Nyble turned Null over and found a single line written on the bottom of the duck, in Byt’s handwriting: “If n, then n plus one.” Just the inductive step. No base case. On its own, it proves nothing.",
+      "The band auditioned sixty-three guitarists. The sixty-fourth was Qword: sixty-four bits wide, the biggest member the band has ever had, and painfully aware of replacing the smallest. Qword can play a thousand notes a minute. The fans still chanted for the one note Byt used to play. Qword learned it anyway.",
+      "Bytes suggested it might be time for a new name. Nyble refused. The band was called Procedural Byts before Byt flipped, and it would be called Procedural Byts long after. It is, and it always will be.",
+      "So they went into the studio to finish Byt’s proof. Long songs, odd time signatures, Wyrd’s synths gone fully orchestral. They searched every set, every function, every graph and every clock. It took eleven songs to realize the base case had been behind them the whole time: the first song they ever played together.",
+      "When the proof closed, on the last take of the last song, Null made a sound. A single quack. It is the first value the duck has ever returned."
+    ]
+  },
+  "cover_sub": "The 1989 concept album. One long proof, finished without Byt.",
+  "songs": [
+    {
+      "title": "If and Only If",
+      "parts": [
+        {
+          "kind": "spoken",
+          "label": "Intro (spoken)",
+          "lines": [
+            "1988. One bit flipped, and the band was one member short.",
+            "On the bottom of the duck, in Byt’s handwriting, a single line:",
+            "If n, then n plus one."
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "P is the promise and Q is the deed,",
+            "If P, then Q is the law that we heed.",
+            "But if the promise was never made true,",
+            "The arrow still stands, whatever you do!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "If and only if! The arrow points both ways!",
+            "If and only if! The truth of all our days!",
+            "P implies Q and Q implies P,",
+            "Only then are they one, like the band used to be!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "The converse turns the arrow round, and it isn’t the same,",
+            "If it rains, the street gets wet, but a wet street’s not the rain.",
+            "The contrapositive holds the line: not Q, so not P,",
+            "Flip it and negate it, and it’s still a guarantee!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "True and true! (True!) True and false! (False!)",
+            "False and anything! (True, with no loss!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Lead guitar solo: Qword",
+          "desc": "Qword’s first solo with the band plays two phrases, P and Q, and only lets Q ring out after P has sounded. The one time P stays silent, Q plays anyway, and nothing breaks: a false premise can’t break an implication."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "If and only if! The arrow points both ways!",
+            "If and only if! The truth of all our days!",
+            "P implies Q and Q implies P,",
+            "Only then are they one, like the band used to be!"
+          ]
+        }
+      ],
+      "note": "The first song recorded after Byt flipped, and Qword’s first take with the band.",
+      "lesson": "An implication P → Q is false only when P is true and Q is false; when P is false, the implication is true no matter what (vacuously true). The converse, Q → P, is not the same statement, but the contrapositive, not Q → not P, is. The biconditional P ↔ Q, “if and only if,” is true when both sides have the same truth value.",
+      "n": 1,
+      "sunoTitle": "If and Only If",
+      "style": "1989 progressive metal concept album, brooding clean intro building into a heavy riff in 7/8, 108 BPM, odd time signatures, lineup: female lead vocalist who also plays bass guitar, virtuoso shred lead guitarist, keyboard player on orchestral synthesizers, drummer singing male backing vocals, technical shred guitar, layered orchestral keyboards, intricate melodic bass, big late-1980s drum sound, polished studio production",
+      "exclude": "autotune, EDM, trap beats, modern pop, lo-fi, live crowd noise",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, virtuoso shred lead guitar, keyboards and orchestral synthesizers, drums with male backing vocals]\n\n[Intro]\n[Spoken Word: female voice]\n1988. One bit flipped, and the band was one member short.\nOn the bottom of the duck, in Byt’s handwriting, a single line:\nIf n, then n plus one.\n\n[Verse 1: female lead vocal]\nP is the promise and Q is the deed,\nIf P, then Q is the law that we heed.\nBut if the promise was never made true,\nThe arrow still stands, whatever you do!\n\n[Chorus: female lead vocal, male backing vocals]\nIf and only if! The arrow points both ways!\nIf and only if! The truth of all our days!\nP implies Q and Q implies P,\nOnly then are they one, like the band used to be!\n\n[Verse 2: female lead vocal]\nThe converse turns the arrow round, and it isn’t the same,\nIf it rains, the street gets wet, but a wet street’s not the rain.\nThe contrapositive holds the line: not Q, so not P,\nFlip it and negate it, and it’s still a guarantee!\n\n[Chorus: female lead vocal, male backing vocals]\nIf and only if! The arrow points both ways!\nIf and only if! The truth of all our days!\nP implies Q and Q implies P,\nOnly then are they one, like the band used to be!\n\n[Bridge: female lead vocal, male backing vocals]\nTrue and true! (True!) True and false! (False!)\nFalse and anything! (True, with no loss!)\n\n[Lead Guitar Solo: virtuoso shred in 7/8 built on two contrasting phrases]\n\n[Final Chorus: female lead vocal, male backing vocals, choir synths]\nIf and only if! The arrow points both ways!\nIf and only if! The truth of all our days!\nP implies Q and Q implies P,\nOnly then are they one, like the band used to be!\n\n[End]"
+    },
+    {
+      "title": "For All, There Exists",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "For all the nights we played until the dawn,",
+            "For every chord we struck, the fire carried on.",
+            "There exists one note that holds the whole thing tight,",
+            "Find me the witness and I’ll prove it right!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "For all! (For all!) Every single one!",
+            "There exists! (There exists!) You only need to find one!",
+            "Prove the for-all for every case you see,",
+            "But one counterexample sets the false one free!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Negate a for-all and it turns to there-exists,",
+            "Not every song is perfect means there’s one that missed.",
+            "Every lock has its own key is a promise you can keep,",
+            "One key for every lock is a much bigger leap!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "The upside-down A! (For all!)",
+            "The backwards E! (There exists!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Synth solo: Wyrd",
+          "desc": "Wyrd plays every note of the scale once, for all of them, then hunts through a cloud of notes until finding the single one that fits the chord: the witness."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "For all! (For all!) Every single one!",
+            "There exists! (There exists!) You only need to find one!",
+            "Prove the for-all for every case you see,",
+            "But one counterexample sets the false one free!"
+          ]
+        }
+      ],
+      "note": "Wyrd’s orchestral synths debut here. The studio had to bring in a second power circuit.",
+      "lesson": "“For all x, P(x)” has to hold for every x, and a single counterexample disproves it. “There exists an x with P(x)” needs just one example, called a witness. Negation swaps them: “not for all” means “there exists one that isn’t.” The order of mixed quantifiers matters: “every lock has a key” is much weaker than “one key opens every lock.”",
+      "n": 2,
+      "sunoTitle": "For All, There Exists",
+      "style": "1989 progressive metal concept album, soaring anthem with keyboard fanfares, shifting between 6/8 and 4/4, 124 BPM, odd time signatures, lineup: female lead vocalist who also plays bass guitar, virtuoso shred lead guitarist, keyboard player on orchestral synthesizers, drummer singing male backing vocals, technical shred guitar, layered orchestral keyboards, intricate melodic bass, big late-1980s drum sound, polished studio production",
+      "exclude": "autotune, EDM, trap beats, modern pop, lo-fi, live crowd noise",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, virtuoso shred lead guitar, keyboards and orchestral synthesizers, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nFor all the nights we played until the dawn,\nFor every chord we struck, the fire carried on.\nThere exists one note that holds the whole thing tight,\nFind me the witness and I’ll prove it right!\n\n[Chorus: female lead vocal, male backing vocals]\nFor all! (For all!) Every single one!\nThere exists! (There exists!) You only need to find one!\nProve the for-all for every case you see,\nBut one counterexample sets the false one free!\n\n[Verse 2: female lead vocal]\nNegate a for-all and it turns to there-exists,\nNot every song is perfect means there’s one that missed.\nEvery lock has its own key is a promise you can keep,\nOne key for every lock is a much bigger leap!\n\n[Chorus: female lead vocal, male backing vocals]\nFor all! (For all!) Every single one!\nThere exists! (There exists!) You only need to find one!\nProve the for-all for every case you see,\nBut one counterexample sets the false one free!\n\n[Bridge: female lead vocal, male backing vocals]\nThe upside-down A! (For all!)\nThe backwards E! (There exists!)\n\n[Synth Solo: orchestral keyboard run through every note of the scale, then searching for one note]\n\n[Final Chorus: female lead vocal, male backing vocals, choir synths]\nFor all! (For all!) Every single one!\nThere exists! (There exists!) You only need to find one!\nProve the for-all for every case you see,\nBut one counterexample sets the false one free!\n\n[End]"
+    },
+    {
+      "title": "Reductio",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "Assume the opposite, take the lie as true,",
+            "Follow where it leads and see what it will do.",
+            "Step after step on the logic we tread,",
+            "Till the lie contradicts every word that it said!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Reductio! (Ad absurdum!)",
+            "Assume it’s false and watch it burn!",
+            "Reductio! (Ad absurdum!)",
+            "The contradiction is the truth you earn!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Assume the root of two’s a fraction in its lowest terms,",
+            "Then top and bottom both are even, and the logic squirms.",
+            "But lowest terms can’t both be even, so the lie hits the wall,",
+            "The root of two’s irrational, and truth stands over all!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Assume we can’t go on without the one who flipped,",
+            "Assume the song is over and the final string is ripped.",
+            "But every night we play, and every night they sing along,",
+            "The assumption breaks itself, and the band is not gone!"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Lead guitar solo: Qword",
+          "desc": "Qword plays a phrase that assumes the wrong key, and Bytes follows it faithfully until the two collide in a crash of dissonance. Then Qword resolves to the right key, proven by contradiction."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Reductio! (Ad absurdum!)",
+            "Assume it’s false and watch it burn!",
+            "Reductio! (Ad absurdum!)",
+            "The contradiction is the truth you earn!"
+          ]
+        }
+      ],
+      "note": "The darkest song on the album, and the first time the band sang about Byt on a record.",
+      "lesson": "Proof by contradiction: assume the statement is false, reason carefully until you reach something impossible, and conclude the statement must be true. Classic examples are that the square root of two is irrational and that there are infinitely many primes.",
+      "n": 3,
+      "sunoTitle": "Reductio",
+      "style": "1989 progressive metal concept album, dark tense riff, constantly shifting time signatures, 132 BPM, odd time signatures, lineup: female lead vocalist who also plays bass guitar, virtuoso shred lead guitarist, keyboard player on orchestral synthesizers, drummer singing male backing vocals, technical shred guitar, layered orchestral keyboards, intricate melodic bass, big late-1980s drum sound, polished studio production",
+      "exclude": "autotune, EDM, trap beats, modern pop, lo-fi, live crowd noise",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, virtuoso shred lead guitar, keyboards and orchestral synthesizers, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nAssume the opposite, take the lie as true,\nFollow where it leads and see what it will do.\nStep after step on the logic we tread,\nTill the lie contradicts every word that it said!\n\n[Chorus: female lead vocal, male backing vocals]\nReductio! (Ad absurdum!)\nAssume it’s false and watch it burn!\nReductio! (Ad absurdum!)\nThe contradiction is the truth you earn!\n\n[Verse 2: female lead vocal]\nAssume the root of two’s a fraction in its lowest terms,\nThen top and bottom both are even, and the logic squirms.\nBut lowest terms can’t both be even, so the lie hits the wall,\nThe root of two’s irrational, and truth stands over all!\n\n[Chorus: female lead vocal, male backing vocals]\nReductio! (Ad absurdum!)\nAssume it’s false and watch it burn!\nReductio! (Ad absurdum!)\nThe contradiction is the truth you earn!\n\n[Bridge: female lead vocal, male backing vocals]\nAssume we can’t go on without the one who flipped,\nAssume the song is over and the final string is ripped.\nBut every night we play, and every night they sing along,\nThe assumption breaks itself, and the band is not gone!\n\n[Lead Guitar Solo: dissonant run in the wrong key that collapses, then resolves]\n\n[Final Chorus: female lead vocal, male backing vocals, choir synths]\nReductio! (Ad absurdum!)\nAssume it’s false and watch it burn!\nReductio! (Ad absurdum!)\nThe contradiction is the truth you earn!\n\n[End]"
+    },
+    {
+      "title": "The Ladder",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "Show me the first rung, the base case on the ground,",
+            "Show me that each rung leads to the next one found.",
+            "With these two truths, the ladder has no end,",
+            "You can climb it to the sky, my friend!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Climb the ladder! The base case and the step!",
+            "Climb the ladder! Every rung is met!",
+            "If it’s true for n, then it’s true for n plus one,",
+            "Start it at the bottom and the climb is never done!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Assume it true for n, that’s your hypothesis,",
+            "Then use it to show n plus one, there’s nothing that you miss.",
+            "Add the first n numbers, n times n plus one, then halved,",
+            "The ladder proves it all the way, the endless path is carved!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "He left us the step, but he never left the ground,",
+            "An arrow with no start, a proof without a sound.",
+            "Without a base case the ladder floats in air,",
+            "We need the bottom rung, but where? (Where?) Where?"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Bass solo: Nyble",
+          "desc": "Nyble plays one phrase, then the same phrase one step higher, again and again, each rung built from the one before. She never plays the bottom rung, and by the end the whole band can hear it missing."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Climb the ladder! The base case and the step!",
+            "Climb the ladder! Every rung is met!",
+            "If it’s true for n, then it’s true for n plus one,",
+            "Start it at the bottom and the climb is never done!"
+          ]
+        }
+      ],
+      "note": "Byt’s line from the bottom of the duck is in the chorus. The song ends without resolving, because the proof doesn’t either.",
+      "lesson": "Mathematical induction proves a statement for every n ≥ 1 with two pieces: the base case (it’s true for 1) and the inductive step (if it’s true for n, it’s true for n + 1). Strong induction assumes every earlier case. Recursion, from CS1’s Base Case, has exactly the same shape. Example: 1 + 2 + … + n = n(n + 1)/2.",
+      "n": 4,
+      "sunoTitle": "The Ladder",
+      "style": "1989 progressive metal concept album, epic climbing progression with rising key changes, triumphant but unresolved ending, 120 BPM, odd time signatures, lineup: female lead vocalist who also plays bass guitar, virtuoso shred lead guitarist, keyboard player on orchestral synthesizers, drummer singing male backing vocals, technical shred guitar, layered orchestral keyboards, intricate melodic bass, big late-1980s drum sound, polished studio production",
+      "exclude": "autotune, EDM, trap beats, modern pop, lo-fi, live crowd noise",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, virtuoso shred lead guitar, keyboards and orchestral synthesizers, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nShow me the first rung, the base case on the ground,\nShow me that each rung leads to the next one found.\nWith these two truths, the ladder has no end,\nYou can climb it to the sky, my friend!\n\n[Chorus: female lead vocal, male backing vocals]\nClimb the ladder! The base case and the step!\nClimb the ladder! Every rung is met!\nIf it’s true for n, then it’s true for n plus one,\nStart it at the bottom and the climb is never done!\n\n[Verse 2: female lead vocal]\nAssume it true for n, that’s your hypothesis,\nThen use it to show n plus one, there’s nothing that you miss.\nAdd the first n numbers, n times n plus one, then halved,\nThe ladder proves it all the way, the endless path is carved!\n\n[Chorus: female lead vocal, male backing vocals]\nClimb the ladder! The base case and the step!\nClimb the ladder! Every rung is met!\nIf it’s true for n, then it’s true for n plus one,\nStart it at the bottom and the climb is never done!\n\n[Bridge: female lead vocal, male backing vocals]\nHe left us the step, but he never left the ground,\nAn arrow with no start, a proof without a sound.\nWithout a base case the ladder floats in air,\nWe need the bottom rung, but where? (Where?) Where?\n\n[Bass Guitar Solo: rising sequence, each phrase one step higher, never touching the lowest note]\n\n[Final Chorus: female lead vocal, male backing vocals, choir synths]\nClimb the ladder! The base case and the step!\nClimb the ladder! Every rung is met!\nIf it’s true for n, then it’s true for n plus one,\nStart it at the bottom and the climb is never done!\n\n[End]"
+    },
+    {
+      "title": "The Empty Set",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "A set of four upon the stage, the curly braces round,",
+            "The union of our voices was the only sound we found.",
+            "Take away the one who flipped and the difference is clear,",
+            "But even the empty set, my friend, is still a set right here."
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "The empty set! Nothing inside!",
+            "The empty set! It still has its pride!",
+            "A subset of every set there’ll ever be,",
+            "Nothing is something, as far as I can see!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Intersection is the space where both of us agree,",
+            "The union is the everything, the you and the me.",
+            "The power set holds every way to choose a band,",
+            "Two to the n of them, every lineup ever planned!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "A new element arrives, sixty-four bits wide,",
+            "Add it to the set and let the braces open wide!"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Lead guitar solo: Qword",
+          "desc": "For four bars there is nothing but the hum of Byt’s empty amp. Then Qword steps in and plays a quiet melody that slowly joins the band’s chord: one new element added to the set."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "The empty set! Nothing inside!",
+            "The empty set! It still has its pride!",
+            "A subset of every set there’ll ever be,",
+            "Nothing is something, as far as I can see!"
+          ]
+        }
+      ],
+      "note": "Opens on the sound of Byt’s empty guitar stand being moved to the center of the stage.",
+      "lesson": "A set is an unordered collection of distinct elements. Union combines two sets, intersection keeps what they share, and difference removes one from another. The empty set has no elements and is a subset of every set. The power set of a set with n elements contains all 2ⁿ of its subsets.",
+      "n": 5,
+      "sunoTitle": "The Empty Set",
+      "style": "1989 progressive metal concept album, haunting ballad, sparse piano synth and clean guitar, swelling into a heavy chorus, 76 BPM, odd time signatures, lineup: female lead vocalist who also plays bass guitar, virtuoso shred lead guitarist, keyboard player on orchestral synthesizers, drummer singing male backing vocals, technical shred guitar, layered orchestral keyboards, intricate melodic bass, big late-1980s drum sound, polished studio production",
+      "exclude": "autotune, EDM, trap beats, modern pop, lo-fi, live crowd noise",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, virtuoso shred lead guitar, keyboards and orchestral synthesizers, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nA set of four upon the stage, the curly braces round,\nThe union of our voices was the only sound we found.\nTake away the one who flipped and the difference is clear,\nBut even the empty set, my friend, is still a set right here.\n\n[Chorus: female lead vocal, male backing vocals]\nThe empty set! Nothing inside!\nThe empty set! It still has its pride!\nA subset of every set there’ll ever be,\nNothing is something, as far as I can see!\n\n[Verse 2: female lead vocal]\nIntersection is the space where both of us agree,\nThe union is the everything, the you and the me.\nThe power set holds every way to choose a band,\nTwo to the n of them, every lineup ever planned!\n\n[Chorus: female lead vocal, male backing vocals]\nThe empty set! Nothing inside!\nThe empty set! It still has its pride!\nA subset of every set there’ll ever be,\nNothing is something, as far as I can see!\n\n[Bridge: female lead vocal, male backing vocals]\nA new element arrives, sixty-four bits wide,\nAdd it to the set and let the braces open wide!\n\n[Lead Guitar Solo: quiet melodic solo after silence, slowly joining the band’s chord]\n\n[Final Chorus: female lead vocal, male backing vocals, choir synths]\nThe empty set! Nothing inside!\nThe empty set! It still has its pride!\nA subset of every set there’ll ever be,\nNothing is something, as far as I can see!\n\n[End]"
+    },
+    {
+      "title": "One to One",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "Every input has an output, only one that it can take,",
+            "That’s a function, that’s the promise that it never will break.",
+            "Every input sent to its own, no two land on the same,",
+            "One to one, injective, every arrow has a name!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "One to one! (Injective!)",
+            "Onto all! (Surjective!)",
+            "Both at once and you can turn it back around,",
+            "Bijection! Every partner has been found!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "A relation pairs them loosely, any arrow, any way,",
+            "Reflexive, symmetric, transitive, an equivalence, they say.",
+            "Partition all the players into classes of the same,",
+            "Drummers here and singers there, each class with its own name!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Domain! (Where you start!) Codomain! (Where you land!)",
+            "The range is every place you actually stand!"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Bass and synth duet: Nyble and Wyrd",
+          "desc": "Nyble plays a note and Wyrd answers with exactly one note of its own, never sharing an answer with any other: one to one. By the end every synth note has been hit: onto. A bijection you can dance to."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "One to one! (Injective!)",
+            "Onto all! (Surjective!)",
+            "Both at once and you can turn it back around,",
+            "Bijection! Every partner has been found!"
+          ]
+        }
+      ],
+      "note": "The most fun the band had in 1989. Nyble and Wyrd rehearsed the solo for a month without ever repeating a pairing.",
+      "lesson": "A function maps every input in its domain to exactly one output in its codomain. It’s injective (one-to-one) if different inputs always give different outputs, surjective (onto) if every possible output is hit, and bijective if it’s both, which means it can be reversed. A relation is any set of pairs; an equivalence relation (reflexive, symmetric and transitive) splits a set into classes.",
+      "n": 6,
+      "sunoTitle": "One to One",
+      "style": "1989 progressive metal concept album, groovy playful prog riff, slap bass, odd meter, 116 BPM, odd time signatures, lineup: female lead vocalist who also plays bass guitar, virtuoso shred lead guitarist, keyboard player on orchestral synthesizers, drummer singing male backing vocals, technical shred guitar, layered orchestral keyboards, intricate melodic bass, big late-1980s drum sound, polished studio production",
+      "exclude": "autotune, EDM, trap beats, modern pop, lo-fi, live crowd noise",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, virtuoso shred lead guitar, keyboards and orchestral synthesizers, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nEvery input has an output, only one that it can take,\nThat’s a function, that’s the promise that it never will break.\nEvery input sent to its own, no two land on the same,\nOne to one, injective, every arrow has a name!\n\n[Chorus: female lead vocal, male backing vocals]\nOne to one! (Injective!)\nOnto all! (Surjective!)\nBoth at once and you can turn it back around,\nBijection! Every partner has been found!\n\n[Verse 2: female lead vocal]\nA relation pairs them loosely, any arrow, any way,\nReflexive, symmetric, transitive, an equivalence, they say.\nPartition all the players into classes of the same,\nDrummers here and singers there, each class with its own name!\n\n[Chorus: female lead vocal, male backing vocals]\nOne to one! (Injective!)\nOnto all! (Surjective!)\nBoth at once and you can turn it back around,\nBijection! Every partner has been found!\n\n[Bridge: female lead vocal, male backing vocals]\nDomain! (Where you start!) Codomain! (Where you land!)\nThe range is every place you actually stand!\n\n[Instrumental Break: slap bass and synth answer each other note for note]\n\n[Final Chorus: female lead vocal, male backing vocals, choir synths]\nOne to one! (Injective!)\nOnto all! (Surjective!)\nBoth at once and you can turn it back around,\nBijection! Every partner has been found!\n\n[End]"
+    },
+    {
+      "title": "Pigeonhole",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "Ten pigeons and nine holes, now tell me what you see,",
+            "At least one hole holds two, and that’s a certainty!",
+            "You don’t need to know which one, you don’t even need to look,",
+            "It’s the simplest proof that was ever in the book!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Pigeonhole! Too many, not enough room!",
+            "Pigeonhole! Somebody shares the gloom!",
+            "n plus one in n and two must share a place,",
+            "Pigeonhole principle, look it in the face!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Thirteen in a room and two must share a birthday month,",
+            "A hundred and one keys in a hundred slots collide at once.",
+            "Remember Hashville and the bathtub in the night?",
+            "The pigeonhole principle proved the hotel right!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Generalize! (Generalize!) N in k will stack,",
+            "One hole holds N over k, rounded up, and there’s no way back!"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Drum solo: Bytes",
+          "desc": "Bytes tries to fit thirteen beats into a bar with twelve slots. Every time, two beats land on the same slot and crash together. He tries it nine different ways. The crash never goes away."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Pigeonhole! Too many, not enough room!",
+            "Pigeonhole! Somebody shares the gloom!",
+            "n plus one in n and two must share a place,",
+            "Pigeonhole principle, look it in the face!"
+          ]
+        }
+      ],
+      "note": "Thirteen beats, twelve slots. Bytes tried it nine different ways.",
+      "lesson": "The pigeonhole principle: put n + 1 objects into n boxes and some box holds at least two. More generally, N objects in k boxes means some box holds at least N/k, rounded up. It proves something exists without saying which one, and it’s why hash collisions can’t be avoided.",
+      "n": 7,
+      "sunoTitle": "Pigeonhole",
+      "style": "1989 progressive metal concept album, frantic thrash-prog, fast and crowded, 172 BPM, odd time signatures, lineup: female lead vocalist who also plays bass guitar, virtuoso shred lead guitarist, keyboard player on orchestral synthesizers, drummer singing male backing vocals, technical shred guitar, layered orchestral keyboards, intricate melodic bass, big late-1980s drum sound, polished studio production",
+      "exclude": "autotune, EDM, trap beats, modern pop, lo-fi, live crowd noise",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, virtuoso shred lead guitar, keyboards and orchestral synthesizers, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nTen pigeons and nine holes, now tell me what you see,\nAt least one hole holds two, and that’s a certainty!\nYou don’t need to know which one, you don’t even need to look,\nIt’s the simplest proof that was ever in the book!\n\n[Chorus: female lead vocal, male backing vocals]\nPigeonhole! Too many, not enough room!\nPigeonhole! Somebody shares the gloom!\nn plus one in n and two must share a place,\nPigeonhole principle, look it in the face!\n\n[Verse 2: female lead vocal]\nThirteen in a room and two must share a birthday month,\nA hundred and one keys in a hundred slots collide at once.\nRemember Hashville and the bathtub in the night?\nThe pigeonhole principle proved the hotel right!\n\n[Chorus: female lead vocal, male backing vocals]\nPigeonhole! Too many, not enough room!\nPigeonhole! Somebody shares the gloom!\nn plus one in n and two must share a place,\nPigeonhole principle, look it in the face!\n\n[Bridge: female lead vocal, male backing vocals]\nGeneralize! (Generalize!) N in k will stack,\nOne hole holds N over k, rounded up, and there’s no way back!\n\n[Drum Solo: frantic overcrowded fills where two hits always collide]\n\n[Final Chorus: female lead vocal, male backing vocals, choir synths]\nPigeonhole! Too many, not enough room!\nPigeonhole! Somebody shares the gloom!\nn plus one in n and two must share a place,\nPigeonhole principle, look it in the face!\n\n[End]"
+    },
+    {
+      "title": "Choose Your Fate",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "Line them up in order, how many ways can there be?",
+            "n factorial, the permutations, all for you and me.",
+            "Five songs in a setlist, a hundred and twenty ways,",
+            "The order of the fight decides the way the battle plays!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Choose your fate! n choose k!",
+            "When order doesn’t matter there are fewer ways to play!",
+            "Pascal’s triangle holds the answers in its rows,",
+            "Choose your fate, and that’s the way it goes!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "One guitarist out of sixty-four who auditioned for the role,",
+            "The order didn’t matter, just the one to make us whole.",
+            "The rule of sum for this or that, the rule of product when it’s both,",
+            "Count it right or count it twice, and that’s a broken oath!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Permutation! (Order counts!)",
+            "Combination! (Order doesn’t!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Synth solo: Wyrd",
+          "desc": "Wyrd takes three notes and plays every ordering of them, all six, then every way to choose two of them, all three. Each count lands exactly on the bar line."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Choose your fate! n choose k!",
+            "When order doesn’t matter there are fewer ways to play!",
+            "Pascal’s triangle holds the answers in its rows,",
+            "Choose your fate, and that’s the way it goes!"
+          ]
+        }
+      ],
+      "note": "Sixty-three guitarists auditioned before Qword. Qword was the sixty-fourth, and considers that a sign.",
+      "lesson": "Counting rules: for “this or that,” add (the rule of sum); for “this and then that,” multiply (the rule of product). There are n! orderings (permutations) of n items. Choosing k items when order doesn’t matter gives n choose k = n! / (k! (n − k)!) combinations, the numbers in Pascal’s triangle.",
+      "n": 8,
+      "sunoTitle": "Choose Your Fate",
+      "style": "1989 progressive metal concept album, epic medieval-flavored prog, harpsichord synth, galloping rhythm, 140 BPM, odd time signatures, lineup: female lead vocalist who also plays bass guitar, virtuoso shred lead guitarist, keyboard player on orchestral synthesizers, drummer singing male backing vocals, technical shred guitar, layered orchestral keyboards, intricate melodic bass, big late-1980s drum sound, polished studio production",
+      "exclude": "autotune, EDM, trap beats, modern pop, lo-fi, live crowd noise",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, virtuoso shred lead guitar, keyboards and orchestral synthesizers, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nLine them up in order, how many ways can there be?\nn factorial, the permutations, all for you and me.\nFive songs in a setlist, a hundred and twenty ways,\nThe order of the fight decides the way the battle plays!\n\n[Chorus: female lead vocal, male backing vocals]\nChoose your fate! n choose k!\nWhen order doesn’t matter there are fewer ways to play!\nPascal’s triangle holds the answers in its rows,\nChoose your fate, and that’s the way it goes!\n\n[Verse 2: female lead vocal]\nOne guitarist out of sixty-four who auditioned for the role,\nThe order didn’t matter, just the one to make us whole.\nThe rule of sum for this or that, the rule of product when it’s both,\nCount it right or count it twice, and that’s a broken oath!\n\n[Chorus: female lead vocal, male backing vocals]\nChoose your fate! n choose k!\nWhen order doesn’t matter there are fewer ways to play!\nPascal’s triangle holds the answers in its rows,\nChoose your fate, and that’s the way it goes!\n\n[Bridge: female lead vocal, male backing vocals]\nPermutation! (Order counts!)\nCombination! (Order doesn’t!)\n\n[Synth Solo: harpsichord arpeggios through every ordering of three notes]\n\n[Final Chorus: female lead vocal, male backing vocals, choir synths]\nChoose your fate! n choose k!\nWhen order doesn’t matter there are fewer ways to play!\nPascal’s triangle holds the answers in its rows,\nChoose your fate, and that’s the way it goes!\n\n[End]"
+    },
+    {
+      "title": "Weighted Dice",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "Roll the dice beneath the neon, count the ways to win,",
+            "Favorable over possible, that’s where the odds begin.",
+            "Two sixes on a pair of dice is one in thirty-six,",
+            "The universe is counting, and it’s counting all the tricks!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Weighted dice! Feel the odds come down!",
+            "Weighted dice! Probability’s crown!",
+            "Add it when it’s this or that and they never meet,",
+            "Multiply for independent, and the odds are complete!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "The gambler says I’m due now, having lost so many in a row,",
+            "But the dice have got no memory, and they never even know.",
+            "Expected value is the average over the night,",
+            "Weigh each outcome by its chance and you’ll get it right!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Conditional! (Given that!) The odds change with what you know!",
+            "The mean, the spread, the bell curve, and the variance below!"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Lead guitar solo: Qword",
+          "desc": "Qword rolls through a flurry of seemingly random notes. Bar by bar, the likeliest notes come up more often, until the average of the whole solo lands squarely on the root."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Weighted dice! Feel the odds come down!",
+            "Weighted dice! Probability’s crown!",
+            "Add it when it’s this or that and they never meet,",
+            "Multiply for independent, and the odds are complete!"
+          ]
+        }
+      ],
+      "note": "Recorded the night the band played cards to decide the running order. Nyble won. Nobody was surprised.",
+      "lesson": "When outcomes are equally likely, probability is favorable outcomes over possible outcomes. Add probabilities for events that can’t both happen; multiply for independent events. Conditional probability updates on what you know. Dice have no memory, so “I’m due” is a fallacy. Expected value is the probability-weighted average, and variance measures how spread out the results are.",
+      "n": 9,
+      "sunoTitle": "Weighted Dice",
+      "style": "1989 progressive metal concept album, swaggering hard rock groove with prog breaks, gambling theme, 110 BPM, odd time signatures, lineup: female lead vocalist who also plays bass guitar, virtuoso shred lead guitarist, keyboard player on orchestral synthesizers, drummer singing male backing vocals, technical shred guitar, layered orchestral keyboards, intricate melodic bass, big late-1980s drum sound, polished studio production",
+      "exclude": "autotune, EDM, trap beats, modern pop, lo-fi, live crowd noise",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, virtuoso shred lead guitar, keyboards and orchestral synthesizers, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nRoll the dice beneath the neon, count the ways to win,\nFavorable over possible, that’s where the odds begin.\nTwo sixes on a pair of dice is one in thirty-six,\nThe universe is counting, and it’s counting all the tricks!\n\n[Chorus: female lead vocal, male backing vocals]\nWeighted dice! Feel the odds come down!\nWeighted dice! Probability’s crown!\nAdd it when it’s this or that and they never meet,\nMultiply for independent, and the odds are complete!\n\n[Verse 2: female lead vocal]\nThe gambler says I’m due now, having lost so many in a row,\nBut the dice have got no memory, and they never even know.\nExpected value is the average over the night,\nWeigh each outcome by its chance and you’ll get it right!\n\n[Chorus: female lead vocal, male backing vocals]\nWeighted dice! Feel the odds come down!\nWeighted dice! Probability’s crown!\nAdd it when it’s this or that and they never meet,\nMultiply for independent, and the odds are complete!\n\n[Bridge: female lead vocal, male backing vocals]\nConditional! (Given that!) The odds change with what you know!\nThe mean, the spread, the bell curve, and the variance below!\n\n[Lead Guitar Solo: random-sounding flurry of notes that settles into a pattern centered on the root]\n\n[Final Chorus: female lead vocal, male backing vocals, choir synths]\nWeighted dice! Feel the odds come down!\nWeighted dice! Probability’s crown!\nAdd it when it’s this or that and they never meet,\nMultiply for independent, and the odds are complete!\n\n[End]"
+    },
+    {
+      "title": "Modulo Midnight",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "Twelve upon the clock and the hands go round,",
+            "Thirteen o’clock is one, the cycle’s bound.",
+            "Divide by the modulus and keep what remains,",
+            "Every number circles in the same old chains!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Modulo midnight! Round and round we go!",
+            "Modulo midnight! The remainder’s all you know!",
+            "Congruent numbers land upon the same hour,",
+            "Modular arithmetic, the clockwork power!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Is it even? Mod two will tell you so,",
+            "Divisible by nine? Add up the digits and you’ll know!",
+            "The primes stand alone, by only one and themselves divided,",
+            "And Euclid finds the greatest common ground, and it’s decided!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Twenty-five o’clock! (One!) Thirty-seven! (One!)",
+            "Every road around the clock comes back to where it’s begun!"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Drum and synth duet: Bytes and Wyrd",
+          "desc": "Wyrd loops a twelve-note cycle while Bytes plays a five-beat pattern against it. They drift apart and only line up again after sixty beats, the least common multiple."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Modulo midnight! Round and round we go!",
+            "Modulo midnight! The remainder’s all you know!",
+            "Congruent numbers land upon the same hour,",
+            "Modular arithmetic, the clockwork power!"
+          ]
+        }
+      ],
+      "note": "Wyrd’s twelve-note loop and Bytes’s five-beat pattern line up only once every sixty beats. The band counted.",
+      "lesson": "a mod n is the remainder after dividing a by n, and two numbers are congruent mod n when they leave the same remainder, like hours on a clock. A prime has no divisors except 1 and itself. Euclid’s algorithm finds the greatest common divisor, and the least common multiple is when two cycles line up again. Modular arithmetic is the math behind hashing and cryptography.",
+      "n": 10,
+      "sunoTitle": "Modulo Midnight",
+      "style": "1989 progressive metal concept album, hypnotic cyclic riff in 12/8, ticking clock synth, dark, 100 BPM, odd time signatures, lineup: female lead vocalist who also plays bass guitar, virtuoso shred lead guitarist, keyboard player on orchestral synthesizers, drummer singing male backing vocals, technical shred guitar, layered orchestral keyboards, intricate melodic bass, big late-1980s drum sound, polished studio production",
+      "exclude": "autotune, EDM, trap beats, modern pop, lo-fi, live crowd noise",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, virtuoso shred lead guitar, keyboards and orchestral synthesizers, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nTwelve upon the clock and the hands go round,\nThirteen o’clock is one, the cycle’s bound.\nDivide by the modulus and keep what remains,\nEvery number circles in the same old chains!\n\n[Chorus: female lead vocal, male backing vocals]\nModulo midnight! Round and round we go!\nModulo midnight! The remainder’s all you know!\nCongruent numbers land upon the same hour,\nModular arithmetic, the clockwork power!\n\n[Verse 2: female lead vocal]\nIs it even? Mod two will tell you so,\nDivisible by nine? Add up the digits and you’ll know!\nThe primes stand alone, by only one and themselves divided,\nAnd Euclid finds the greatest common ground, and it’s decided!\n\n[Chorus: female lead vocal, male backing vocals]\nModulo midnight! Round and round we go!\nModulo midnight! The remainder’s all you know!\nCongruent numbers land upon the same hour,\nModular arithmetic, the clockwork power!\n\n[Bridge: female lead vocal, male backing vocals]\nTwenty-five o’clock! (One!) Thirty-seven! (One!)\nEvery road around the clock comes back to where it’s begun!\n\n[Instrumental Break: twelve-note synth loop against a five-beat drum pattern, realigning every sixty beats]\n\n[Final Chorus: female lead vocal, male backing vocals, choir synths]\nModulo midnight! Round and round we go!\nModulo midnight! The remainder’s all you know!\nCongruent numbers land upon the same hour,\nModular arithmetic, the clockwork power!\n\n[End]"
+    },
+    {
+      "title": "Seven Bridges",
+      "parts": [
+        {
+          "kind": "spoken",
+          "label": "Intro (spoken)",
+          "lines": [
+            "Königsberg, 1736. Four pieces of land and seven bridges.",
+            "Can you walk across every bridge exactly once?"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "Seven bridges over the river, four lands in between,",
+            "Cross each bridge exactly once, the strangest walk you’ve seen.",
+            "Euler drew the land as dots and every bridge a line,",
+            "And the graph was born that day, the shape of all design!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Seven bridges! Vertices and edges!",
+            "Seven bridges! Walking on the ledges!",
+            "Count the edges at every node you meet,",
+            "Too many odd degrees and the walk is incomplete!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Zero or two odd vertices, that’s the only way,",
+            "Königsberg had four of them, and no one crossed that day.",
+            "Trees connect it all with no cycle in the chain,",
+            "And Dijkstra’s on the tour bus, finding the shortest lane!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Breadth first! (Level by level!)",
+            "Depth first! (Down to the devil!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Prog suite: full band",
+          "desc": "Each member takes one bridge: Qword, Wyrd, Nyble and Bytes cross the melody in turn, then try to cross every bridge exactly once. The music circles back and stops short with one bridge uncrossed, just like Königsberg."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Seven bridges! Vertices and edges!",
+            "Seven bridges! Walking on the ledges!",
+            "Count the edges at every node you meet,",
+            "Too many odd degrees and the walk is incomplete!"
+          ]
+        }
+      ],
+      "note": "Written in four movements, one for each piece of land in Königsberg.",
+      "lesson": "A graph is a set of vertices joined by edges, and a vertex’s degree is how many edges touch it. A connected graph has a path crossing every edge exactly once (an Euler path) only if it has zero or two vertices of odd degree; Königsberg had four, so the walk was impossible. Trees are connected graphs with no cycles. Breadth-first and depth-first search explore graphs, and shortest-path algorithms like Dijkstra’s find the cheapest route.",
+      "n": 11,
+      "sunoTitle": "Seven Bridges",
+      "style": "1989 progressive metal concept album, epic multi-part progressive suite, orchestral synths, building in waves, 112 BPM, odd time signatures, lineup: female lead vocalist who also plays bass guitar, virtuoso shred lead guitarist, keyboard player on orchestral synthesizers, drummer singing male backing vocals, technical shred guitar, layered orchestral keyboards, intricate melodic bass, big late-1980s drum sound, polished studio production",
+      "exclude": "autotune, EDM, trap beats, modern pop, lo-fi, live crowd noise",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, virtuoso shred lead guitar, keyboards and orchestral synthesizers, drums with male backing vocals]\n\n[Intro]\n[Spoken Word: female voice]\nKönigsberg, 1736. Four pieces of land and seven bridges.\nCan you walk across every bridge exactly once?\n\n[Verse 1: female lead vocal]\nSeven bridges over the river, four lands in between,\nCross each bridge exactly once, the strangest walk you’ve seen.\nEuler drew the land as dots and every bridge a line,\nAnd the graph was born that day, the shape of all design!\n\n[Chorus: female lead vocal, male backing vocals]\nSeven bridges! Vertices and edges!\nSeven bridges! Walking on the ledges!\nCount the edges at every node you meet,\nToo many odd degrees and the walk is incomplete!\n\n[Verse 2: female lead vocal]\nZero or two odd vertices, that’s the only way,\nKönigsberg had four of them, and no one crossed that day.\nTrees connect it all with no cycle in the chain,\nAnd Dijkstra’s on the tour bus, finding the shortest lane!\n\n[Chorus: female lead vocal, male backing vocals]\nSeven bridges! Vertices and edges!\nSeven bridges! Walking on the ledges!\nCount the edges at every node you meet,\nToo many odd degrees and the walk is incomplete!\n\n[Bridge: female lead vocal, male backing vocals]\nBreadth first! (Level by level!)\nDepth first! (Down to the devil!)\n\n[Instrumental Break: multi-part prog section, each instrument takes a turn, ending one phrase short]\n\n[Final Chorus: female lead vocal, male backing vocals, choir synths]\nSeven bridges! Vertices and edges!\nSeven bridges! Walking on the ledges!\nCount the edges at every node you meet,\nToo many odd degrees and the walk is incomplete!\n\n[End]"
+    },
+    {
+      "title": "Q.E.D.",
+      "parts": [
+        {
+          "kind": "spoken",
+          "label": "Intro (spoken)",
+          "lines": [
+            "Every proof needs a base case. We looked in every set, every graph, every clock.",
+            "Then we remembered the first song we ever played."
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "He left us the arrow, if n then n plus one,",
+            "But arrows with no beginning never get it done.",
+            "We searched through every set and every graph and every vow,",
+            "The base case was behind us, and we see it now!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Hello, World! (Hello, World!)",
+            "The first song that we ever played!",
+            "Hello, World! (Hello, World!)",
+            "The base case that the ladder made!",
+            "True for one and every one that follows through,",
+            "Q.E.D., we proved it, and we proved it with you!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Song one was true, we played it in the lab that night,",
+            "And if we can play song n, then n plus one will be all right.",
+            "The ladder’s standing solid from the floor up to the sky,",
+            "Every song we’ll ever play is proven, and that’s why!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Q! (Quod!) E! (Erat!) D! (Demonstrandum!)",
+            "The proof is done, the tombstone’s drawn, and every one is one!"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Lead guitar solo: Qword",
+          "desc": "Qword’s last solo climbs to the top of the neck, then drops to a single note held over the whole band: Byt’s note, the one the fans always chanted for, from Hello, World. For one bar, Qword plays it exactly the way Byt did."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Hello, World! (Hello, World!)",
+            "The first song that we ever played!",
+            "Hello, World! (Hello, World!)",
+            "The base case that the ladder made!",
+            "True for one and every one that follows through,",
+            "Q.E.D., we proved it, and we proved it with you!"
+          ]
+        },
+        {
+          "kind": "spoken",
+          "label": "Outro",
+          "lines": [
+            "Q.E.D.",
+            "Null quacks. Once."
+          ]
+        }
+      ],
+      "note": "The base case was behind them the whole time.",
+      "lesson": "A proof by induction needs both pieces: the base case and the inductive step. With only the step, it proves nothing. Q.E.D. stands for quod erat demonstrandum, “which was to be demonstrated,” and, like the small square ∎, marks the end of a proof.",
+      "n": 12,
+      "sunoTitle": "Q.E.D.",
+      "style": "1989 progressive metal concept album, grand finale, slow majestic build to a triumphant climax, choir synths, 92 BPM, odd time signatures, lineup: female lead vocalist who also plays bass guitar, virtuoso shred lead guitarist, keyboard player on orchestral synthesizers, drummer singing male backing vocals, technical shred guitar, layered orchestral keyboards, intricate melodic bass, big late-1980s drum sound, polished studio production",
+      "exclude": "autotune, EDM, trap beats, modern pop, lo-fi, live crowd noise",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, virtuoso shred lead guitar, keyboards and orchestral synthesizers, drums with male backing vocals]\n\n[Intro]\n[Spoken Word: female voice]\nEvery proof needs a base case. We looked in every set, every graph, every clock.\nThen we remembered the first song we ever played.\n\n[Verse 1: female lead vocal]\nHe left us the arrow, if n then n plus one,\nBut arrows with no beginning never get it done.\nWe searched through every set and every graph and every vow,\nThe base case was behind us, and we see it now!\n\n[Chorus: female lead vocal, male backing vocals]\nHello, World! (Hello, World!)\nThe first song that we ever played!\nHello, World! (Hello, World!)\nThe base case that the ladder made!\nTrue for one and every one that follows through,\nQ.E.D., we proved it, and we proved it with you!\n\n[Verse 2: female lead vocal]\nSong one was true, we played it in the lab that night,\nAnd if we can play song n, then n plus one will be all right.\nThe ladder’s standing solid from the floor up to the sky,\nEvery song we’ll ever play is proven, and that’s why!\n\n[Chorus: female lead vocal, male backing vocals]\nHello, World! (Hello, World!)\nThe first song that we ever played!\nHello, World! (Hello, World!)\nThe base case that the ladder made!\nTrue for one and every one that follows through,\nQ.E.D., we proved it, and we proved it with you!\n\n[Bridge: female lead vocal, male backing vocals]\nQ! (Quod!) E! (Erat!) D! (Demonstrandum!)\nThe proof is done, the tombstone’s drawn, and every one is one!\n\n[Lead Guitar Solo: soaring finale solo that drops to one simple held note]\n\n[Final Chorus: female lead vocal, male backing vocals, choir synths]\nHello, World! (Hello, World!)\nThe first song that we ever played!\nHello, World! (Hello, World!)\nThe base case that the ladder made!\nTrue for one and every one that follows through,\nQ.E.D., we proved it, and we proved it with you!\n\n[Outro]\n[Spoken Word: female voice, whispered]\nQ.E.D.\n\n[Sound Effect: a single rubber duck squeak]\n\n[End]"
+    }
+  ]
+}

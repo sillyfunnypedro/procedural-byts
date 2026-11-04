@@ -1,0 +1,33 @@
+# Trivia
+
+- **1970:** The band met in a university basement lab at midnight, each explaining their bugs out loud to the same rubber duck. By sunrise they had fixed each other’s bugs, and the duck had said nothing.
+- **1970:** The name was a typo. Nyble meant to write “Procedural Bits” on the first flyer. Byt filed it as a bug; Nyble closed it as “working as intended.”
+- **1970:** At the first gig, Bytes counted in “zero, one, two, three” and the others came in on four. The whole set ran one beat apart. Off-by-one has been the band’s signature ever since.
+- **1973:** The second album was recorded inside a mainframe cabinet “for the reverb.” Null sat on the halt switch during one take and stopped the machine; the take is on the record.
+- **1976:** The Kernel Panic sessions deadlocked for three weeks. It ended when someone moved the duck, which had been sitting on the only lyric sheet.
+- **1976:** Byt once forked himself to play rhythm and lead at the same time. The child process ate everyone’s sandwiches until Nyble reaped it.
+- **1979:** Side B of Syntax Error has no guitar. Byt refused to play songs with no side effects.
+- **1982:** Packet Storm was recorded by mail. Bytes’s reels arrived out of order and were reassembled by sequence number. One never arrived. Null traveled in every box as packing material.
+- **1985:** The tour bus was named the Linked List. It drove past Pittsburgh and couldn’t go back, because it had no back pointer.
+- **1985:** In Cleveland, Bytes read the setlist as a stack and the band opened with the encore.
+- **1985:** On the live album, Nyble still introduces the band by its old name, Bytes, Nybles and Byts. The recordings were kept as they were.
+- **1988:** Byt flipped, mid-solo. He left one line on the bottom of the duck: “If n, then n plus one.” No base case.
+- **1989:** The base case turned out to be Hello, World, the first song they ever played. At the end of the proof, Null quacked. It is the only value the duck has ever returned.
+- **1992:** Every member kept their own copy of the setlist, and no two matched. Bytes’s still listed songs from 1979.
+- **1992:** Asked whether it was equal to itself, Null said nothing. In SQL, that is the correct answer.
+- **1995:** Every code review comment Bytes wrote said “louder.” The merge took twice as long as the recording.
+- **1998:** A fan got backstage by saying “I’m with the duck.” Backstage passes now need two factors. The security question is “what does the duck say?” The answer is nothing.
+- **1998:** Bytes’s password was “drums,” then “drums1,” then “Drums1!”
+- **2001:** The title track of Race Condition came out two different ways depending on whose tape machine started first. Both versions are on the album; one is hidden.
+- **2001:** With four members, every vote tied two to two, so Null became the fifth voter. The duck abstains every time and has never lost an election.
+- **2004:** Wyrd built the band’s first 3D music video by hand and ran out of time before modeling the duck, which ended up with twelve triangles. The low-poly duck is now the band’s logo.
+- **2007:** The first pressing of User Error came in packaging nobody could open. The second pressing says “pull here.”
+- **2010:** The version of Cross-Platform that runs on a smart fridge, in 64 kilobytes, is the most-played version. In the app’s game, Null has a position, a sprite and a velocity, but no sound component.
+- **2013:** The band toured as four virtual machines on one very loud server, until its fan failed on the first night and took all four down at once.
+- **2013:** Null has had perfect uptime since 1970, mostly by not doing anything.
+- **2016:** The band read its 1970 record contract for the first time. Page eighty-seven gave the label the rights to “any mascot, waterfowl or technical advisor.” They got the duck back and released its likeness under Creative Commons.
+- **2016:** Duty of Care, about the Therac-25, is the only Procedural Byts song with no jokes in it.
+- **2019:** The label trained an AI on every song the band had recorded and released it as Procedural Bots. It topped the charts for a week, until fans noticed every duck had five legs.
+- **2019:** Procedural Bots was always a beat early, because its training data included Bytes’s practice tapes.
+- **2024:** Byt returned as a qubit: both in the band and not, until someone checks. Wyrd remembered the exact bar he stopped on in 1988, and Byt picked up on the next one.
+- **2024:** The last song on the last album stops before its final note. Whether Byt played it, and whether the duck quacked a second time, has never been measured.

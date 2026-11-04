@@ -1,0 +1,875 @@
+{
+  "year": 2007,
+  "slug": "user-error",
+  "title": "User Error",
+  "knowledge_area": "Human-computer interaction",
+  "genre": "2007 alternative metal",
+  "description": "User Error is the 2007 album from Procedural Byts: twelve tracks of alternative metal about designing technology for the people who actually use it. Nyble sings lead and plays bass, Qword plays lead guitar, Wyrd moves to piano and atmospheric synths, and Bytes plays drums and sings backup. Affordances, mental models, feedback, user research, paper prototypes, think-aloud testing, Fitts’s law, memory limits, accessibility, dark patterns and undo. The title is ironic: the album argues there is no such thing as user error, only design error. The first pressing came in packaging nobody could open, which the band admits proved the point. Play loud. Watch your users.",
+  "tagline": "The 2007 alt-metal album from Procedural Byts: a human-computer interaction course in twelve songs, and why it was never the user’s fault.",
+  "lineup": "The four-piece, now user-tested. Nyble sings lead on every song and plays bass guitar. Qword plays lead guitar. Wyrd plays piano and atmospheric synths. Bytes plays drums and sings backup.",
+  "members": [
+    {
+      "name": "Nyble",
+      "role": "Lead vocals, bass guitar",
+      "bio": "Four bits, and the one who said there is no such thing as user error. Nyble sings lead on every song and plays bass, and she won the argument."
+    },
+    {
+      "name": "Qword",
+      "role": "Lead guitar",
+      "bio": "Sixty-four bits and still soloing. Qword wrote the Fitts’s Law solo with big targets close together and has never missed it live."
+    },
+    {
+      "name": "Wyrd",
+      "role": "Piano, synthesizers",
+      "bio": "Thirty-two bits, on piano and atmospheric synths, and the designer of the band’s paper prototypes, drawn on index cards. Three cards were thrown away. The site works."
+    },
+    {
+      "name": "Bytes",
+      "role": "Drums, backing vocals",
+      "bio": "Eight bits, drums and backing vocals. He said “user error” once, in 2007, and has been apologizing ever since, mostly by playing the drums for one person at a time."
+    },
+    {
+      "name": "Null",
+      "role": "Rubber duck, technical advisor",
+      "bio": "Sat beside every usability test participant. Made them feel less judged. Has never once blamed the user."
+    }
+  ],
+  "story": {
+    "heading": "No Such Thing",
+    "paragraphs": [
+      "In 2007 the band redesigned its fan site, and nobody could find the tour dates. Bytes said it was user error. Nyble said there is no such thing: if a fan can’t find the tour dates, the site failed the fan. The argument lasted a week, and it became an album.",
+      "Before writing a single song, the band spent a week answering fan mail by phone, just to hear how people actually used the site. Then Wyrd redrew the whole thing on index cards and tested it with fans before anyone wrote a line of code.",
+      "They ran a real usability test, too. Five fans were asked to buy a concert ticket while saying everything they were thinking. All five failed. One bought a T-shirt by accident. Two found the duck page and stayed there. Null sat beside every participant during the test, and several said it made them feel less judged, which has always been the duck’s whole job.",
+      "Then a fan wrote to say the site read the tour dates to her screen reader as “image, image, image.” The band rebuilt the site so every image had words, every video had captions, and everything worked from a keyboard. Accessible to All is for her.",
+      "The first pressing of the album came in a clever fold-out case that nobody could figure out how to open. Fans sent it back. The band admits it proved the point better than any song on the record. The second pressing has a tab that says “pull here.”"
+    ]
+  },
+  "cover_sub": "The 2007 album. There’s no such thing.",
+  "songs": [
+    {
+      "title": "User Error",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "They couldn’t find the button, so you said that they were slow,",
+            "They clicked the wrong thing twice, so you said they didn’t know.",
+            "But if a hundred people trip on the same step every day,",
+            "It isn’t all the people, it’s the stair that’s in the way!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "There’s no such thing as user error! (Design error!)",
+            "There’s no such thing as user error! (Look again!)",
+            "If they can’t use it, then it doesn’t work, no matter what you meant,",
+            "User error, user error, is an alibi you invent!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Design it for the people, not the people for the screen,",
+            "Watch them where they stumble and fix the space between.",
+            "User-centered from the start, and test it as you go,",
+            "The users aren’t the problem, they’re the ones who let you know!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "It’s not your fault! (It’s the design!)",
+            "It’s not your fault! (Draw a better line!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Lead guitar solo: Qword",
+          "desc": "Qword’s solo trips over the same awkward phrase three times, in the same place. On the fourth pass, instead of practicing harder, Qword rewrites the phrase, and it flows."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "There’s no such thing as user error! (Design error!)",
+            "There’s no such thing as user error! (Look again!)",
+            "If they can’t use it, then it doesn’t work, no matter what you meant,",
+            "User error, user error, is an alibi you invent!"
+          ]
+        }
+      ],
+      "note": "Bytes said “user error” once, in 2007. This song is Nyble’s reply.",
+      "lesson": "Human-computer interaction is about designing technology around the people who use it. When many people make the same mistake, the problem is the design, not “user error.” User-centered design involves real users from the start: understanding what they need, designing, testing with them, and improving it again and again.",
+      "n": 1,
+      "sunoTitle": "User Error",
+      "style": "2007 alternative metal, brooding heavy alt-metal opener, piano intro exploding into a crushing riff, 104 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, keyboard player on piano and atmospheric synths, drummer singing male backing vocals, heavy melodic downtuned guitars, piano and string pads, soaring emotional female vocals, dynamic quiet-loud arrangements, polished heavy production",
+      "exclude": "autotune, trap beats, EDM, country, lo-fi, screamed vocals",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, piano and synths, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nThey couldn’t find the button, so you said that they were slow,\nThey clicked the wrong thing twice, so you said they didn’t know.\nBut if a hundred people trip on the same step every day,\nIt isn’t all the people, it’s the stair that’s in the way!\n\n[Chorus: female lead vocal, male backing vocals]\nThere’s no such thing as user error! (Design error!)\nThere’s no such thing as user error! (Look again!)\nIf they can’t use it, then it doesn’t work, no matter what you meant,\nUser error, user error, is an alibi you invent!\n\n[Verse 2: female lead vocal]\nDesign it for the people, not the people for the screen,\nWatch them where they stumble and fix the space between.\nUser-centered from the start, and test it as you go,\nThe users aren’t the problem, they’re the ones who let you know!\n\n[Chorus: female lead vocal, male backing vocals]\nThere’s no such thing as user error! (Design error!)\nThere’s no such thing as user error! (Look again!)\nIf they can’t use it, then it doesn’t work, no matter what you meant,\nUser error, user error, is an alibi you invent!\n\n[Bridge: female lead vocal, male backing vocals]\nIt’s not your fault! (It’s the design!)\nIt’s not your fault! (Draw a better line!)\n\n[Lead Guitar Solo: melodic solo that stumbles on the same awkward phrase three times, then flows]\n\n[Final Chorus: female lead vocal, male backing vocals]\nThere’s no such thing as user error! (Design error!)\nThere’s no such thing as user error! (Look again!)\nIf they can’t use it, then it doesn’t work, no matter what you meant,\nUser error, user error, is an alibi you invent!\n\n[End]"
+    },
+    {
+      "title": "Affordance",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "A handle says to pull it and a flat plate says to push,",
+            "A button asks for pressing and a slider asks to rush.",
+            "The shape tells you the action before you read a word,",
+            "The affordance is the promise, and the signifier’s heard!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Affordance! (What it lets me do!)",
+            "Signifier! (Showing me the clue!)",
+            "If I have to read a sign that says to push it, it’s a lie,",
+            "Affordance, affordance, and the shape will tell me why!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "A door with a handle that you’re meant to push will fool you every day,",
+            "And the sign that says to push it is the door that’s gone astray.",
+            "Make the right thing easy and the wrong thing hard to find,",
+            "A good design is obvious and leaves no doubt behind!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Push! (It says pull!) Pull! (It says push!)",
+            "A Norman door! (And everyone’s ambushed!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Bass solo: Nyble",
+          "desc": "Every phrase in Nyble’s solo tells you where the next one is going before it gets there, so the band always knows exactly when to come back in. Nobody needs a sign."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Affordance! (What it lets me do!)",
+            "Signifier! (Showing me the clue!)",
+            "If I have to read a sign that says to push it, it’s a lie,",
+            "Affordance, affordance, and the shape will tell me why!"
+          ]
+        }
+      ],
+      "note": "The studio door had a big handle but could only be pushed. Everyone pulled it, every day, for six weeks.",
+      "lesson": "An affordance is what an object lets you do: a handle affords pulling, a flat plate affords pushing. A signifier is the visible cue that tells you so. Good design makes the right action obvious from the way things look. A door that needs a “push” sign because its handle says “pull” is called a Norman door, after Don Norman’s book The Design of Everyday Things.",
+      "n": 2,
+      "sunoTitle": "Affordance",
+      "style": "2007 alternative metal, driving heavy alt-metal riff with a push-pull rhythm, 116 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, keyboard player on piano and atmospheric synths, drummer singing male backing vocals, heavy melodic downtuned guitars, piano and string pads, soaring emotional female vocals, dynamic quiet-loud arrangements, polished heavy production",
+      "exclude": "autotune, trap beats, EDM, country, lo-fi, screamed vocals",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, piano and synths, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nA handle says to pull it and a flat plate says to push,\nA button asks for pressing and a slider asks to rush.\nThe shape tells you the action before you read a word,\nThe affordance is the promise, and the signifier’s heard!\n\n[Chorus: female lead vocal, male backing vocals]\nAffordance! (What it lets me do!)\nSignifier! (Showing me the clue!)\nIf I have to read a sign that says to push it, it’s a lie,\nAffordance, affordance, and the shape will tell me why!\n\n[Verse 2: female lead vocal]\nA door with a handle that you’re meant to push will fool you every day,\nAnd the sign that says to push it is the door that’s gone astray.\nMake the right thing easy and the wrong thing hard to find,\nA good design is obvious and leaves no doubt behind!\n\n[Chorus: female lead vocal, male backing vocals]\nAffordance! (What it lets me do!)\nSignifier! (Showing me the clue!)\nIf I have to read a sign that says to push it, it’s a lie,\nAffordance, affordance, and the shape will tell me why!\n\n[Bridge: female lead vocal, male backing vocals]\nPush! (It says pull!) Pull! (It says push!)\nA Norman door! (And everyone’s ambushed!)\n\n[Bass Guitar Solo: phrases that clearly signal where they are going next]\n\n[Final Chorus: female lead vocal, male backing vocals]\nAffordance! (What it lets me do!)\nSignifier! (Showing me the clue!)\nIf I have to read a sign that says to push it, it’s a lie,\nAffordance, affordance, and the shape will tell me why!\n\n[End]"
+    },
+    {
+      "title": "Mental Model",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "I think it works like this, there’s a picture in my head,",
+            "The thermostat’s a faucet, so I crank it up instead.",
+            "The more I turn it, the faster it will heat, I say,",
+            "But it’s only on or off, and it heats the same old way!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Mental model! (What I think!)",
+            "Mental model! (On the brink!)",
+            "When my picture doesn’t match the way the system really runs,",
+            "Mental model, mental model, and the trouble has begun!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Show me how it works, and make the inside clear to see,",
+            "Map the controls to the things they change in front of me.",
+            "Four burners in a square and four knobs in a line,",
+            "Which knob is which? Arrange them like the burners, and it’s fine!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Consistent! (Same as before!)",
+            "Mapping! (Like it shows!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Piano solo: Wyrd",
+          "desc": "Wyrd’s piano solo moves left when the melody goes down and right when it goes up, so you can follow it just by watching Wyrd’s hands. Then Wyrd crosses hands, and the band gets lost."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Mental model! (What I think!)",
+            "Mental model! (On the brink!)",
+            "When my picture doesn’t match the way the system really runs,",
+            "Mental model, mental model, and the trouble has begun!"
+          ]
+        }
+      ],
+      "note": "Bytes turned the studio thermostat all the way up every morning to make it warm faster. It never did.",
+      "lesson": "People build a mental model of how a system works, and when it doesn’t match how the system really works, they make mistakes, like cranking a thermostat all the way up thinking the room will heat faster. Designers should make the system’s workings clear, stay consistent, and use natural mapping, where controls are laid out like the things they control, such as stove knobs arranged like the burners.",
+      "n": 3,
+      "sunoTitle": "Mental Model",
+      "style": "2007 alternative metal, dark introspective alt-metal, swirling guitars, 98 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, keyboard player on piano and atmospheric synths, drummer singing male backing vocals, heavy melodic downtuned guitars, piano and string pads, soaring emotional female vocals, dynamic quiet-loud arrangements, polished heavy production",
+      "exclude": "autotune, trap beats, EDM, country, lo-fi, screamed vocals",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, piano and synths, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nI think it works like this, there’s a picture in my head,\nThe thermostat’s a faucet, so I crank it up instead.\nThe more I turn it, the faster it will heat, I say,\nBut it’s only on or off, and it heats the same old way!\n\n[Chorus: female lead vocal, male backing vocals]\nMental model! (What I think!)\nMental model! (On the brink!)\nWhen my picture doesn’t match the way the system really runs,\nMental model, mental model, and the trouble has begun!\n\n[Verse 2: female lead vocal]\nShow me how it works, and make the inside clear to see,\nMap the controls to the things they change in front of me.\nFour burners in a square and four knobs in a line,\nWhich knob is which? Arrange them like the burners, and it’s fine!\n\n[Chorus: female lead vocal, male backing vocals]\nMental model! (What I think!)\nMental model! (On the brink!)\nWhen my picture doesn’t match the way the system really runs,\nMental model, mental model, and the trouble has begun!\n\n[Bridge: female lead vocal, male backing vocals]\nConsistent! (Same as before!)\nMapping! (Like it shows!)\n\n[Piano Solo: melody whose hand movements mirror its pitch, then the hands swap]\n\n[Final Chorus: female lead vocal, male backing vocals]\nMental model! (What I think!)\nMental model! (On the brink!)\nWhen my picture doesn’t match the way the system really runs,\nMental model, mental model, and the trouble has begun!\n\n[End]"
+    },
+    {
+      "title": "Feedback",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "I pressed the button and nothing happened, so I pressed it nine more times,",
+            "Did it hear me? Is it working? There’s no sound and there’s no signs.",
+            "Ten orders went through, and now I’ve bought ten of the same,",
+            "Because nothing ever told me that the first one ever came!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Feedback! (Show me that you heard!)",
+            "Feedback! (Say a single word!)",
+            "A click, a light, a spinner, a bar that tells me how it goes,",
+            "Feedback, feedback, so everybody knows!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "A tenth of a second feels instant, a second keeps me in the flow,",
+            "Ten seconds and I’m wandering, I need a bar to know.",
+            "Tell me what is happening and tell me what it did,",
+            "Keep the status visible, and never keep it hid!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Loading! (How long?) Saving! (Is it done?)",
+            "Tell me! (Tell me!) I’m not the only one!"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Lead guitar solo: Qword",
+          "desc": "Every phrase Qword plays gets an instant answer from the band, a hit, a chord, a fill, so Qword always knows it landed. Then for four bars the band goes silent, and Qword plays the same phrase over and over, louder and louder."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Feedback! (Show me that you heard!)",
+            "Feedback! (Say a single word!)",
+            "A click, a light, a spinner, a bar that tells me how it goes,",
+            "Feedback, feedback, so everybody knows!"
+          ]
+        }
+      ],
+      "note": "The studio’s tape machine had no light to show it was recording. Three songs were lost before anyone noticed.",
+      "lesson": "Feedback tells people their action was received and what happened. Keeping the system’s status visible is the first of Jakob Nielsen’s usability heuristics. Rough guidelines: a tenth of a second feels instant, one second keeps someone’s train of thought, and ten seconds is the limit of attention, so anything longer needs a progress indicator. Without feedback, people repeat actions and make mistakes.",
+      "n": 4,
+      "sunoTitle": "Feedback",
+      "style": "2007 alternative metal, pulsing urgent alt-metal riff with spacious breaks, 120 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, keyboard player on piano and atmospheric synths, drummer singing male backing vocals, heavy melodic downtuned guitars, piano and string pads, soaring emotional female vocals, dynamic quiet-loud arrangements, polished heavy production",
+      "exclude": "autotune, trap beats, EDM, country, lo-fi, screamed vocals",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, piano and synths, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nI pressed the button and nothing happened, so I pressed it nine more times,\nDid it hear me? Is it working? There’s no sound and there’s no signs.\nTen orders went through, and now I’ve bought ten of the same,\nBecause nothing ever told me that the first one ever came!\n\n[Chorus: female lead vocal, male backing vocals]\nFeedback! (Show me that you heard!)\nFeedback! (Say a single word!)\nA click, a light, a spinner, a bar that tells me how it goes,\nFeedback, feedback, so everybody knows!\n\n[Verse 2: female lead vocal]\nA tenth of a second feels instant, a second keeps me in the flow,\nTen seconds and I’m wandering, I need a bar to know.\nTell me what is happening and tell me what it did,\nKeep the status visible, and never keep it hid!\n\n[Chorus: female lead vocal, male backing vocals]\nFeedback! (Show me that you heard!)\nFeedback! (Say a single word!)\nA click, a light, a spinner, a bar that tells me how it goes,\nFeedback, feedback, so everybody knows!\n\n[Bridge: female lead vocal, male backing vocals]\nLoading! (How long?) Saving! (Is it done?)\nTell me! (Tell me!) I’m not the only one!\n\n[Lead Guitar Solo: every phrase instantly answered by the band, then four bars of silence while the guitar repeats louder]\n\n[Final Chorus: female lead vocal, male backing vocals]\nFeedback! (Show me that you heard!)\nFeedback! (Say a single word!)\nA click, a light, a spinner, a bar that tells me how it goes,\nFeedback, feedback, so everybody knows!\n\n[End]"
+    },
+    {
+      "title": "Know Your User",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "I built it for myself because I know what I would do,",
+            "But I’m not the one who’s using it, and neither, friend, are you.",
+            "Go out and meet the people, watch them where they are,",
+            "Their goals, their work, their hands, their eyes, their kitchen and their car!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Know your user! (You are not the user!)",
+            "Know your user! (Go and meet them!)",
+            "Ask them what they need and watch them while they try,",
+            "Know your user, know your user, and you’ll understand why!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Write a persona, a person with a name and with a goal,",
+            "Somebody to design for, so you don’t lose control.",
+            "Interview and watch them, and listen more than speak,",
+            "The things they never say out loud are what you really seek!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Who are they? (Ask them!) What do they need? (Watch them!)",
+            "Where are they? (Go there!) What gets in the way? (Fix it!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Drum solo: Bytes",
+          "desc": "Bytes plays the solo for one specific person in the front row, watching her the whole time, and changes the pattern every time she stops nodding. By the end she’s nodding on every beat."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Know your user! (You are not the user!)",
+            "Know your user! (Go and meet them!)",
+            "Ask them what they need and watch them while they try,",
+            "Know your user, know your user, and you’ll understand why!"
+          ]
+        }
+      ],
+      "note": "Before writing the album, the band spent a week answering fan mail by phone. Bytes still talks to two of the callers.",
+      "lesson": "“You are not the user”: designers’ own habits and preferences mislead them. User research, like interviews, observing people where they actually work, and studying their tasks, uncovers what people really need. Personas turn that research into a few realistic, named example users to design for.",
+      "n": 5,
+      "sunoTitle": "Know Your User",
+      "style": "2007 alternative metal, melodic mid-tempo alt-metal, warm and heavy, 108 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, keyboard player on piano and atmospheric synths, drummer singing male backing vocals, heavy melodic downtuned guitars, piano and string pads, soaring emotional female vocals, dynamic quiet-loud arrangements, polished heavy production",
+      "exclude": "autotune, trap beats, EDM, country, lo-fi, screamed vocals",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, piano and synths, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nI built it for myself because I know what I would do,\nBut I’m not the one who’s using it, and neither, friend, are you.\nGo out and meet the people, watch them where they are,\nTheir goals, their work, their hands, their eyes, their kitchen and their car!\n\n[Chorus: female lead vocal, male backing vocals]\nKnow your user! (You are not the user!)\nKnow your user! (Go and meet them!)\nAsk them what they need and watch them while they try,\nKnow your user, know your user, and you’ll understand why!\n\n[Verse 2: female lead vocal]\nWrite a persona, a person with a name and with a goal,\nSomebody to design for, so you don’t lose control.\nInterview and watch them, and listen more than speak,\nThe things they never say out loud are what you really seek!\n\n[Chorus: female lead vocal, male backing vocals]\nKnow your user! (You are not the user!)\nKnow your user! (Go and meet them!)\nAsk them what they need and watch them while they try,\nKnow your user, know your user, and you’ll understand why!\n\n[Bridge: female lead vocal, male backing vocals]\nWho are they? (Ask them!) What do they need? (Watch them!)\nWhere are they? (Go there!) What gets in the way? (Fix it!)\n\n[Drum Solo: patterns that change in real time to fit one listener]\n\n[Final Chorus: female lead vocal, male backing vocals]\nKnow your user! (You are not the user!)\nKnow your user! (Go and meet them!)\nAsk them what they need and watch them while they try,\nKnow your user, know your user, and you’ll understand why!\n\n[End]"
+    },
+    {
+      "title": "Paper Prototype",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "Before you write the code, before you build a thing,",
+            "Draw it on some paper and see what the users bring.",
+            "A card for every screen and a sketch for every button,",
+            "Cheap to change and cheap to throw, it doesn’t cost you nothing!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Paper prototype! (Sketch it out!)",
+            "Paper prototype! (Test it out!)",
+            "Fail fast and fail cheap, before the code is set in stone,",
+            "Paper prototype, prototype, and you’re never on your own!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Low fidelity at first, the rough and quick and plain,",
+            "Then higher as you go, and test it all again.",
+            "Design and prototype and test, and learn from what you see,",
+            "Iterate the cycle till it’s what it ought to be!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Sketch! (Quick!) Test! (Watch!)",
+            "Learn! (Change!) And again! (Again!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Piano solo: Wyrd",
+          "desc": "Wyrd plays a rough sketch of a melody, just the outline, then a slightly better one, then better again. Each pass takes four bars. By the fourth, the melody is finished, and it took less time than writing it carefully once."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Paper prototype! (Sketch it out!)",
+            "Paper prototype! (Test it out!)",
+            "Fail fast and fail cheap, before the code is set in stone,",
+            "Paper prototype, prototype, and you’re never on your own!"
+          ]
+        }
+      ],
+      "note": "Wyrd drew the band’s new website on index cards and tested it with fans before writing a line of code. Three cards were thrown away. The site works.",
+      "lesson": "Prototyping tests a design idea before you build it. Low-fidelity prototypes, like paper sketches and index cards, are fast and cheap to change, and people give more honest feedback on something that looks unfinished. Higher fidelity comes later. Design is a cycle: design, prototype, test, learn, and go around again.",
+      "n": 6,
+      "sunoTitle": "Paper Prototype",
+      "style": "2007 alternative metal, light bouncy alt-metal verse turning heavy and confident, 124 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, keyboard player on piano and atmospheric synths, drummer singing male backing vocals, heavy melodic downtuned guitars, piano and string pads, soaring emotional female vocals, dynamic quiet-loud arrangements, polished heavy production",
+      "exclude": "autotune, trap beats, EDM, country, lo-fi, screamed vocals",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, piano and synths, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nBefore you write the code, before you build a thing,\nDraw it on some paper and see what the users bring.\nA card for every screen and a sketch for every button,\nCheap to change and cheap to throw, it doesn’t cost you nothing!\n\n[Chorus: female lead vocal, male backing vocals]\nPaper prototype! (Sketch it out!)\nPaper prototype! (Test it out!)\nFail fast and fail cheap, before the code is set in stone,\nPaper prototype, prototype, and you’re never on your own!\n\n[Verse 2: female lead vocal]\nLow fidelity at first, the rough and quick and plain,\nThen higher as you go, and test it all again.\nDesign and prototype and test, and learn from what you see,\nIterate the cycle till it’s what it ought to be!\n\n[Chorus: female lead vocal, male backing vocals]\nPaper prototype! (Sketch it out!)\nPaper prototype! (Test it out!)\nFail fast and fail cheap, before the code is set in stone,\nPaper prototype, prototype, and you’re never on your own!\n\n[Bridge: female lead vocal, male backing vocals]\nSketch! (Quick!) Test! (Watch!)\nLearn! (Change!) And again! (Again!)\n\n[Piano Solo: rough sketch of a melody refined over four quick passes]\n\n[Final Chorus: female lead vocal, male backing vocals]\nPaper prototype! (Sketch it out!)\nPaper prototype! (Test it out!)\nFail fast and fail cheap, before the code is set in stone,\nPaper prototype, prototype, and you’re never on your own!\n\n[End]"
+    },
+    {
+      "title": "Think Aloud",
+      "parts": [
+        {
+          "kind": "spoken",
+          "label": "Intro (spoken)",
+          "lines": [
+            "Okay, I want a ticket… Tour, maybe? No…",
+            "What’s “Experience”? Why is there a duck here?"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "Sit down and try to use it and say everything you think,",
+            "Every doubt and every guess, every pause and every blink.",
+            "I’ll sit beside you quiet and I won’t help you at all,",
+            "Your confusion is the data, and it’s writing on the wall!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Think aloud! (Say what’s in your head!)",
+            "Think aloud! (Every word you said!)",
+            "Five users find the most of what is broken, watch them try,",
+            "Think aloud, think aloud, and you’ll see the reason why!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Give them a real task, like buying a ticket to the show,",
+            "Watch them where they hesitate and where they want to go.",
+            "Don’t defend the design, don’t explain, and don’t lead,",
+            "Write down where they stumble, and that’s the fix you need!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Where would you click? (I don’t know!)",
+            "What do you expect? (It isn’t so!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Lead guitar solo: Qword",
+          "desc": "Qword plays the solo like a first-time user: a phrase, a pause, a wrong turn, a step back, another try. You can hear every moment of confusion. The band writes them all down."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Think aloud! (Say what’s in your head!)",
+            "Think aloud! (Every word you said!)",
+            "Five users find the most of what is broken, watch them try,",
+            "Think aloud, think aloud, and you’ll see the reason why!"
+          ]
+        }
+      ],
+      "note": "The band asked five fans to buy a concert ticket on the website while saying everything they were thinking. All five failed. One bought a T-shirt by accident.",
+      "lesson": "In a think-aloud usability test, real users try realistic tasks while saying what they’re thinking. The observer doesn’t help, just notes where people hesitate, guess or get lost. Jakob Nielsen found that testing with about five users uncovers most of a design’s usability problems, so small, frequent tests work well.",
+      "n": 7,
+      "sunoTitle": "Think Aloud",
+      "style": "2007 alternative metal, tense hushed verses with spoken-word fragments, explosive chorus, 100 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, keyboard player on piano and atmospheric synths, drummer singing male backing vocals, heavy melodic downtuned guitars, piano and string pads, soaring emotional female vocals, dynamic quiet-loud arrangements, polished heavy production",
+      "exclude": "autotune, trap beats, EDM, country, lo-fi, screamed vocals",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, piano and synths, drums with male backing vocals]\n\n[Intro]\n[Spoken Word: hesitant young voice, thinking aloud]\nOkay, I want a ticket… Tour, maybe? No…\nWhat’s “Experience”? Why is there a duck here?\n\n[Verse 1: female lead vocal]\nSit down and try to use it and say everything you think,\nEvery doubt and every guess, every pause and every blink.\nI’ll sit beside you quiet and I won’t help you at all,\nYour confusion is the data, and it’s writing on the wall!\n\n[Chorus: female lead vocal, male backing vocals]\nThink aloud! (Say what’s in your head!)\nThink aloud! (Every word you said!)\nFive users find the most of what is broken, watch them try,\nThink aloud, think aloud, and you’ll see the reason why!\n\n[Verse 2: female lead vocal]\nGive them a real task, like buying a ticket to the show,\nWatch them where they hesitate and where they want to go.\nDon’t defend the design, don’t explain, and don’t lead,\nWrite down where they stumble, and that’s the fix you need!\n\n[Chorus: female lead vocal, male backing vocals]\nThink aloud! (Say what’s in your head!)\nThink aloud! (Every word you said!)\nFive users find the most of what is broken, watch them try,\nThink aloud, think aloud, and you’ll see the reason why!\n\n[Bridge: female lead vocal, male backing vocals]\nWhere would you click? (I don’t know!)\nWhat do you expect? (It isn’t so!)\n\n[Lead Guitar Solo: hesitant searching phrases that pause, backtrack and try again before finding the way]\n\n[Final Chorus: female lead vocal, male backing vocals]\nThink aloud! (Say what’s in your head!)\nThink aloud! (Every word you said!)\nFive users find the most of what is broken, watch them try,\nThink aloud, think aloud, and you’ll see the reason why!\n\n[End]"
+    },
+    {
+      "title": "Fitts’s Law",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "How long will it take you to hit a target with your hand?",
+            "It depends how far away it is and how big it stands.",
+            "Small and far is slow, and big and close is fast,",
+            "Make the things that matter big and close, and they’ll be found at last!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Fitts’s law! (Big and near!)",
+            "Fitts’s law! (Make it clear!)",
+            "The distance and the size decide how long it takes to reach,",
+            "Fitts’s law, Fitts’s law, and that’s the lesson that we teach!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "The corners of the screen are targets that you cannot miss,",
+            "The pointer stops right at the edge, there’s nothing bigger than this.",
+            "Keep the dangerous buttons far from the ones that are used the most,",
+            "Make the common actions big, and keep the common actions close!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Far and small! (Slow!)",
+            "Near and big! (Go!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Lead guitar solo: Qword",
+          "desc": "Qword built the solo so every note is a big, easy target close to the last one. It’s fast, it sounds hard, and it never misses."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Fitts’s law! (Big and near!)",
+            "Fitts’s law! (Make it clear!)",
+            "The distance and the size decide how long it takes to reach,",
+            "Fitts’s law, Fitts’s law, and that’s the lesson that we teach!"
+          ]
+        }
+      ],
+      "note": "Qword wrote this solo with big targets close together. Qword has never missed it live.",
+      "lesson": "Fitts’s law (1954) predicts that the time to point at a target grows with how far away it is and shrinks with how big it is. Important and frequent targets should be big and close. The edges and corners of a screen are especially easy to hit, because the pointer stops there, which makes them effectively infinitely large.",
+      "n": 8,
+      "sunoTitle": "Fitts’s Law",
+      "style": "2007 alternative metal, fast precise alt-metal riff with sharp targeted stabs, 140 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, keyboard player on piano and atmospheric synths, drummer singing male backing vocals, heavy melodic downtuned guitars, piano and string pads, soaring emotional female vocals, dynamic quiet-loud arrangements, polished heavy production",
+      "exclude": "autotune, trap beats, EDM, country, lo-fi, screamed vocals",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, piano and synths, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nHow long will it take you to hit a target with your hand?\nIt depends how far away it is and how big it stands.\nSmall and far is slow, and big and close is fast,\nMake the things that matter big and close, and they’ll be found at last!\n\n[Chorus: female lead vocal, male backing vocals]\nFitts’s law! (Big and near!)\nFitts’s law! (Make it clear!)\nThe distance and the size decide how long it takes to reach,\nFitts’s law, Fitts’s law, and that’s the lesson that we teach!\n\n[Verse 2: female lead vocal]\nThe corners of the screen are targets that you cannot miss,\nThe pointer stops right at the edge, there’s nothing bigger than this.\nKeep the dangerous buttons far from the ones that are used the most,\nMake the common actions big, and keep the common actions close!\n\n[Chorus: female lead vocal, male backing vocals]\nFitts’s law! (Big and near!)\nFitts’s law! (Make it clear!)\nThe distance and the size decide how long it takes to reach,\nFitts’s law, Fitts’s law, and that’s the lesson that we teach!\n\n[Bridge: female lead vocal, male backing vocals]\nFar and small! (Slow!)\nNear and big! (Go!)\n\n[Lead Guitar Solo: fast clean solo built from wide intervals sitting close together on the neck]\n\n[Final Chorus: female lead vocal, male backing vocals]\nFitts’s law! (Big and near!)\nFitts’s law! (Make it clear!)\nThe distance and the size decide how long it takes to reach,\nFitts’s law, Fitts’s law, and that’s the lesson that we teach!\n\n[End]"
+    },
+    {
+      "title": "Seven, Plus or Minus Two",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "Read me a number once and I’ll lose it by the door,",
+            "Short-term memory holds a handful, seven, maybe four.",
+            "Chunk it into groups and it’s easier to keep,",
+            "Don’t make me remember what you could show, it’s cheap!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Seven, plus or minus two! (That’s all I hold!)",
+            "Seven, plus or minus two! (Or so I’m told!)",
+            "Recognition beats recall, so show me what to choose,",
+            "Seven, plus or minus two, and the rest I’ll lose!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "A menu shows me all the choices, I just have to see,",
+            "A command line makes me remember, and that’s harder on me.",
+            "Don’t make me think, don’t make me hold it in my head,",
+            "Every thing you show me is one less thing I dread!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Five, five, five! (Chunk it!)",
+            "One, two, one, two! (Easy!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Bass solo: Nyble",
+          "desc": "Nyble plays a twelve-note bass line that nobody in the band can remember. Then she plays it again in three chunks of four, with a breath between each, and the whole band plays it back perfectly."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Seven, plus or minus two! (That’s all I hold!)",
+            "Seven, plus or minus two! (Or so I’m told!)",
+            "Recognition beats recall, so show me what to choose,",
+            "Seven, plus or minus two, and the rest I’ll lose!"
+          ]
+        }
+      ],
+      "note": "The main riff is seven notes long. Nobody in the band could remember the original twelve-note version.",
+      "lesson": "Short-term (working) memory is small. George Miller’s famous 1956 paper said about seven items, plus or minus two; later research suggests closer to four chunks. Chunking, grouping things together like the parts of a phone number, helps them fit. Good design keeps memory load low: let people recognize options instead of recalling them, as a menu does, and keep needed information on the screen.",
+      "n": 9,
+      "sunoTitle": "Seven, Plus or Minus Two",
+      "style": "2007 alternative metal, hypnotic heavy groove built on a repeating seven-note riff, 112 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, keyboard player on piano and atmospheric synths, drummer singing male backing vocals, heavy melodic downtuned guitars, piano and string pads, soaring emotional female vocals, dynamic quiet-loud arrangements, polished heavy production",
+      "exclude": "autotune, trap beats, EDM, country, lo-fi, screamed vocals",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, piano and synths, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nRead me a number once and I’ll lose it by the door,\nShort-term memory holds a handful, seven, maybe four.\nChunk it into groups and it’s easier to keep,\nDon’t make me remember what you could show, it’s cheap!\n\n[Chorus: female lead vocal, male backing vocals]\nSeven, plus or minus two! (That’s all I hold!)\nSeven, plus or minus two! (Or so I’m told!)\nRecognition beats recall, so show me what to choose,\nSeven, plus or minus two, and the rest I’ll lose!\n\n[Verse 2: female lead vocal]\nA menu shows me all the choices, I just have to see,\nA command line makes me remember, and that’s harder on me.\nDon’t make me think, don’t make me hold it in my head,\nEvery thing you show me is one less thing I dread!\n\n[Chorus: female lead vocal, male backing vocals]\nSeven, plus or minus two! (That’s all I hold!)\nSeven, plus or minus two! (Or so I’m told!)\nRecognition beats recall, so show me what to choose,\nSeven, plus or minus two, and the rest I’ll lose!\n\n[Bridge: female lead vocal, male backing vocals]\nFive, five, five! (Chunk it!)\nOne, two, one, two! (Easy!)\n\n[Bass Guitar Solo: a long twelve-note line, then the same line in three short chunks]\n\n[Final Chorus: female lead vocal, male backing vocals]\nSeven, plus or minus two! (That’s all I hold!)\nSeven, plus or minus two! (Or so I’m told!)\nRecognition beats recall, so show me what to choose,\nSeven, plus or minus two, and the rest I’ll lose!\n\n[End]"
+    },
+    {
+      "title": "Accessible to All",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "She hears the web instead of seeing it, a voice that reads the page,",
+            "But every picture without words is silence on the stage.",
+            "Give every image words and label every field,",
+            "And everyone can get inside, and nothing is concealed!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Accessible to all! (Everyone gets in!)",
+            "Accessible to all! (That’s where we begin!)",
+            "Design for the edges and the middle comes along,",
+            "Accessible to all, and everyone can sing the song!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Captions for the ones who can’t hear, and they help in noisy rooms,",
+            "Contrast you can read in sunlight, not just in the gloom.",
+            "Everything by keyboard for the ones who can’t use a mouse,",
+            "Build the ramp, and everybody walks into the house!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Can you hear it? (Captions!) Can you see it? (Contrast!)",
+            "Can you reach it? (Keyboard!) Built to last!"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Piano solo: Wyrd",
+          "desc": "Wyrd plays the melody so it can be followed however you listen: once in the low register, once in the high, once as rhythm alone. Nobody needs to see Wyrd’s hands to know exactly what’s happening."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Accessible to all! (Everyone gets in!)",
+            "Accessible to all! (That’s where we begin!)",
+            "Design for the edges and the middle comes along,",
+            "Accessible to all, and everyone can sing the song!"
+          ]
+        }
+      ],
+      "note": "A fan wrote to say the band’s website read the tour dates to her screen reader as “image, image, image.” The band rebuilt the site. This song is for her.",
+      "lesson": "Accessibility means people with disabilities can use a system. That includes text alternatives for images so screen readers can describe them, captions for audio, enough color contrast and never relying on color alone, everything usable from a keyboard, and clear structure. Guidelines like WCAG spell it out. Accessible design usually helps everyone, like curb cuts built for wheelchairs that help strollers and suitcases too.",
+      "n": 10,
+      "sunoTitle": "Accessible to All",
+      "style": "2007 alternative metal, anthemic uplifting alt-metal, huge emotional chorus, 96 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, keyboard player on piano and atmospheric synths, drummer singing male backing vocals, heavy melodic downtuned guitars, piano and string pads, soaring emotional female vocals, dynamic quiet-loud arrangements, polished heavy production",
+      "exclude": "autotune, trap beats, EDM, country, lo-fi, screamed vocals",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, piano and synths, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nShe hears the web instead of seeing it, a voice that reads the page,\nBut every picture without words is silence on the stage.\nGive every image words and label every field,\nAnd everyone can get inside, and nothing is concealed!\n\n[Chorus: female lead vocal, male backing vocals]\nAccessible to all! (Everyone gets in!)\nAccessible to all! (That’s where we begin!)\nDesign for the edges and the middle comes along,\nAccessible to all, and everyone can sing the song!\n\n[Verse 2: female lead vocal]\nCaptions for the ones who can’t hear, and they help in noisy rooms,\nContrast you can read in sunlight, not just in the gloom.\nEverything by keyboard for the ones who can’t use a mouse,\nBuild the ramp, and everybody walks into the house!\n\n[Chorus: female lead vocal, male backing vocals]\nAccessible to all! (Everyone gets in!)\nAccessible to all! (That’s where we begin!)\nDesign for the edges and the middle comes along,\nAccessible to all, and everyone can sing the song!\n\n[Bridge: female lead vocal, male backing vocals]\nCan you hear it? (Captions!) Can you see it? (Contrast!)\nCan you reach it? (Keyboard!) Built to last!\n\n[Piano Solo: one melody voiced in several clearly different ways, easy to follow by ear alone]\n\n[Final Chorus: female lead vocal, male backing vocals]\nAccessible to all! (Everyone gets in!)\nAccessible to all! (That’s where we begin!)\nDesign for the edges and the middle comes along,\nAccessible to all, and everyone can sing the song!\n\n[End]"
+    },
+    {
+      "title": "Dark Pattern",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "The box was checked already and I didn’t see it there,",
+            "The button to say no was small and grey and hiding where?",
+            "Easy to sign up for and impossible to leave,",
+            "A design that works against you is a design made to deceive!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Dark pattern! (Tricked into yes!)",
+            "Dark pattern! (Guilt in the mess!)",
+            "Usability turned upside down to work against your will,",
+            "Dark pattern, dark pattern, and the trick is working still!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "No thanks, I like paying full price, says the guilty little link,",
+            "A countdown clock that never ends, to rush you so you won’t think.",
+            "The skills that make it easy can be used to make it hard,",
+            "Design is a responsibility, so keep it on your guard!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Who does it serve? (The user?)",
+            "Who does it serve? (Or the abuser?)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Lead guitar solo: Qword",
+          "desc": "Qword’s solo keeps offering a melody that sounds like it’s about to resolve, then leads into a dead end. Every time the band tries to follow it out, there’s another detour. It is deliberately unpleasant."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Dark pattern! (Tricked into yes!)",
+            "Dark pattern! (Guilt in the mess!)",
+            "Usability turned upside down to work against your will,",
+            "Dark pattern, dark pattern, and the trick is working still!"
+          ]
+        }
+      ],
+      "note": "The label wanted the mailing-list box pre-checked and the unsubscribe link hidden. The band refused and wrote this instead. The name “dark pattern” came three years later; the tricks were already everywhere.",
+      "lesson": "Dark patterns are designs that trick people into things they didn’t mean to do: pre-checked boxes, cancellation hidden away, guilt-trip buttons like “No thanks, I like paying full price,” and fake countdown timers. They use what designers know about people against them. Ethical design serves the user’s real interests. The term was coined by Harry Brignull in 2010.",
+      "n": 11,
+      "sunoTitle": "Dark Pattern",
+      "style": "2007 alternative metal, sinister heavy alt-metal, creeping riff, 92 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, keyboard player on piano and atmospheric synths, drummer singing male backing vocals, heavy melodic downtuned guitars, piano and string pads, soaring emotional female vocals, dynamic quiet-loud arrangements, polished heavy production",
+      "exclude": "autotune, trap beats, EDM, country, lo-fi, screamed vocals",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, piano and synths, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nThe box was checked already and I didn’t see it there,\nThe button to say no was small and grey and hiding where?\nEasy to sign up for and impossible to leave,\nA design that works against you is a design made to deceive!\n\n[Chorus: female lead vocal, male backing vocals]\nDark pattern! (Tricked into yes!)\nDark pattern! (Guilt in the mess!)\nUsability turned upside down to work against your will,\nDark pattern, dark pattern, and the trick is working still!\n\n[Verse 2: female lead vocal]\nNo thanks, I like paying full price, says the guilty little link,\nA countdown clock that never ends, to rush you so you won’t think.\nThe skills that make it easy can be used to make it hard,\nDesign is a responsibility, so keep it on your guard!\n\n[Chorus: female lead vocal, male backing vocals]\nDark pattern! (Tricked into yes!)\nDark pattern! (Guilt in the mess!)\nUsability turned upside down to work against your will,\nDark pattern, dark pattern, and the trick is working still!\n\n[Bridge: female lead vocal, male backing vocals]\nWho does it serve? (The user?)\nWho does it serve? (Or the abuser?)\n\n[Lead Guitar Solo: inviting melody that keeps leading into dead ends and detours]\n\n[Final Chorus: female lead vocal, male backing vocals]\nDark pattern! (Tricked into yes!)\nDark pattern! (Guilt in the mess!)\nUsability turned upside down to work against your will,\nDark pattern, dark pattern, and the trick is working still!\n\n[End]"
+    },
+    {
+      "title": "Undo",
+      "parts": [
+        {
+          "kind": "verse",
+          "label": "Verse 1",
+          "lines": [
+            "I made a mistake and I deleted it all,",
+            "My finger slipped, and I heard it fall.",
+            "But there’s a button in the corner and it takes me back in time,",
+            "Undo, and the world is mine!"
+          ]
+        },
+        {
+          "kind": "chorus",
+          "label": "Chorus",
+          "lines": [
+            "Undo! (Take it back!)",
+            "Undo! (Back on track!)",
+            "Let me try and let me fail and let me find my way,",
+            "Undo, undo, and I’ll be brave today!"
+          ]
+        },
+        {
+          "kind": "verse",
+          "label": "Verse 2",
+          "lines": [
+            "Ask before the thing that can’t be undone, but not for every small,",
+            "A warning that appears for everything is no warning at all.",
+            "Prevent the slips before they happen, make the safe way the default,",
+            "And when they happen anyway, let them back without a fault!"
+          ]
+        },
+        {
+          "kind": "again"
+        },
+        {
+          "kind": "bridge",
+          "label": "Bridge",
+          "lines": [
+            "Are you sure? (Every time?)",
+            "Then I’m never sure! (Make it fine!)",
+            "Just let me undo! (Undo!)"
+          ]
+        },
+        {
+          "kind": "solo",
+          "label": "Rewind: full band",
+          "desc": "Midway through the solo, the whole band plays a deliberately wrong chord. Then everything rewinds, with the tape effect audible, back two bars, and they play it again, right. Nobody is punished for the mistake. That’s the point."
+        },
+        {
+          "kind": "final",
+          "label": "Final chorus",
+          "lines": [
+            "Undo! (Take it back!)",
+            "Undo! (Back on track!)",
+            "Let me try and let me fail and let me find my way,",
+            "Undo, undo, and I’ll be brave today!"
+          ]
+        }
+      ],
+      "note": "The first pressing of this album came in packaging nobody could open. The band undid it, and the second pressing has a tab that says “pull here.”",
+      "lesson": "Good design prevents errors before they happen, with constraints and safe defaults, and asks for confirmation only before actions that can’t be reversed, because people stop reading “are you sure?” boxes that appear for everything. It also makes recovery easy: undo lets people explore without fear. Two of Nielsen’s heuristics are error prevention and user control and freedom.",
+      "n": 12,
+      "sunoTitle": "Undo",
+      "style": "2007 alternative metal, epic emotional alt-metal closer, piano-led, building to a cathartic finale, 88 BPM, lineup: female lead vocalist who also plays bass guitar, lead electric guitarist, keyboard player on piano and atmospheric synths, drummer singing male backing vocals, heavy melodic downtuned guitars, piano and string pads, soaring emotional female vocals, dynamic quiet-loud arrangements, polished heavy production",
+      "exclude": "autotune, trap beats, EDM, country, lo-fi, screamed vocals",
+      "lyrics": "[Lineup: female lead vocals and bass guitar, lead electric guitar, piano and synths, drums with male backing vocals]\n\n[Verse 1: female lead vocal]\nI made a mistake and I deleted it all,\nMy finger slipped, and I heard it fall.\nBut there’s a button in the corner and it takes me back in time,\nUndo, and the world is mine!\n\n[Chorus: female lead vocal, male backing vocals]\nUndo! (Take it back!)\nUndo! (Back on track!)\nLet me try and let me fail and let me find my way,\nUndo, undo, and I’ll be brave today!\n\n[Verse 2: female lead vocal]\nAsk before the thing that can’t be undone, but not for every small,\nA warning that appears for everything is no warning at all.\nPrevent the slips before they happen, make the safe way the default,\nAnd when they happen anyway, let them back without a fault!\n\n[Chorus: female lead vocal, male backing vocals]\nUndo! (Take it back!)\nUndo! (Back on track!)\nLet me try and let me fail and let me find my way,\nUndo, undo, and I’ll be brave today!\n\n[Bridge: female lead vocal, male backing vocals]\nAre you sure? (Every time?)\nThen I’m never sure! (Make it fine!)\nJust let me undo! (Undo!)\n\n[Instrumental Break: band plays a deliberately wrong chord, rewinds two bars with a tape-rewind effect, then plays it right]\n\n[Final Chorus: female lead vocal, male backing vocals]\nUndo! (Take it back!)\nUndo! (Back on track!)\nLet me try and let me fail and let me find my way,\nUndo, undo, and I’ll be brave today!\n\n[End]"
+    }
+  ]
+}
