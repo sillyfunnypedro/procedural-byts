@@ -2,6 +2,8 @@
 
 **Cross-Platform** (2010), track 12
 
+[▶ Listen on Suno](https://suno.com/song/2ffde692-18ef-4970-b98e-a8fe542d560f)
+
 > Wyrd made a version of the album that runs on a smart fridge. It plays when you open the door. It is the most-played version.
 
 ## Lyrics

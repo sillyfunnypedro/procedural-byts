@@ -2,6 +2,8 @@
 
 **Cross-Platform** (2010), track 3
 
+[▶ Listen on Suno](https://suno.com/song/c62f5326-e00b-4b83-9dac-c3fae7aa0022)
+
 > Recorded in three passes: first the bones, then the clothes, then the moves.
 
 ## Lyrics

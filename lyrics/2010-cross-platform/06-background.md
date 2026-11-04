@@ -2,6 +2,8 @@
 
 **Cross-Platform** (2010), track 6
 
+[▶ Listen on Suno](https://suno.com/song/f4a985e5-815c-4f51-b205-b6c6c7996cff)
+
 > The app version of the album paused every time a fan’s phone rang, and always picked up exactly where it left off. That took a month to get right.
 
 ## Lyrics

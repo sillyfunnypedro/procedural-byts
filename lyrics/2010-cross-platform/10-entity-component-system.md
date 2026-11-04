@@ -2,6 +2,8 @@
 
 **Cross-Platform** (2010), track 10
 
+[▶ Listen on Suno](https://suno.com/song/60688d0a-5372-4728-8cb5-191e6e4d2874)
+
 > In the app’s game, Null was an entity with a position, a sprite and a velocity, but no sound component. Nobody added one. Nobody needed to.
 
 ## Lyrics

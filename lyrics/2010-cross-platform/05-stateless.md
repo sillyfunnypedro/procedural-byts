@@ -2,6 +2,8 @@
 
 **Cross-Platform** (2010), track 5
 
+[▶ Listen on Suno](https://suno.com/song/e8921699-42c0-4840-8baf-4f86750d4036)
+
 > The album app talked to the band’s server through a web API. The server never remembered anyone. That’s why it survived release day, eventually.
 
 ## Lyrics

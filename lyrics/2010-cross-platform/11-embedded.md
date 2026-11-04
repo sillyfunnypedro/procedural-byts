@@ -2,6 +2,8 @@
 
 **Cross-Platform** (2010), track 11
 
+[▶ Listen on Suno](https://suno.com/song/d5469545-abf2-4220-8eef-1db740d34471)
+
 > Recorded on gear with less memory than the band’s first tape machine.
 
 ## Lyrics

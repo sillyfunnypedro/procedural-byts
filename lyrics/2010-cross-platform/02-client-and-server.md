@@ -2,6 +2,8 @@
 
 **Cross-Platform** (2010), track 2
 
+[▶ Listen on Suno](https://suno.com/song/25dcf6b1-a955-4389-aaaf-a9a7c083755d)
+
 > Every fan who downloaded the app sent a request to the band’s server. On release day, it got four oh fours for an hour.
 
 ## Lyrics

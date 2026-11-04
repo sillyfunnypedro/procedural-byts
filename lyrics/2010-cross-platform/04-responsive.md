@@ -2,6 +2,8 @@
 
 **Cross-Platform** (2010), track 4
 
+[▶ Listen on Suno](https://suno.com/song/4cef0496-d3aa-4b02-9f63-2839fead7919)
+
 > The band’s website was rebuilt for this album to fit every screen. On the fridge, it shows only the duck.
 
 ## Lyrics

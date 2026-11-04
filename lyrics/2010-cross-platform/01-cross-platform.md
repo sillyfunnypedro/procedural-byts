@@ -2,6 +2,8 @@
 
 **Cross-Platform** (2010), track 1
 
+[▶ Listen on Suno](https://suno.com/song/729084f0-e089-4fa4-b73e-3e72b239d793)
+
 > The album was released on four platforms at once. On the first day, it worked on three of them.
 
 ## Lyrics

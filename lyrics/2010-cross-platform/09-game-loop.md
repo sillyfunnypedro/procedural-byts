@@ -2,6 +2,8 @@
 
 **Cross-Platform** (2010), track 9
 
+[▶ Listen on Suno](https://suno.com/song/23716b10-8211-4c8d-8ec4-94147d901269)
+
 > A sequel to Sixty Frames from 2004. Wyrd built a game into the album app: catch the duck.
 
 ## Lyrics

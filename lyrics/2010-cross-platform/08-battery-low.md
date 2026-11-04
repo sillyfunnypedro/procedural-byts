@@ -2,6 +2,8 @@
 
 **Cross-Platform** (2010), track 8
 
+[▶ Listen on Suno](https://suno.com/song/4a5cafea-cc80-405e-a537-9e76a38a078e)
+
 > The first version of the app kept the GPS on to show the nearest record store. It drained a full battery in an hour.
 
 ## Lyrics

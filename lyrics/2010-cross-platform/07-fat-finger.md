@@ -2,6 +2,8 @@
 
 **Cross-Platform** (2010), track 7
 
+[▶ Listen on Suno](https://suno.com/song/ea6c2f51-b0e6-414b-8d9a-7d2f34c4ecbb)
+
 > Qword’s solos didn’t fit on a phone screen in the app version. Fans kept pausing them with their thumbs.
 
 ## Lyrics
