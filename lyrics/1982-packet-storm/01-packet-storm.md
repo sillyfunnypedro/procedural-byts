@@ -2,6 +2,8 @@
 
 **Packet Storm** (1982), track 1
 
+[▶ Listen on Suno](https://suno.com/song/5fdfc808-3ec3-45a7-a5e6-40cba2512588)
+
 > The storm at the start is three tape decks playing static at once.
 
 ## Lyrics

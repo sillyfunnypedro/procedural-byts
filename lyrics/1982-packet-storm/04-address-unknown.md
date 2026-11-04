@@ -2,6 +2,8 @@
 
 **Packet Storm** (1982), track 4
 
+[▶ Listen on Suno](https://suno.com/song/046291ff-5229-420b-98a2-42c580d35342)
+
 > The four-note chant in the chorus is a real address. The band won’t say whose.
 
 ## Lyrics

@@ -2,6 +2,8 @@
 
 **Packet Storm** (1982), track 11
 
+[▶ Listen on Suno](https://suno.com/song/bdc0b7c9-a604-40c9-8072-25f475e47a5b)
+
 > In 1982 every computer on the network kept a list of every other computer’s name, in one file. This song is about why that couldn’t last.
 
 ## Lyrics

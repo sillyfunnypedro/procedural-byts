@@ -2,6 +2,8 @@
 
 **Packet Storm** (1982), track 6
 
+[▶ Listen on Suno](https://suno.com/song/6c472e63-049d-4f38-b085-f7c0cdada5b5)
+
 > Every package the band mailed during the sessions needed three letters first. This song is those letters.
 
 ## Lyrics

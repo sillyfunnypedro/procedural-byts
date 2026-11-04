@@ -2,6 +2,8 @@
 
 **Packet Storm** (1982), track 12
 
+[▶ Listen on Suno](https://suno.com/song/ef3b9d53-5ecb-4b4b-89e5-641cbbe1fcf1)
+
 > Written for January 1, 1983, the day the whole network switched to TCP/IP at once.
 
 ## Lyrics

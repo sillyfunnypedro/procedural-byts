@@ -2,6 +2,8 @@
 
 **Packet Storm** (1982), track 2
 
+[▶ Listen on Suno](https://suno.com/song/7dbfd9b4-d0c4-4218-a1fb-f91f01578e9e)
+
 > The longest song on the album, wrapped seven times.
 
 ## Lyrics

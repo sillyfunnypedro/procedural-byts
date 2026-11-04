@@ -2,6 +2,8 @@
 
 **Packet Storm** (1982), track 10
 
+[▶ Listen on Suno](https://suno.com/song/8d696253-3d2a-471e-842e-19e1aa8fb079)
+
 > The only song where the band deliberately starts quiet. It doesn’t last.
 
 ## Lyrics

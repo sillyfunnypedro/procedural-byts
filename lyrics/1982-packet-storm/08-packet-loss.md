@@ -2,6 +2,8 @@
 
 **Packet Storm** (1982), track 8
 
+[▶ Listen on Suno](https://suno.com/song/f75a9560-9ab4-43f9-8bac-db7001eda6a7)
+
 > One of Bytes’s reels never arrived. He waited three weeks, then recorded it again.
 
 ## Lyrics

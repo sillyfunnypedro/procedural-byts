@@ -2,6 +2,8 @@
 
 **Packet Storm** (1982), track 7
 
+[▶ Listen on Suno](https://suno.com/song/846274e4-f336-42b1-8759-22519839c352)
+
 > Bytes’s drum tapes really did arrive out of order. This song is how they put them back.
 
 ## Lyrics

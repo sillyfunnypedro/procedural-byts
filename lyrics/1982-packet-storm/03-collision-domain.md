@@ -2,6 +2,8 @@
 
 **Packet Storm** (1982), track 3
 
+[▶ Listen on Suno](https://suno.com/song/5dd28721-7250-448f-9807-d79edea17497)
+
 > Byt and Nyble started the solo at the same time on every take. Eventually they made that the song.
 
 ## Lyrics

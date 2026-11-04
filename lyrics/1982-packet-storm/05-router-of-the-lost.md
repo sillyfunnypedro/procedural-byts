@@ -2,6 +2,8 @@
 
 **Packet Storm** (1982), track 5
 
+[▶ Listen on Suno](https://suno.com/song/d134fad4-1616-42ee-9570-9bbd9bf74afe)
+
 > Byt’s master tapes went through four post offices to reach the studio, one of them in the wrong country.
 
 ## Lyrics

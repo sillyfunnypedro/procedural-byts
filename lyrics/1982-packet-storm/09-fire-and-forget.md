@@ -2,6 +2,8 @@
 
 **Packet Storm** (1982), track 9
 
+[▶ Listen on Suno](https://suno.com/song/02bdbde6-e194-41e2-80d0-62081f1c0ec9)
+
 > The fastest song the band recorded in the 1980s. No second takes, on principle.
 
 ## Lyrics
