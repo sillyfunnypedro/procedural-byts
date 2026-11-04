@@ -2,6 +2,8 @@
 
 **CS2: Live on the Abstract Data Tour ’85** (1985), track 3
 
+[▶ Listen on Suno](https://suno.com/song/70ac50f5-16f1-4f50-a018-885fc50a3ca3)
+
 > The crowd-oath intro became a tour tradition. In Denver, nine thousand people swore to implement every method.
 
 ## Lyrics

@@ -2,6 +2,8 @@
 
 **CS2: Live on the Abstract Data Tour ’85** (1985), track 5
 
+[▶ Listen on Suno](https://suno.com/song/1b4f0a13-c7e8-401e-88c3-b27960b215c1)
+
 > Wyrd’s keytar debut. Byt has asked not to talk about the keytar.
 
 ## Lyrics

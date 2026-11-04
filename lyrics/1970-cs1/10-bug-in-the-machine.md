@@ -2,6 +2,8 @@
 
 **CS1** (1970), track 10
 
+[▶ Listen on Suno](https://suno.com/song/26b4a871-ec4c-4a55-97aa-dd913fa9e38f)
+
 > Paranoid, skittering riff; the drums keep dropping out like something’s wrong.
 
 ## Lyrics

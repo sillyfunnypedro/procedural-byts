@@ -2,6 +2,8 @@
 
 **CS2: Live on the Abstract Data Tour ’85** (1985), track 2
 
+[▶ Listen on Suno](https://suno.com/song/e2089a99-1276-4d0c-a1b6-fbea052e394b)
+
 > Wyrd’s patch changes on this one were so fast the Tokyo crew taped the buttons down afterwards.
 
 ## Lyrics

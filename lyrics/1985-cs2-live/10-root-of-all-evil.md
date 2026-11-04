@@ -2,6 +2,8 @@
 
 **CS2: Live on the Abstract Data Tour ’85** (1985), track 10
 
+[▶ Listen on Suno](https://suno.com/song/699337b7-e89c-40a1-b384-6897e08aef50)
+
 > Null sat on top of Wyrd’s synth, the highest point on stage, which made the duck the root. Toronto said hi.
 
 ## Lyrics

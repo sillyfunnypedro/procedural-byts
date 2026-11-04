@@ -2,6 +2,8 @@
 
 **CS1** (1970), track 8
 
+[▶ Listen on Suno](https://suno.com/song/bb40a86e-def3-4f09-be68-aae674583b5a)
+
 > Funeral-march tempo that counts out every slot, starting from zero.
 
 ## Lyrics

@@ -2,6 +2,8 @@
 
 **CS1** (1970), track 11
 
+[▶ Listen on Suno](https://suno.com/song/e5f9772c-b44d-46bb-a7d0-bfc6a6f74e36)
+
 > Starts chaotic and atonal, and the riff literally falls into order by the last chorus.
 
 ## Lyrics

@@ -2,6 +2,8 @@
 
 **CS1** (1970), track 9
 
+[▶ Listen on Suno](https://suno.com/song/a41a581a-ae75-4a9d-985b-0500db446918)
+
 > Epic, galloping, with a choir of identical voices that slowly drift apart.
 
 ## Lyrics

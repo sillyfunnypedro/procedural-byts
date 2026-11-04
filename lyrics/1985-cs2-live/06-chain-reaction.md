@@ -2,6 +2,8 @@
 
 **CS2: Live on the Abstract Data Tour ’85** (1985), track 6
 
+[▶ Listen on Suno](https://suno.com/song/c6605f15-ed57-4eac-b267-898cc0234bf0)
+
 > Written on the tour bus, the Linked List, somewhere between two cities it couldn’t find its way back to.
 
 ## Lyrics

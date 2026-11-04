@@ -2,6 +2,8 @@
 
 **CS2: Live on the Abstract Data Tour ’85** (1985), track 7
 
+[▶ Listen on Suno](https://suno.com/song/e79987fc-5b25-4980-b407-af3f09362aa5)
+
 > Cleveland is where Bytes read the setlist as a stack and the band opened with the encore. They came back and did it on purpose.
 
 ## Lyrics

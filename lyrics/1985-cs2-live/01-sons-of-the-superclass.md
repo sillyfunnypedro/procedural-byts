@@ -2,6 +2,8 @@
 
 **CS2: Live on the Abstract Data Tour ’85** (1985), track 1
 
+[▶ Listen on Suno](https://suno.com/song/de2ae96d-c8b8-436c-a401-cc62923ce937)
+
 > Opens with a synth fanfare from Wyrd, the first time the crowd ever heard thirty-two bits at once.
 
 ## Lyrics

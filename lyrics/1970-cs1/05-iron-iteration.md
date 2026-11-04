@@ -2,6 +2,8 @@
 
 **CS1** (1970), track 5
 
+[▶ Listen on Suno](https://suno.com/song/d48c4559-6cec-4dd0-bd41-ed33eb0fea5a)
+
 > Slow, doom-laden riff in E, then it gallops.
 
 ## Lyrics

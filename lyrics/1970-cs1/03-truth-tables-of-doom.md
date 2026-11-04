@@ -2,6 +2,8 @@
 
 **CS1** (1970), track 3
 
+[▶ Listen on Suno](https://suno.com/song/ac1cde8a-8394-48a8-b613-b49eb8cc735c)
+
 > Grinding, chromatic riff that only ever lands on two notes: true and false.
 
 ## Lyrics

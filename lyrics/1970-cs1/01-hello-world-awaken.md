@@ -2,6 +2,8 @@
 
 **CS1** (1970), track 1
 
+[▶ Listen on Suno](https://suno.com/song/a9cae8b5-1570-4c4e-a868-095f9aae631a)
+
 > Opens with a lone, droning organ; the guitars crash in on the first print.
 
 ## Lyrics

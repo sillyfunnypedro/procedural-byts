@@ -2,6 +2,8 @@
 
 **CS2: Live on the Abstract Data Tour ’85** (1985), track 4
 
+[▶ Listen on Suno](https://suno.com/song/a58fcdd3-6692-467f-8332-29ba79e2ffc0)
+
 > The fastest song on the tour. Bytes broke two kick-drum pedals in San Francisco and caught neither.
 
 ## Lyrics

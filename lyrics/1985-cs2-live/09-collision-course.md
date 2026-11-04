@@ -2,6 +2,8 @@
 
 **CS2: Live on the Abstract Data Tour ’85** (1985), track 9
 
+[▶ Listen on Suno](https://suno.com/song/980ce358-ec95-4bc0-ac1f-88073057c3d6)
+
 > Inspired by the Hashville hotel, which put Byt and Bytes in the same room. Collision resolved by chaining. Byt slept in the bathtub.
 
 ## Lyrics

@@ -111,7 +111,8 @@
             "Hello… world… hello… world…"
           ]
         }
-      ]
+      ],
+      "suno": "https://suno.com/song/a9cae8b5-1570-4c4e-a868-095f9aae631a"
     },
     {
       "n": 2,
@@ -178,7 +179,8 @@
             "`score = score + 1;` … the box remembers."
           ]
         }
-      ]
+      ],
+      "suno": "https://suno.com/song/78b0bd3b-2bc1-49c6-b380-66c27b447f18"
     },
     {
       "n": 3,
@@ -245,7 +247,8 @@
             "Not true… is false… is false…"
           ]
         }
-      ]
+      ],
+      "suno": "https://suno.com/song/ac1cde8a-8394-48a8-b613-b49eb8cc735c"
     },
     {
       "n": 4,
@@ -333,7 +336,8 @@
             "The program obeys, or the program is falling!"
           ]
         }
-      ]
+      ],
+      "suno": "https://suno.com/song/b244c0a5-2cb6-4ba5-bdf2-ace095f4c7f6"
     },
     {
       "n": 5,
@@ -426,7 +430,8 @@
             "Then test it at the door!"
           ]
         }
-      ]
+      ],
+      "suno": "https://suno.com/song/d48c4559-6cec-4dd0-bd41-ed33eb0fea5a"
     },
     {
       "n": 6,
@@ -493,7 +498,8 @@
             "Return… return… return."
           ]
         }
-      ]
+      ],
+      "suno": "https://suno.com/song/9d2ab67a-7675-4643-a375-8fd7ed07d69e"
     },
     {
       "n": 7,
@@ -553,7 +559,8 @@
           "label": "Guitar solo: Byt",
           "desc": "Byt builds the solo one note at a time, adding a note on each pass until the full phrase is assembled: concatenation. Then he plays only notes two through five, stopping just before the sixth: substring, end not included."
         }
-      ]
+      ],
+      "suno": "https://suno.com/song/7eed17d1-4f91-4998-ae75-a972759a7383"
     },
     {
       "n": 8,
@@ -620,7 +627,8 @@
             "Zero… one… two… n minus one…"
           ]
         }
-      ]
+      ],
+      "suno": "https://suno.com/song/bb40a86e-def3-4f09-be68-aae674583b5a"
     },
     {
       "n": 9,
@@ -680,7 +688,8 @@
           "label": "Twin solo: Byt and Nyble",
           "desc": "One melody, two instruments: Byt plays it clean and high, Nyble plays it distorted and low. Same class, two instances, each with its own state. Halfway through, Byt changes one note in his line and Nyble’s stays exactly as it was."
         }
-      ]
+      ],
+      "suno": "https://suno.com/song/a41a581a-ae75-4a9d-985b-0500db446918"
     },
     {
       "n": 10,
@@ -747,7 +756,8 @@
             "Explain it to the rubber duck… the duck knows… the duck always knows."
           ]
         }
-      ]
+      ],
+      "suno": "https://suno.com/song/26b4a871-ec4c-4a55-97aa-dd913fa9e38f"
     },
     {
       "n": 11,
@@ -807,7 +817,8 @@
           "label": "Guitar solo: Byt",
           "desc": "The solo opens with the notes of a scale in scrambled order. On each pass Byt finds the lowest note left and moves it to the front, until the scale rings out bottom to top. Bytes counts the comparisons on the hi-hat, and it is a lot of hi-hat."
         }
-      ]
+      ],
+      "suno": "https://suno.com/song/e5f9772c-b44d-46bb-a7d0-bfc6a6f74e36"
     },
     {
       "n": 12,
@@ -882,7 +893,9 @@
             "And so the student becomes the programmer… and types, once more… Hello, World."
           ]
         }
-      ]
+      ],
+      "suno": "https://suno.com/song/bb1ab7fe-5cb1-480c-856c-ca3b2bd01931"
     }
-  ]
+  ],
+  "suno_playlist": "https://suno.com/playlist/5841f41a-1d2f-4a0e-a10b-87134b2c5e05"
 }

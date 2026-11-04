@@ -2,6 +2,8 @@
 
 **CS1** (1970), track 6
 
+[▶ Listen on Suno](https://suno.com/song/9d2ab67a-7675-4643-a375-8fd7ed07d69e)
+
 > Call-and-response anthem; the crowd shouts back every “Call!”
 
 ## Lyrics

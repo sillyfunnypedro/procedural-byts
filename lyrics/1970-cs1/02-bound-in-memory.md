@@ -2,6 +2,8 @@
 
 **CS1** (1970), track 2
 
+[▶ Listen on Suno](https://suno.com/song/78b0bd3b-2bc1-49c6-b380-66c27b447f18)
+
 > Mid-tempo stomp, every line lands like a hammer on an anvil.
 
 ## Lyrics

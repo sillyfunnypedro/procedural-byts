@@ -2,6 +2,8 @@
 
 **CS2: Live on the Abstract Data Tour ’85** (1985), track 12
 
+[▶ Listen on Suno](https://suno.com/song/1f054795-a9d6-4d5f-a8f5-9a01ef477d74)
+
 > The encore. The crowd asked for n more songs. The band explained that isn’t how encores work, then played one anyway.
 
 ## Lyrics

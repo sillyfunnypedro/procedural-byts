@@ -2,6 +2,8 @@
 
 **CS1** (1970), track 7
 
+[▶ Listen on Suno](https://suno.com/song/7eed17d1-4f91-4998-ae75-a972759a7383)
+
 > Side B opens with clanking chains and a twin-guitar harmony line.
 
 ## Lyrics

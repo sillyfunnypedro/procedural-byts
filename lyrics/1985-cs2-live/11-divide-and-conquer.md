@@ -2,6 +2,8 @@
 
 **CS2: Live on the Abstract Data Tour ’85** (1985), track 11
 
+[▶ Listen on Suno](https://suno.com/song/727aa887-b152-444b-8d75-7a26306db0ee)
+
 > The arena was split into two halves for the crowd sing-along, then merged. It took four tries and was worth it.
 
 ## Lyrics

@@ -2,6 +2,8 @@
 
 **CS1** (1970), track 4
 
+[▶ Listen on Suno](https://suno.com/song/b244c0a5-2cb6-4ba5-bdf2-ace095f4c7f6)
+
 > Thunderous drums, a riff that splits into two guitars at every fork.
 
 ## Lyrics

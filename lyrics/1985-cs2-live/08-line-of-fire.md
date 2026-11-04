@@ -2,6 +2,8 @@
 
 **CS2: Live on the Abstract Data Tour ’85** (1985), track 8
 
+[▶ Listen on Suno](https://suno.com/song/db0ac622-c3bf-4838-990c-2b4efbed063e)
+
 > The Quebec crowd lined up for two days. Nyble let the front of the line in first, which she says is the only correct way to run a venue.
 
 ## Lyrics

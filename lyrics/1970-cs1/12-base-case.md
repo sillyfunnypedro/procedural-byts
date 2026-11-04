@@ -2,6 +2,8 @@
 
 **CS1** (1970), track 12
 
+[▶ Listen on Suno](https://suno.com/song/bb1ab7fe-5cb1-480c-856c-ca3b2bd01931)
+
 > Eight-minute closer: each verse is a little shorter than the last, until it hits bottom and climbs back out.
 
 ## Lyrics
