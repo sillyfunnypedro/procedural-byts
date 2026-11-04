@@ -2,6 +2,8 @@
 
 **Merge Conflict** (1995), track 11
 
+[▶ Listen on Suno](https://suno.com/song/256a4371-ca23-4e23-8f7d-e430f853909b)
+
 > The rewinding sounds are the band’s actual master tapes, sampled by Wyrd.
 
 ## Lyrics

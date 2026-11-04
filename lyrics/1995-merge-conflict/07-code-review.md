@@ -2,6 +2,8 @@
 
 **Merge Conflict** (1995), track 7
 
+[▶ Listen on Suno](https://suno.com/song/b040540c-df2f-48d0-8c4f-07d9005c8b82)
+
 > Every part on the album was reviewed by another member before it reached the master tape. Every review Bytes wrote said “louder.”
 
 ## Lyrics

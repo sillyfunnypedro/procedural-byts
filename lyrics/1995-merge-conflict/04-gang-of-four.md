@@ -2,6 +2,8 @@
 
 **Merge Conflict** (1995), track 4
 
+[▶ Listen on Suno](https://suno.com/song/8dd52ee5-ca25-44cf-aa2e-c61ff8b22fa2)
+
 > Named after the four authors of the design patterns book that came out the year before. The band also has four members. They consider this a pattern.
 
 ## Lyrics

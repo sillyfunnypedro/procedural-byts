@@ -2,6 +2,8 @@
 
 **Merge Conflict** (1995), track 12
 
+[▶ Listen on Suno](https://suno.com/song/41f87a83-663d-4989-bb2f-768f688c2f15)
+
 > Nyble and Qword both rewrote this song’s chorus on the same night, in different ways. You can hear both.
 
 ## Lyrics

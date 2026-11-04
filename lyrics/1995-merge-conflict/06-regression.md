@@ -2,6 +2,8 @@
 
 **Merge Conflict** (1995), track 6
 
+[▶ Listen on Suno](https://suno.com/song/e06e0926-750b-41e8-ac6d-09fa1d125bf8)
+
 > The solo quotes every earlier solo on the album, played back to check that none of them broke.
 
 ## Lyrics

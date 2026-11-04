@@ -2,6 +2,8 @@
 
 **Merge Conflict** (1995), track 1
 
+[▶ Listen on Suno](https://suno.com/song/899808f5-1ccb-4931-957a-ec67bcf30a04)
+
 > The band surveyed their fans before writing a note. The top four answers were louder, longer, angrier and more duck.
 
 ## Lyrics

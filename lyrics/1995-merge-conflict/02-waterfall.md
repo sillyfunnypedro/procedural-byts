@@ -2,6 +2,8 @@
 
 **Merge Conflict** (1995), track 2
 
+[▶ Listen on Suno](https://suno.com/song/77669abc-a8a8-47f3-b0ba-88e91e5abcbd)
+
 > The band tried this process first. It is the main reason the album was late.
 
 ## Lyrics

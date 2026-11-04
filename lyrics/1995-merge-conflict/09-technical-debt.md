@@ -2,6 +2,8 @@
 
 **Merge Conflict** (1995), track 9
 
+[▶ Listen on Suno](https://suno.com/song/9e6b0175-b185-4d12-a0c4-9e9de1306ef3)
+
 > The phrase was coined in 1992. By 1995, the band owed a lot.
 
 ## Lyrics

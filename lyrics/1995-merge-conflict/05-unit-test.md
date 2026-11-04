@@ -2,6 +2,8 @@
 
 **Merge Conflict** (1995), track 5
 
+[▶ Listen on Suno](https://suno.com/song/ed93aec1-1aed-4530-870a-0629ab5ce260)
+
 > Every drum on the kit was tested on its own before the band played a note together.
 
 ## Lyrics

@@ -2,6 +2,8 @@
 
 **Merge Conflict** (1995), track 8
 
+[▶ Listen on Suno](https://suno.com/song/a49c4fdd-a56e-4c39-acb7-cc11824f8f5c)
+
 > The demo of this song was nine minutes long. The album version is four. It is the same song.
 
 ## Lyrics

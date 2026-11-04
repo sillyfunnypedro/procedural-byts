@@ -2,6 +2,8 @@
 
 **Merge Conflict** (1995), track 3
 
+[▶ Listen on Suno](https://suno.com/song/ffb34977-6a5f-485b-bb52-8b364d1775ac)
+
 > Every part on this song was recorded by someone who never heard the others. It still fits.
 
 ## Lyrics

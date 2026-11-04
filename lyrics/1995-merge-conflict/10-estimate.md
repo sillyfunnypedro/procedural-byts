@@ -2,6 +2,8 @@
 
 **Merge Conflict** (1995), track 10
 
+[▶ Listen on Suno](https://suno.com/song/d5b9add2-0d1b-4924-86df-da22e195d7a8)
+
 > The album came in eleven weeks late. Adding session players made it later.
 
 ## Lyrics
