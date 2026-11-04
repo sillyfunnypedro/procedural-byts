@@ -2,6 +2,8 @@
 
 **Cache Me If You Can** (2013), track 12
 
+[▶ Listen on Suno](https://suno.com/song/3e4ebac6-e909-4cb8-a103-196cb971eade)
+
 > The band cached the setlist on everyone’s phone. Nyble changed one song, and three of the four copies were wrong for a week. Third Normal Form all over again.
 
 ## Lyrics

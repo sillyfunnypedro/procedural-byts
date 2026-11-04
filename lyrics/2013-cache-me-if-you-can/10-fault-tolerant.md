@@ -2,6 +2,8 @@
 
 **Cache Me If You Can** (2013), track 10
 
+[▶ Listen on Suno](https://suno.com/song/ae78fc95-8186-4f44-94a4-6eed8e5f6e84)
+
 > On the first night of the tour, the host server’s fan failed and all four virtual machines went down at once. After that, there were two hosts.
 
 ## Lyrics

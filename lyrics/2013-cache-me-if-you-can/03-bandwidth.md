@@ -2,6 +2,8 @@
 
 **Cache Me If You Can** (2013), track 3
 
+[▶ Listen on Suno](https://suno.com/song/3b1118b9-64b5-4d47-a5fe-08f537d42776)
+
 > Named after an old joke: never underestimate the bandwidth of a station wagon full of tapes hurtling down the highway. The band tested it with a van full of hard drives.
 
 ## Lyrics

@@ -2,6 +2,8 @@
 
 **Cache Me If You Can** (2013), track 6
 
+[▶ Listen on Suno](https://suno.com/song/fc23f6cd-007d-4f54-9f26-1ddc3abe5d9d)
+
 > Every section of this song is a state, and the band can only move between them in certain ways. They drew the diagram on the setlist.
 
 ## Lyrics

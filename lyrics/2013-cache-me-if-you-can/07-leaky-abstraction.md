@@ -2,6 +2,8 @@
 
 **Cache Me If You Can** (2013), track 7
 
+[▶ Listen on Suno](https://suno.com/song/91af824c-c36d-4fb5-9fa4-c1e2b05812ed)
+
 > The virtual machines were supposed to hide the hardware completely. Then the fan failed.
 
 ## Lyrics

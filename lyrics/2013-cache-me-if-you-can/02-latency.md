@@ -2,6 +2,8 @@
 
 **Cache Me If You Can** (2013), track 2
 
+[▶ Listen on Suno](https://suno.com/song/6d7c6b36-8b57-48e2-bb29-bc3c46ddbb28)
+
 > In stadiums, the sound from the far speakers arrived a quarter of a second late. Bytes started playing to the delay, and the whole show slowed down.
 
 ## Lyrics

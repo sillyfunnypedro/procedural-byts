@@ -2,6 +2,8 @@
 
 **Cache Me If You Can** (2013), track 11
 
+[▶ Listen on Suno](https://suno.com/song/981c4531-a10c-4850-bdca-f02e8b5ea927)
+
 > Null has had perfect uptime since 1970, mostly by not doing anything.
 
 ## Lyrics

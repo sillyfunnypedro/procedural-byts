@@ -2,6 +2,8 @@
 
 **Cache Me If You Can** (2013), track 9
 
+[▶ Listen on Suno](https://suno.com/song/f3357563-4b46-4da4-9077-4bba3d72219e)
+
 > Halfway through the tour, Wyrd moved the synths out of a virtual machine and into a container. It started in one second. Everyone else’s took a minute. Wyrd has not stopped mentioning it.
 
 ## Lyrics

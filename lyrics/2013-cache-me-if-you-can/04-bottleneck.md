@@ -2,6 +2,8 @@
 
 **Cache Me If You Can** (2013), track 4
 
+[▶ Listen on Suno](https://suno.com/song/0e5ee90f-f898-4e55-9958-bf22e7ee54ad)
+
 > The band spent a week speeding up the wrong part of the show. Then they measured.
 
 ## Lyrics

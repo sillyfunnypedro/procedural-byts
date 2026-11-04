@@ -2,6 +2,8 @@
 
 **Cache Me If You Can** (2013), track 8
 
+[▶ Listen on Suno](https://suno.com/song/83766f3a-7329-412b-8404-899f2830491a)
+
 > The band toured as four virtual machines on one very loud host.
 
 ## Lyrics

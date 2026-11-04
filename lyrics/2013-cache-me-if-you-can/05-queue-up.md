@@ -2,6 +2,8 @@
 
 **Cache Me If You Can** (2013), track 5
 
+[▶ Listen on Suno](https://suno.com/song/63b29215-0236-49fe-8d38-348aa13ef951)
+
 > The merch line at the first show moved fine until it was ninety percent full. Then it took two hours.
 
 ## Lyrics

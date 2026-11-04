@@ -2,6 +2,8 @@
 
 **Cache Me If You Can** (2013), track 1
 
+[▶ Listen on Suno](https://suno.com/song/3e167336-8954-45f0-b1e9-050c233c8f0f)
+
 > The band cached the setlist on every phone for this tour. That was the easy part.
 
 ## Lyrics
