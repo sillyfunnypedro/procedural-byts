@@ -2,6 +2,8 @@
 
 **Buffer Overflow** (1998), track 6
 
+[▶ Listen on Suno](https://suno.com/song/ae1303c6-ad28-4a32-ab12-784559aab51e)
+
 > The title track. The last chorus is deliberately one line too long.
 
 ## Lyrics

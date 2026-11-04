@@ -2,6 +2,8 @@
 
 **Buffer Overflow** (1998), track 8
 
+[▶ Listen on Suno](https://suno.com/song/4743d20f-13f3-459e-91d0-fd342ed90b5a)
+
 > The master tapes went to the pressing plant in a locked case, with the key sent by a different courier. The case arrived first and sat there for a week.
 
 ## Lyrics

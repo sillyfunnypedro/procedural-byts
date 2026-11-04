@@ -2,6 +2,8 @@
 
 **Buffer Overflow** (1998), track 3
 
+[▶ Listen on Suno](https://suno.com/song/99b2b922-2a17-4730-9246-346650a8cafd)
+
 > Bytes’s password was “drums.” Then “drums1.” Then “Drums1!” This song is the intervention.
 
 ## Lyrics

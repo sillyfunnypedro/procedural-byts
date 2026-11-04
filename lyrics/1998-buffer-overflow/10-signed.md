@@ -2,6 +2,8 @@
 
 **Buffer Overflow** (1998), track 10
 
+[▶ Listen on Suno](https://suno.com/song/94b84012-d869-46c1-8130-a15b19348bb4)
+
 > Every copy of the album was signed with Nyble’s private key. The band signed them with a pen too.
 
 ## Lyrics

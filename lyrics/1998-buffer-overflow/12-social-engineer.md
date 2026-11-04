@@ -2,6 +2,8 @@
 
 **Buffer Overflow** (1998), track 12
 
+[▶ Listen on Suno](https://suno.com/song/06ba71c9-838a-4ac0-806c-e89ece64fee9)
+
 > About the first night of the 1998 tour, when a fan walked past security by saying “I’m with the duck.” It worked.
 
 ## Lyrics

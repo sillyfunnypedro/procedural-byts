@@ -2,6 +2,8 @@
 
 **Buffer Overflow** (1998), track 7
 
+[▶ Listen on Suno](https://suno.com/song/b7430a7e-eda4-493b-8b9d-6a295a41ca3a)
+
 > A callback to Third Normal Form. The database is fine. The input is the problem.
 
 ## Lyrics

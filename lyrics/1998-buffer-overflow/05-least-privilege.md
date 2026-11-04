@@ -2,6 +2,8 @@
 
 **Buffer Overflow** (1998), track 5
 
+[▶ Listen on Suno](https://suno.com/song/a49b216f-d184-40e0-9d19-9ad1abf241ab)
+
 > Recorded with the studio’s door codes changed for every session. Only the engineer had all of them.
 
 ## Lyrics

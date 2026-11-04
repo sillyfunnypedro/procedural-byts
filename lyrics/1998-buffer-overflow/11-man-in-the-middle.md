@@ -2,6 +2,8 @@
 
 **Buffer Overflow** (1998), track 11
 
+[▶ Listen on Suno](https://suno.com/song/b74e6260-ce5c-4f3b-9857-a1c34342397e)
+
 > The vocals on this one pass through Wyrd’s sampler between Nyble and the microphone. Listen closely, and some words change.
 
 ## Lyrics

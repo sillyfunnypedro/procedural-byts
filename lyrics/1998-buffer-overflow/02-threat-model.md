@@ -2,6 +2,8 @@
 
 **Buffer Overflow** (1998), track 2
 
+[▶ Listen on Suno](https://suno.com/song/dbbef2ec-e497-4b63-9e24-9da1447a8949)
+
 > The band threat-modeled the 1998 tour. The answer to almost every question was “the duck.”
 
 ## Lyrics

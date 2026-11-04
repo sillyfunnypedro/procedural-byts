@@ -2,6 +2,8 @@
 
 **Buffer Overflow** (1998), track 9
 
+[▶ Listen on Suno](https://suno.com/song/3968a972-8ce5-415f-955f-e169c809d8bd)
+
 > The solution to the master-tape problem: a lock anyone can close, but only Nyble can open.
 
 ## Lyrics

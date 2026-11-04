@@ -2,6 +2,8 @@
 
 **Buffer Overflow** (1998), track 4
 
+[▶ Listen on Suno](https://suno.com/song/61bc0dd2-57f7-475c-884c-8e95eb130c62)
+
 > After the night in the story, backstage passes needed two factors: the pass, and the answer to a question. The question is “what does the duck say?”
 
 ## Lyrics

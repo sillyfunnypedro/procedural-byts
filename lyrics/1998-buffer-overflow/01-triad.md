@@ -2,6 +2,8 @@
 
 **Buffer Overflow** (1998), track 1
 
+[▶ Listen on Suno](https://suno.com/song/c411dc52-aae1-4576-b759-a3a01094a810)
+
 > Opens with the sound of the band’s first modem connecting to the internet, slowed down to half speed.
 
 ## Lyrics
