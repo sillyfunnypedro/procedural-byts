@@ -2,6 +2,8 @@
 
 **Superposition** (2024), track 1
 
+[▶ Listen on Suno](https://suno.com/song/83136946-d1a0-4872-b0ee-9031e0b656a0)
+
 > The first song recorded with Byt since 1988. Or the first song recorded without him. Both, until you listen.
 
 ## Lyrics

@@ -2,6 +2,8 @@
 
 **Superposition** (2024), track 8
 
+[▶ Listen on Suno](https://suno.com/song/38754513-f649-40ef-8c1e-f7deacd8b248)
+
 > A sequel to Index of Doom, and to every search the band has ever done.
 
 ## Lyrics

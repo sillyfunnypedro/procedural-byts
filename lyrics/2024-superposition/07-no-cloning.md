@@ -2,6 +2,8 @@
 
 **Superposition** (2024), track 7
 
+[▶ Listen on Suno](https://suno.com/song/7777eabd-cdb7-4023-b8f4-5757d844a0f6)
+
 > Bytes tried to make a backup copy of Byt, in case he disappeared again. It can’t be done.
 
 ## Lyrics

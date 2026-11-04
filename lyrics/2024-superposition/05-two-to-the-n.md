@@ -2,6 +2,8 @@
 
 **Superposition** (2024), track 5
 
+[▶ Listen on Suno](https://suno.com/song/287709b3-5ad8-4c61-adbd-d02be54310b8)
+
 > A sequel to Order of Growth from 1985. This time, the exponential is on our side. Sort of.
 
 ## Lyrics

@@ -2,6 +2,8 @@
 
 **Superposition** (2024), track 12
 
+[▶ Listen on Suno](https://suno.com/song/801beed4-b404-44f0-bb73-f61596774f85)
+
 > The band asked a quantum computer to help finish the album faster. It said that wasn’t the kind of problem it was good at.
 
 ## Lyrics

@@ -2,6 +2,8 @@
 
 **Superposition** (2024), track 6
 
+[▶ Listen on Suno](https://suno.com/song/2de64797-e36f-4ff6-8a0c-dd735cc24d7e)
+
 > Since 2024, whenever Nyble starts a song, Byt starts the same song somewhere else at the same moment. Nobody has worked out where.
 
 ## Lyrics

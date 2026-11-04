@@ -2,6 +2,8 @@
 
 **Superposition** (2024), track 4
 
+[▶ Listen on Suno](https://suno.com/song/faecf57e-fd65-46f3-a31b-b89057394369)
+
 > A sequel to Matrix Transform from 2004. Quantum gates are matrices too.
 
 ## Lyrics

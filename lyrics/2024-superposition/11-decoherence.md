@@ -2,6 +2,8 @@
 
 **Superposition** (2024), track 11
 
+[▶ Listen on Suno](https://suno.com/song/e76a1361-332c-43ec-8b2c-91924bdcea1f)
+
 > Byt can stay in superposition for about the length of a song. Then he drifts away again, until the next one.
 
 ## Lyrics

@@ -2,6 +2,8 @@
 
 **Superposition** (2024), track 9
 
+[▶ Listen on Suno](https://suno.com/song/8327eedc-ddc6-4ee4-a832-4d4efd5057bb)
+
 > A sequel to Public Key from 1998. The lock that only Nyble could open has a problem.
 
 ## Lyrics

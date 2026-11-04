@@ -2,6 +2,8 @@
 
 **Superposition** (2024), track 3
 
+[▶ Listen on Suno](https://suno.com/song/4728f200-2ba6-4001-8897-7715bee6b23b)
+
 > Recorded with Wyrd and Qword deliberately half a beat out of phase. It took eleven takes to get the cancellation right.
 
 ## Lyrics

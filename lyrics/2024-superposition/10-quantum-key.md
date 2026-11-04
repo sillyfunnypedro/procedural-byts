@@ -2,6 +2,8 @@
 
 **Superposition** (2024), track 10
 
+[▶ Listen on Suno](https://suno.com/song/3c510e4d-2774-4b95-b122-2f1d4bc28fb7)
+
 > A sequel to Man in the Middle from 1998. This time, the band can tell when someone is listening.
 
 ## Lyrics

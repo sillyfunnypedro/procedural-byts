@@ -2,6 +2,8 @@
 
 **Superposition** (2024), track 2
 
+[▶ Listen on Suno](https://suno.com/song/4f2f6dc5-da82-47ce-b12b-1174fe51f509)
+
 > Every time someone checked whether Byt was really back, the answer came out yes or no at random. The band stopped checking.
 
 ## Lyrics

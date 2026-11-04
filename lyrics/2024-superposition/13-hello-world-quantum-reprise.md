@@ -2,6 +2,8 @@
 
 **Superposition** (2024), track 13
 
+[▶ Listen on Suno](https://suno.com/song/65f7b527-b0aa-4d94-bc9e-cf4160fe84d2)
+
 > The first song the band ever played, in every style they have ever played it in, with every member who was ever in the band. The album ends before anyone checks.
 
 ## Lyrics
