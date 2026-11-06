@@ -2,7 +2,7 @@
 """Add Suno listen links for one album, from a public Suno playlist.
 
 Usage:
-    python3 tools/add_suno_links.py <album-slug> <suno-playlist-url> [--dry-run]
+    python3 tools/add_suno_links.py <album-slug> <suno-playlist-or-album-url> [--dry-run]
     python3 tools/add_suno_links.py cs1 https://suno.com/playlist/5841f41a-...
 
 What it does:
@@ -62,12 +62,18 @@ def fetch(url):
 
 
 def playlist_songs(page):
-    """[(title, url)] in playlist order, from the rendered song-title links."""
+    """[(title, url)] in order, from a playlist or album page."""
     out, seen = [], set()
     for sid, title in re.findall(r'href="/song/(' + UUID + r')"[^>]*>([^<]+)</a>', page):
         if sid not in seen:
             seen.add(sid)
             out.append((html.unescape(title).strip(), "https://suno.com/song/" + sid))
+    if not out:  # album pages carry the songs only in their embedded data
+        data = page.replace('\\"', '"')
+        for title, sid in re.findall(r'"title":"([^"]*)",[^{}]{0,300}?"id":"(' + UUID + r')","entity_?[tT]ype":"song_schema"', data):
+            if sid not in seen:
+                seen.add(sid)
+                out.append((html.unescape(title).strip(), "https://suno.com/song/" + sid))
     return out
 
 
@@ -124,10 +130,10 @@ def main():
     page_path = os.path.join(ROOT, "docs", "albums", f"{a.slug}.html")
     lyrics_dir = os.path.join(ROOT, "lyrics", os.path.basename(data_path)[:-5])
 
-    m = re.search(r"playlist/(" + UUID + ")", a.playlist)
+    m = re.search(r"(playlist|album)/(" + UUID + ")", a.playlist)
     if not m:
-        sys.exit("playlist URL should look like https://suno.com/playlist/<id>")
-    playlist_url = "https://suno.com/playlist/" + m.group(1)
+        sys.exit("URL should look like https://suno.com/playlist/<id> or https://suno.com/album/<id>")
+    playlist_url = f"https://suno.com/{m.group(1)}/{m.group(2)}"
 
     album = json.load(open(data_path, encoding="utf-8"))
     found = playlist_songs(fetch(playlist_url))

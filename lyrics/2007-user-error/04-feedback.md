@@ -2,6 +2,8 @@
 
 **User Error** (2007), track 4
 
+[▶ Listen on Suno](https://suno.com/song/b66b8d59-1307-4adc-adcd-d244befa7000)
+
 > The studio’s tape machine had no light to show it was recording. Three songs were lost before anyone noticed.
 
 ## Lyrics

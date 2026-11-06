@@ -2,6 +2,8 @@
 
 **User Error** (2007), track 12
 
+[▶ Listen on Suno](https://suno.com/song/6757be36-78e8-451a-9f8b-4f60659a7896)
+
 > The first pressing of this album came in packaging nobody could open. The band undid it, and the second pressing has a tab that says “pull here.”
 
 ## Lyrics

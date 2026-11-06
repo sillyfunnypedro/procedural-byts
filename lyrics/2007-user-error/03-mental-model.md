@@ -2,6 +2,8 @@
 
 **User Error** (2007), track 3
 
+[▶ Listen on Suno](https://suno.com/song/72b5dfe2-66dc-48fc-98c6-43c9cdf2aeae)
+
 > Bytes turned the studio thermostat all the way up every morning to make it warm faster. It never did.
 
 ## Lyrics

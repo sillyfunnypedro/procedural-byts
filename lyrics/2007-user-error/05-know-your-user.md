@@ -2,6 +2,8 @@
 
 **User Error** (2007), track 5
 
+[▶ Listen on Suno](https://suno.com/song/fc4a55b0-9d42-4236-a5f7-2f0b40ebd26b)
+
 > Before writing the album, the band spent a week answering fan mail by phone. Bytes still talks to two of the callers.
 
 ## Lyrics

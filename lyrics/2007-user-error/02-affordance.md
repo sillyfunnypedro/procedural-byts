@@ -2,6 +2,8 @@
 
 **User Error** (2007), track 2
 
+[▶ Listen on Suno](https://suno.com/song/02b2380e-610d-44f0-b6d7-37834d9df817)
+
 > The studio door had a big handle but could only be pushed. Everyone pulled it, every day, for six weeks.
 
 ## Lyrics

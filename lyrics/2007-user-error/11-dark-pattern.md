@@ -2,6 +2,8 @@
 
 **User Error** (2007), track 11
 
+[▶ Listen on Suno](https://suno.com/song/c6d8f28c-e479-4d6e-9a4f-d1a99a07ad69)
+
 > The label wanted the mailing-list box pre-checked and the unsubscribe link hidden. The band refused and wrote this instead. The name “dark pattern” came three years later; the tricks were already everywhere.
 
 ## Lyrics

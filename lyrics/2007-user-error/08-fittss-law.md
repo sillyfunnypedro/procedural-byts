@@ -2,6 +2,8 @@
 
 **User Error** (2007), track 8
 
+[▶ Listen on Suno](https://suno.com/song/b38b8bd9-e1a1-4581-94e7-a599ae003b3d)
+
 > Qword wrote this solo with big targets close together. Qword has never missed it live.
 
 ## Lyrics

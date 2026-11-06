@@ -2,6 +2,8 @@
 
 **User Error** (2007), track 10
 
+[▶ Listen on Suno](https://suno.com/song/a9287627-6ff6-41a2-91f7-992d981d9e39)
+
 > A fan wrote to say the band’s website read the tour dates to her screen reader as “image, image, image.” The band rebuilt the site. This song is for her.
 
 ## Lyrics

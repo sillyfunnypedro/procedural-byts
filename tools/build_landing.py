@@ -78,7 +78,7 @@ a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 {rows}
 </tbody>
 </table>
-<p class="note">Play opens the album's playlist on Suno. Click an album name for its lyrics, lessons and liner notes.</p>
+<p class="note">Play opens the album on Suno. Click an album name for its lyrics, lessons and liner notes.</p>
 
 <footer><p class="metal" style="font-size:1.5rem;margin:0;font-style:normal">Procedural Byts</p><p>{ready} of {total} albums ready to play.</p></footer>
 </main>

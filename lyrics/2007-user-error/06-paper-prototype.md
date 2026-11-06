@@ -2,6 +2,8 @@
 
 **User Error** (2007), track 6
 
+[▶ Listen on Suno](https://suno.com/song/6b2d10dd-a6c0-4ee1-bb6a-3e9dd2f26d61)
+
 > Wyrd drew the band’s new website on index cards and tested it with fans before writing a line of code. Three cards were thrown away. The site works.
 
 ## Lyrics

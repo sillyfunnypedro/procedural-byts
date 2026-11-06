@@ -2,6 +2,8 @@
 
 **User Error** (2007), track 7
 
+[▶ Listen on Suno](https://suno.com/song/42cfe4d9-4d25-4ee1-b18b-1d1aca90df9f)
+
 > The band asked five fans to buy a concert ticket on the website while saying everything they were thinking. All five failed. One bought a T-shirt by accident.
 
 ## Lyrics

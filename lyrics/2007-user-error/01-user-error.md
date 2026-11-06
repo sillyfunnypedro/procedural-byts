@@ -2,6 +2,8 @@
 
 **User Error** (2007), track 1
 
+[▶ Listen on Suno](https://suno.com/song/4cc15f0c-ca42-4766-a732-ab2c848e3267)
+
 > Bytes said “user error” once, in 2007. This song is Nyble’s reply.
 
 ## Lyrics

@@ -2,6 +2,8 @@
 
 **User Error** (2007), track 9
 
+[▶ Listen on Suno](https://suno.com/song/ee947463-fed2-44c4-bf57-55e621440bad)
+
 > The main riff is seven notes long. Nobody in the band could remember the original twelve-note version.
 
 ## Lyrics
