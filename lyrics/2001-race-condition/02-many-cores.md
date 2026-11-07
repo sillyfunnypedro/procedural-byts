@@ -2,6 +2,8 @@
 
 **Race Condition** (2001), track 2
 
+[▶ Listen on Suno](https://suno.com/song/e320ebe9-6e0e-4614-9fe1-bed7b9cfc623)
+
 > The first multicore processor shipped in 2001. The band bought a machine with two and named each core after a member. Wyrd and Bytes are still arguing about who got left out.
 
 ## Lyrics

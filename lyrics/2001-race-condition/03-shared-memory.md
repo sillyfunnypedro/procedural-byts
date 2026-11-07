@@ -2,6 +2,8 @@
 
 **Race Condition** (2001), track 3
 
+[▶ Listen on Suno](https://suno.com/song/95e0029e-dbe8-4381-990f-746aa8d3e71f)
+
 > Nyble and Wyrd both recorded into the same bar of tape on this song. Neither knew the other was doing it.
 
 ## Lyrics

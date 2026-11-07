@@ -2,6 +2,8 @@
 
 **Race Condition** (2001), track 10
 
+[▶ Listen on Suno](https://suno.com/song/d99f5475-333c-4fe0-bbb1-e6ca43cc4a79)
+
 > In the snowstorm that split the tour, the two buses lost contact for two days. Each assumed the other had crashed. Neither had.
 
 ## Lyrics

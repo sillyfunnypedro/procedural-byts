@@ -2,6 +2,8 @@
 
 **Race Condition** (2001), track 1
 
+[▶ Listen on Suno](https://suno.com/song/ca313b5e-971d-4d3a-93cb-916cd3f220dd)
+
 > Version one of two. In this version, Nyble’s tape machine started first and the song resolves. The other version is hidden at the end of the album.
 
 ## Lyrics

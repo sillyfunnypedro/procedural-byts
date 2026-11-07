@@ -2,6 +2,8 @@
 
 **Race Condition** (2001), track 8
 
+[▶ Listen on Suno](https://suno.com/song/6a5171c9-b9de-479e-8883-0b90bb693049)
+
 > The intro is the same eight bars no matter how many musicians join in. That’s the point.
 
 ## Lyrics

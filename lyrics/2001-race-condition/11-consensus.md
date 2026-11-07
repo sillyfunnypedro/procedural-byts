@@ -2,6 +2,8 @@
 
 **Race Condition** (2001), track 11
 
+[▶ Listen on Suno](https://suno.com/song/ff2a7c87-2a9a-45f8-b7da-4b7714d6d3ed)
+
 > With four members, every vote tied two to two, so they started counting Null as a fifth vote. The duck abstains every time.
 
 ## Lyrics

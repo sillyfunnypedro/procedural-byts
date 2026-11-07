@@ -2,6 +2,8 @@
 
 **Race Condition** (2001), track 12
 
+[▶ Listen on Suno](https://suno.com/song/5d27cc15-0527-46de-893f-a9ba86e83ef7)
+
 > The theorem was announced in 2000. The band read about it on the tour bus during the snowstorm and wrote this the same night.
 
 ## Lyrics

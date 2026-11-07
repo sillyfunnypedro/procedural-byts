@@ -2,6 +2,8 @@
 
 **Race Condition** (2001), track 5
 
+[▶ Listen on Suno](https://suno.com/song/ae723974-8e92-4edd-97ec-7b44d3e02adf)
+
 > Every chorus on this song waits until all four members have arrived, even if someone gets there early.
 
 ## Lyrics

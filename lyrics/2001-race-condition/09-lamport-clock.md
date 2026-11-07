@@ -2,6 +2,8 @@
 
 **Race Condition** (2001), track 9
 
+[▶ Listen on Suno](https://suno.com/song/6a1c1e13-4ed9-471c-bba7-f62c7990a976)
+
 > Every member’s tape machine ran at a slightly different speed. The band stopped trying to agree on the time and agreed on the order instead.
 
 ## Lyrics

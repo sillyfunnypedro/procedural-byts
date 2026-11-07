@@ -2,6 +2,8 @@
 
 **Race Condition** (2001), track 4
 
+[▶ Listen on Suno](https://suno.com/song/a2f6e38c-0efb-4b7a-8e2f-f0a3887dbee1)
+
 > The rap verse was supposed to be Bytes’s alone. Nyble kept stepping on it until they agreed to pass the microphone like a lock.
 
 ## Lyrics

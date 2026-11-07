@@ -2,6 +2,8 @@
 
 **Race Condition** (2001), track 6
 
+[▶ Listen on Suno](https://suno.com/song/c4d4f7c8-0e66-4d9b-92a8-0a64680fecd3)
+
 > Recorded with Nyble and Bytes in different cities, sending parts back and forth. They had done this before, in 1982.
 
 ## Lyrics

@@ -2,6 +2,8 @@
 
 **Race Condition** (2001), track 13
 
+[▶ Listen on Suno](https://suno.com/song/4d906490-b538-431c-a75e-4a4522326fd5)
+
 > Hidden track. Version two of two. In this version, Bytes’s tape machine started first, the chorus came in a bar early, and the song never recovers.
 
 ## Lyrics

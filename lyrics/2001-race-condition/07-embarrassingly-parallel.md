@@ -2,6 +2,8 @@
 
 **Race Condition** (2001), track 7
 
+[▶ Listen on Suno](https://suno.com/song/4aed54e8-1e3a-4b50-bae6-c910d981faf1)
+
 > The easiest song on the album to record: everyone played their part with no one else in the room, and it still fit.
 
 ## Lyrics
