@@ -70,7 +70,7 @@ a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 <main class="wrap">
 <h1 class="metal">Procedural Byts</h1>
 <p class="sub">A fictional metal band whose albums cover the computer science curriculum, one decade and one genre at a time. Every song teaches one concept. Pick an album and press play.</p>
-<nav class="cond" aria-label="Site"><a href="about.html">The band &amp; full discography</a><a href="making-of.html">The making of</a></nav>
+<nav class="cond" aria-label="Site"><a href="about.html">The band &amp; full discography</a><a href="making-of.html">The making of</a><a href="https://github.com/sillyfunnypedro/procedural-byts">Source on GitHub</a></nav>
 
 <table>
 <thead><tr class="cond"><th>Year</th><th>Album</th><th>What it covers</th><th class="go">Listen</th></tr></thead>
@@ -80,7 +80,7 @@ a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 </table>
 <p class="note">Play opens the album on Suno. Click an album name for its lyrics, lessons and liner notes.</p>
 
-<footer><p class="metal" style="font-size:1.5rem;margin:0;font-style:normal">Procedural Byts</p><p>{ready} of {total} albums ready to play.</p></footer>
+<footer><p class="metal" style="font-size:1.5rem;margin:0;font-style:normal">Procedural Byts</p><p>{ready} of {total} albums ready to play.</p><p><a href="https://github.com/sillyfunnypedro/procedural-byts">Source on GitHub</a></p></footer>
 </main>
 </body>
 </html>
