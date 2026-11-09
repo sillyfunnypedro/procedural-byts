@@ -2,6 +2,8 @@
 
 **Rasterize** (2004), track 10
 
+[▶ Listen on Suno](https://suno.com/song/1eb7c4a8-8270-4562-828b-57c99c75b1a7)
+
 > In the first render, Qword’s guitar had edges like a staircase. Qword took it personally.
 
 ## Lyrics

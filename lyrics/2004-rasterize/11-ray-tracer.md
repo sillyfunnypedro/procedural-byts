@@ -2,6 +2,8 @@
 
 **Rasterize** (2004), track 11
 
+[▶ Listen on Suno](https://suno.com/song/fbef1b51-ab86-40fb-bc9b-a9ea5b07ca59)
+
 > The music video’s final shot was ray traced. It took four computers three weeks. The band only knew how to split it up because of 2001.
 
 ## Lyrics

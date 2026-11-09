@@ -2,6 +2,8 @@
 
 **Rasterize** (2004), track 6
 
+[▶ Listen on Suno](https://suno.com/song/05176672-1a68-4186-85da-74bec2f30f59)
+
 > In 2004, graphics cards had just become programmable. The band recorded this one standing in a row, passing each part down the line.
 
 ## Lyrics

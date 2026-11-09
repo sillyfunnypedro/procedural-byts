@@ -2,6 +2,8 @@
 
 **Rasterize** (2004), track 12
 
+[▶ Listen on Suno](https://suno.com/song/71e260c1-b08a-4bcf-8fde-bc2e8c80b9c0)
+
 > The music video ran at sixty frames per second. The duck, at twelve triangles, finished rendering before each frame had even started.
 
 ## Lyrics

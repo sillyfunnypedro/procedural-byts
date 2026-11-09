@@ -2,6 +2,8 @@
 
 **Rasterize** (2004), track 9
 
+[▶ Listen on Suno](https://suno.com/song/0be3c589-f3f0-4a61-aed0-1e11de52f78b)
+
 > Every member’s face in the video was a photograph wrapped around twelve hundred triangles. Null’s was a photograph wrapped around twelve.
 
 ## Lyrics

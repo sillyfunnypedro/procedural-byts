@@ -2,6 +2,8 @@
 
 **Rasterize** (2004), track 7
 
+[▶ Listen on Suno](https://suno.com/song/86cfd14e-31d2-442b-93ac-5dd434648ca1)
+
 > In the first render of the music video, Bytes appeared in front of Nyble, through his own drum kit. This song fixed it.
 
 ## Lyrics

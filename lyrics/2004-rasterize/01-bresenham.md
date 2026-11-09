@@ -2,6 +2,8 @@
 
 **Rasterize** (2004), track 1
 
+[▶ Listen on Suno](https://suno.com/song/8b4048e1-15f9-4263-8803-4e8b21fe0cbc)
+
 > The first thing Wyrd ever drew on a computer screen, back in 1985, was a single straight line. The album starts there because everything on a screen does.
 
 ## Lyrics

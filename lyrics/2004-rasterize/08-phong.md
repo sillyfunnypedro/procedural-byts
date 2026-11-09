@@ -2,6 +2,8 @@
 
 **Rasterize** (2004), track 8
 
+[▶ Listen on Suno](https://suno.com/song/b7f3bfe1-ecf5-4688-a84d-412ae2e0b1c1)
+
 > Named after Bui Tuong Phong, who invented this lighting model in 1975. The highlight in the solo is the highest note on the album.
 
 ## Lyrics

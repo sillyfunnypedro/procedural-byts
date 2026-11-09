@@ -2,6 +2,8 @@
 
 **Rasterize** (2004), track 2
 
+[▶ Listen on Suno](https://suno.com/song/77867cec-137d-41e6-ade9-98ba6135e8bf)
+
 > Every color on the album cover is listed in the liner notes as three numbers.
 
 ## Lyrics

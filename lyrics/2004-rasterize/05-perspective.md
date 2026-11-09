@@ -2,6 +2,8 @@
 
 **Rasterize** (2004), track 5
 
+[▶ Listen on Suno](https://suno.com/song/934ccf84-9d64-4acc-a593-e4f207b9907a)
+
 > The music video’s camera starts in the back row of the crowd and flies toward the stage. Everything gets bigger. That’s the song.
 
 ## Lyrics

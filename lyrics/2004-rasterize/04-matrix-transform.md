@@ -2,6 +2,8 @@
 
 **Rasterize** (2004), track 4
 
+[▶ Listen on Suno](https://suno.com/song/55fcf454-764a-456a-a6b1-43a604f46b00)
+
 > In the music video, every member was moved, spun and scaled by a matrix. Bytes asked to be scaled up. The request was denied.
 
 ## Lyrics

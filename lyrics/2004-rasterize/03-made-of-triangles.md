@@ -2,6 +2,8 @@
 
 **Rasterize** (2004), track 3
 
+[▶ Listen on Suno](https://suno.com/song/a81a7bb2-1610-4899-ac0b-3f95a39bb4ac)
+
 > Null was modeled with twelve triangles in the music video. The fans liked the low-poly duck better than the real one.
 
 ## Lyrics
